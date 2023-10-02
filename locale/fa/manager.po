@@ -2527,6 +2527,19 @@ msgstr ""
 "این ایمیل خودکار برای نویسنده ارسال می شود تا پس از پذیرش ارسال، هزینه "
 "انتشار را بپردازد."
 
+msgid "plugins.importexport.common.error.import.issueGalleyFileMissing"
+msgstr "An issue galley could not be imported, its file is missing."
+
+msgid "plugins.importexport.common.error.issueGalleyFileMissing"
+msgstr ""
+"The issue galley {$id} could not be exported, its file was not found at the "
+"path \"{$path}\"."
+
+msgid "plugins.importexport.common.error.issueCoverImageMissing"
+msgstr ""
+"The cover image of the issue {$id} was not exported, its file was not found "
+"at the path \"{$path}\"."
+
 #~ msgid "manager.setup.masthead.description"
 #~ msgstr "لیست دبیران، مدیران و سایر افرادی که با این مجله همکاری می‌کنند."
 
