@@ -1,0 +1,3764 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-19T10:49:46+00:00\n"
+"PO-Revision-Date: 2023-10-11 12:17+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "manager.website.information"
+msgstr "اطلاعات"
+
+msgid "manager.website.appearance"
+msgstr "نمای اصلی"
+
+msgid "manager.website.imageFileRequired"
+msgstr ""
+"وارد کردن فایل تصویر الزامی است، مطمئن شوید که تصویر را انتخاب و آپلود کرده "
+"باشید."
+
+msgid "manager.announcements"
+msgstr "اطلاعیه‌ها"
+
+msgid "manager.announcements.confirmDelete"
+msgstr "آیا می‌خواهید برای همیشه این اطلاعیه را حذف کنید؟"
+
+msgid "manager.announcements.create"
+msgstr "ایجاد اطلاعیه جدید"
+
+msgid "manager.announcements.createTitle"
+msgstr "ایجاد"
+
+msgid "manager.announcements.dateExpire"
+msgstr "انقضا"
+
+msgid "manager.announcements.datePublish"
+msgstr "منتشر شده"
+
+msgid "manager.announcements.deleteAnnouncement"
+msgstr "Delete Announcement"
+
+msgid "manager.announcements.edit"
+msgstr "ویرایش اطلاعیه"
+
+msgid "manager.announcements.editTitle"
+msgstr "ویرایش"
+
+msgid "manager.announcements.form.dateExpireDayIncompleteDate"
+msgstr "لطفاً علاوه بر روز ، ماه یا سال انقضا را نیز انتخاب کنید"
+
+msgid "manager.announcements.form.dateExpire"
+msgstr "تاریخ انقضا"
+
+msgid "manager.announcements.form.dateExpireInstructions"
+msgstr ""
+"اطلاعیه تا این تاریخ در معرض دید خواهد بود. اگر می‌خواهید برای همیشه اطلاعیه"
+" نمایش داده شود این قسمت را خالی بگذارید"
+
+msgid "manager.announcements.form.dateExpireMonthIncompleteDate"
+msgstr "لطفاً علاوه بر ماه ، روز یا سال انقضا را نیز انتخاب کنید"
+
+msgid "manager.announcements.form.dateExpireValid"
+msgstr "لطفاً تاریخ صحیحی برای انقضای اطلاعیه وارد کنید"
+
+msgid "manager.announcements.form.dateExpireYearIncompleteDate"
+msgstr "لطفاً علاوه بر سال ، ماه یا روز انقضا را نیز انتخاب کنید"
+
+msgid "manager.announcements.form.description"
+msgstr "توصیف"
+
+msgid "manager.announcements.form.descriptionInstructions"
+msgstr "متن کامل اطلاعیه"
+
+msgid "manager.announcements.form.descriptionRequired"
+msgstr "یک توصیف برای اطلاعیه لازم است"
+
+msgid "manager.announcements.form.descriptionShortInstructions"
+msgstr "یک توصیف مختصر که همراه با عنوان اطلاعیه ظاهر شود."
+
+msgid "manager.announcements.form.descriptionShortRequired"
+msgstr "یک توصیف مختصر برای اطلاعیه لازم است"
+
+msgid "manager.announcements.form.descriptionShort"
+msgstr "توصیف مختصر"
+
+msgid "manager.announcements.form.saveAndCreateAnother"
+msgstr "ذخیره و ایجاد مورد"
+
+msgid "manager.announcements.form.titleRequired"
+msgstr "عنوان اطلاعیه لازم است"
+
+msgid "manager.announcements.form.title"
+msgstr "عنوان"
+
+msgid "manager.announcements.form.typeId"
+msgstr "نوع"
+
+msgid "manager.announcements.form.typeIdValid"
+msgstr "لطفاً نوع صحیحی برای اطلاعیه انتخاب کنید"
+
+msgid "manager.announcements.noneCreated"
+msgstr "هیچ اطلاعیه‌ای ایجاد نشده است"
+
+msgid "manager.announcements.title"
+msgstr "عنوان"
+
+msgid "manager.announcements.type"
+msgstr "نوع"
+
+msgid "manager.announcementTypes"
+msgstr "انواع اطلاعیه‌ها"
+
+msgid "manager.announcementTypes.confirmDelete"
+msgstr ""
+"اخطار! تمام اطلاعیه‌های از این نوع از بین خواهد رفت. آیا مطمئن هستید که "
+"می‌خواهید این نوع اطلاعیه را حذف کنید؟"
+
+msgid "manager.announcementTypes.create"
+msgstr "ایجاد نوع اطلاعیه"
+
+msgid "manager.announcementTypes.createTitle"
+msgstr "ایجاد"
+
+msgid "manager.announcementTypes.edit"
+msgstr "ویرایش نوع اطلاعیه"
+
+msgid "manager.announcementTypes.editTitle"
+msgstr "ویرایش"
+
+msgid "manager.announcementTypes.form.saveAndCreateAnother"
+msgstr "ذخیره و ایجاد یک مورد دیگر"
+
+msgid "manager.announcementTypes.form.typeNameExists"
+msgstr "نوع اطلاعیه‌ای با این نام هم اکنون وجود دارد"
+
+msgid "manager.announcementTypes.form.typeName"
+msgstr "نام"
+
+msgid "manager.announcementTypes.form.typeNameRequired"
+msgstr "نامی برای نوع اطلاعیه لازم است"
+
+msgid "manager.announcementTypes.noneCreated"
+msgstr "هیچ نوع اطلاعیه‌ای ایجاد نشده است"
+
+msgid "manager.announcementTypes.typeName"
+msgstr "نوع اطلاعیه"
+
+msgid "manager.dois.actions.deposit.all"
+msgstr "Deposit All"
+
+msgid "manager.dois.actions.deposit.label"
+msgstr "Deposit DOIs"
+
+msgid "manager.dois.actions.deposit.prompt"
+msgstr ""
+"You are about to send DOI metadata records for {$count} item(s) to "
+"{$registrationAgency}. Are you sure you want to deposit these records?"
+
+msgid "manager.dois.actions.markRegistered.label"
+msgstr "Mark DOIs Registered"
+
+msgid "manager.dois.actions.markRegistered.prompt"
+msgstr ""
+"You are about to mark DOI metadata records for {$count} item(s) as "
+"registered. Are you sure you want to mark these records as registered?"
+
+msgid "manager.dois.actions.markUnregistered.label"
+msgstr "Mark DOIs Unregistered"
+
+msgid "manager.dois.actions.markUnregistered.prompt"
+msgstr ""
+"You are about to mark DOI metadata records for {$count} item(s) as "
+"unregistered. Are you sure you want to mark these records as unregistered?"
+
+msgid "manager.dois.actions.markStale.label"
+msgstr "Mark DOIs Needs Sync"
+
+msgid "manager.dois.actions.markStale.prompt"
+msgstr ""
+"You are about to mark DOI metadata records for {$count} item(s) as needing "
+"to be synced. The Needs Sync status can only be applied to previously "
+"submitted DOIs. Are you sure you want to mark these records as stale?"
+
+msgid "manager.dois.actions.export.label"
+msgstr "Export DOIs"
+
+msgid "manager.dois.actions.export.prompt"
+msgstr ""
+"You are about to export DOI metadata records for {$count} item(s) for "
+"{$registrationAgency}. Are you sure you want to export these records?"
+
+msgid "manager.dois.actions.assign.label"
+msgstr "Assign DOIs"
+
+msgid "manager.dois.actions.assign.prompt"
+msgstr ""
+"You are about to assign new DOIs to {$count} item(s) for any eligible item "
+"that does not already have a DOI assigned. Are you sure you want to assign "
+"DOIs to these items?"
+
+msgid "manager.dois.actions.depositAll.label"
+msgstr "Deposit all DOIs"
+
+msgid "manager.dois.actions.depositAll.prompt"
+msgstr ""
+"You are about to schedule all outstanding DOI metadata records to be "
+"deposited with {$registrationAgency}. Only published items with a DOI will "
+"be deposited. Each item's status will be updated when a response is "
+"received. Are you sure you want to schedule deposits for all of these items?"
+
+msgid "manager.dois.actions.description"
+msgstr "Take action on {$count} selected item(s)."
+
+msgid "manager.dois.actions.bulkActions"
+msgstr "Bulk Actions"
+
+msgid "manager.dois.depositStatus"
+msgstr "Deposit Status"
+
+msgid "manager.dois.publicationStatus"
+msgstr "Publication Status"
+
+msgid "manager.dois.registration.submittedDescription"
+msgstr ""
+"The metadata for this item has been submitted to {$registrationAgency}."
+
+msgid "manager.dois.registration.manuallyMarkedRegistered"
+msgstr "This item has been manually registered with a registration agency."
+
+msgid "manager.dois.registration.notSubmittedDescription"
+msgstr ""
+"The metadata for this item has not been submitted to {$registrationAgency}."
+
+msgid "manager.dois.registration.notPublishedDescription"
+msgstr "This item cannot be deposited until it has been published."
+
+msgid "manager.dois.registration.viewError"
+msgstr "View Error"
+
+msgid "manager.dois.registration.viewError.title"
+msgstr "Registration Error Message"
+
+msgid "manager.dois.registration.viewRecord"
+msgstr "View Record"
+
+msgid "manager.dois.registration.viewRecord.title"
+msgstr "Successful Registration Message"
+
+msgid "manger.dois.update.success"
+msgstr "DOI(s) successfully updated"
+
+msgid "manager.dois.registration.depositDois"
+msgstr "Deposit DOI(s)"
+
+msgid "manager.dois.status.needsDoi"
+msgstr "Needs DOI"
+
+msgid "manager.dois.status.unregistered"
+msgstr "Unregistered"
+
+msgid "manager.dois.status.submitted"
+msgstr "Submitted"
+
+msgid "manager.dois.status.registered"
+msgstr "Registered"
+
+msgid "manager.dois.status.error"
+msgstr "Error"
+
+msgid "manager.dois.status.error.filterTitle"
+msgstr "Has Error"
+
+msgid "manager.dois.status.stale"
+msgstr "Needs Sync"
+
+msgid "manager.dois.filters.doiAssigned"
+msgstr "DOI Assigned"
+
+msgid "manager.dois.status.needsDoi.description"
+msgstr "All items missing a DOI."
+
+msgid "manager.dois.filters.doiAssigned.description"
+msgstr "All items assigned a DOI."
+
+msgid "manager.dois.status.unregistered.description"
+msgstr ""
+"All items with a DOI that have been published but not yet deposited with a "
+"registration agency."
+
+msgid "manager.dois.status.submitted.description"
+msgstr "All items that have been submitted to a registration agency."
+
+msgid "manager.dois.status.registered.description"
+msgstr ""
+"All items that have been registered with a registration agency or manually "
+"marked as registered."
+
+msgid "manager.dois.status.error.description"
+msgstr "All items that have encountered an error in the registration process."
+
+msgid "manager.dois.status.stale.description"
+msgstr ""
+"All items that have been republished since they were last deposited with a "
+"registration agency. They need to be resubmitted to the registration agency "
+"to update their metadata records."
+
+msgid "manager.dois.update.failedCreation"
+msgstr "DOI Updates Failed"
+
+msgid "manager.dois.update.partialFailure"
+msgstr "Some DOI(s) could not be updated"
+
+msgid "manager.dois.notification.exportSuccess"
+msgstr "Items successfully exported"
+
+msgid "manager.dois.notification.markRegisteredSuccess"
+msgstr "Items successfully marked registered"
+
+msgid "manager.dois.notification.markUnregisteredSuccess"
+msgstr "Items successfully marked unregistered"
+
+msgid "manager.dois.notification.markStaleSuccess"
+msgstr "Items successfully marked needs sync"
+
+msgid "manager.dois.notification.assignDoisSuccess"
+msgstr "Items successfully assigned new DOIs"
+
+msgid "manager.dois.notification.depositQueuedSuccess"
+msgstr "Items successfully submitted for deposit"
+
+msgid "manager.dois.help.statuses.title"
+msgstr "DOI Statuses"
+
+msgid "manager.dois.settings.relocated"
+msgstr ""
+"DOI management has moved. Please see the <a href=\"{$doiManagementUrl}\">DOI"
+" management</a> and <a href=\"{$doiSettingsUrl}\">DOI settings</a> pages."
+
+msgid "manager.dois.settings.prefixRequired"
+msgstr ""
+"DOIs cannot be assigned unless you provide your assigned DOI prefix. <a "
+"href=\"{$doiSettingsUrl}\">Add DOI prefix</a>."
+
+msgid "doi.exceptions.missingPrefix"
+msgstr ""
+"Tried to create a DOI, but a DOI prefix is required for the context to "
+"create one."
+
+msgid "manager.genres.alertDelete"
+msgstr ""
+"Before this component can be deleted, you must associate all related "
+"submission files with a different component."
+
+msgid "manager.institutions.edit"
+msgstr "Edit Institution"
+
+msgid "manager.institutions.form.ror"
+msgstr "ROR"
+
+msgid "manager.institutions.form.ror.description"
+msgstr "Research Organization Registry ID for this institution."
+
+msgid "manager.institutions.form.ipRanges"
+msgstr "IP ranges"
+
+msgid "manager.institutions.form.ipRangesInstructions"
+msgstr ""
+"Valid values include an IP address (e.g. 142.58.103.1), IP range (e.g. "
+"142.58.103.1 - 142.58.103.4), IP range with wildcard '*' (e.g. 142.58.*.*), "
+"and an IP range with CIDR (e.g. 142.58.100.0/24)."
+
+msgid "manager.institutions.deleteInstitution"
+msgstr "Delete Institution"
+
+msgid "manager.institutions.confirmDelete"
+msgstr "Are you sure you want to continue and delete this institution?"
+
+msgid "manager.institutions.invalidIPRange"
+msgstr "Invalid IP range"
+
+msgid "manager.publication.submissionStage"
+msgstr "ارسال مقاله"
+
+msgid "manager.publication.reviewStage"
+msgstr "داوری"
+
+msgid "manager.publication.editorialStage"
+msgstr "ویراستاری"
+
+msgid "manager.publication.productionStage"
+msgstr "تولید"
+
+msgid "manager.publication.emails"
+msgstr "ایمیل"
+
+msgid "manager.publication.reviewerGuidance"
+msgstr "Reviewer Guidance"
+
+msgid "manager.publication.reviewReminders.success"
+msgstr "The review reminder details have been updated."
+
+msgid "manager.dois.title"
+msgstr "DOIs"
+
+msgid "manager.dois.registrationAgency.errorMessagePreamble"
+msgstr ""
+"The following error was returned by {$registrationAgency} and contains "
+"details about the cause of the error:"
+
+msgid "manager.dois.registrationAgency.registeredMessagePreamble"
+msgstr ""
+"The following message was returned by {$registrationAgency} and contains "
+"details about the registration:"
+
+msgid "manager.emails.addEmail"
+msgstr "Add Template"
+
+msgid "manager.emails.createEmail"
+msgstr "ایجاد ایمیل"
+
+msgid "manager.emails.data"
+msgstr "الگوی پیام"
+
+msgid "manager.emails.details"
+msgstr "جزئیات الگو"
+
+msgid "manager.emails.disable"
+msgstr "غیرفعال ساختن"
+
+msgid "manager.emails.disable.message"
+msgstr ""
+"شما در حال غیرفعال کردن این الگوی ایمیل هستید. اگر سیستم در حال استفاده از "
+"این الگو باشد، ممکن است دچار اختلال شود. آیا مطمئن به ادامه این کار هستید؟"
+
+msgid "manager.emails.editTestExample"
+msgstr "ویرایش ایمیل آزمایشی"
+
+msgid "manager.emails.emailTemplate"
+msgstr "الگوی ایمیل"
+
+msgid "manager.emails.emailTemplates"
+msgstr "Email Templates"
+
+msgid "manager.emails.otherTemplates"
+msgstr "Other Templates"
+
+msgid "manager.emails.emailTemplate.contextRequired"
+msgstr "You must provide a context ID when adding an email template."
+
+msgid "manager.emails.enabled"
+msgstr "فعال ساختن این الگوی ایمیل"
+
+msgid "manager.emails.enable"
+msgstr "فعال ساختن"
+
+msgid "manager.emails.enable.message"
+msgstr "در حال فعال‌سازی این ایمیل، از این عمل مطمئنید؟"
+
+msgid "manager.emails.form.emailKeyRequired"
+msgstr "یک شناسه منحصربه‌فرد برای ایمیل لازم است"
+
+msgid "manager.emails.form.bodyRequired"
+msgstr "متن اصلی برای این ایمیل لازم است"
+
+msgid "manager.emails.form.subjectRequired"
+msgstr "یک موضوع برای این ایمیل لازم است."
+
+msgid "manager.emails"
+msgstr "ایمیل‌های از پیش آماده شده"
+
+msgid "manager.emails.resetAll"
+msgstr "Reset All"
+
+msgid "manager.emails.resetAll.message"
+msgstr ""
+"اگر تمامی الگوها را رست کنید، تمامی تغییرات انجام شده بر روی الگوها از دست "
+"خواهد رفت. مطمئن به ادامه این کار هستید؟"
+
+msgid "manager.emails.reset.message"
+msgstr ""
+"اگر این الگو را رست کنید، تمامی تغییرات آن به حالت پیش‌فرض بر خواهد گشت. "
+"مطمئن به ادامه این کار هستید؟"
+
+msgid "manager.emails.resetToDefault"
+msgstr "برگرداندن به حالت نخست"
+
+msgid "manager.emails.sentFrom"
+msgstr "Sent From"
+
+msgid "manager.emails.sentTo"
+msgstr "Sent To"
+
+msgid "manager.export.usersToCsv.label"
+msgstr "Export to Excel/CSV"
+
+msgid "manager.export.usersToCsv.description"
+msgstr "Select the users to be exported to an Excel/CSV file."
+
+msgid "manager.filesBrowser"
+msgstr "مرورگر فایل‌ها"
+
+msgid "manager.files.confirmDelete"
+msgstr ""
+"آیا این فایل یا پوشه را حذف کنم؟ دقت داشته باشید که یک پوشه باید قبل از حذف "
+"شدن خالی شده باشد"
+
+msgid "manager.files.createDir"
+msgstr "ایجاد پوشه"
+
+msgid "manager.files.emptyDir"
+msgstr ".هیچ فایلی در این پوشه پیدا نشد"
+
+msgid "manager.files.indexOfDir"
+msgstr "اقلام موجود در {$dir}"
+
+msgid "manager.files.parentDir"
+msgstr "پوشه مادر"
+
+msgid "manager.files.uploadedFiles"
+msgstr "فایل‌های آپلود شده"
+
+msgid "manager.files.uploadFile"
+msgstr "آپلود کردن فایل"
+
+msgid "manager.groups.confirmDelete"
+msgstr "آیا می‌خواهید این گروه را حذف کنید؟"
+
+msgid "manager.groups.createTitle"
+msgstr "ایجاد عنوان"
+
+msgid "manager.groups.editTitle"
+msgstr "ویرایش عنوان"
+
+msgid "manager.groups.form.groupTitleRequired"
+msgstr "عنوان گروه لازم است"
+
+msgid "manager.groups.membership.addMember"
+msgstr "افزودن عضو"
+
+msgid "manager.groups.membership.confirmDelete"
+msgstr "آیا می‌خواهید عضویت این گروه را لغو کنید؟"
+
+msgid "manager.groups.membership"
+msgstr "عضویت"
+
+msgid "manager.groups.membership.noneCreated"
+msgstr "این گروه عضوی ندارد"
+
+msgid "manager.groups.membership.noUsers"
+msgstr "کاربری یافت نشد"
+
+msgid "manager.groups.title"
+msgstr "عنوان"
+
+msgid "manager.importExport"
+msgstr "برون دهی / درون‌ریزی داده‌ها"
+
+msgid "manager.language.ui"
+msgstr "رابط کاربری"
+
+msgid "manager.language.submissions"
+msgstr "مقالات ارسالی"
+
+msgid "manager.language.forms"
+msgstr "فرم‌ها"
+
+msgid "manager.language.reloadLocalizedDefaultSettings"
+msgstr "بارگذاری مجدد پیش‌فرض‌ها"
+
+msgid "manager.languages.alternateLocaleInstructions"
+msgstr ""
+"در این سیستم می‌توان اطلاعات مهم خاصی را به حداکثر دو زبان وارد کرد. برای "
+"استفاده از این گزینه یک یا دو زبان فرعی را انتخاب کرده و از لیست گزینه‌های "
+"زیر موارد دلخواه خود را انتخاب کنید."
+
+msgid "manager.languages.supportedLocalesInstructions"
+msgstr ""
+"تمام زبان‌هایی را که می‌خواهید در سایت موجود باشد و کاربر بتواند از منوی "
+"انتخاب زبان آن‌ها را انتخاب کند را تعیین کنید. منوی انتخاب زبان فقط زمانی "
+"ظاهر می‌شود که بیش از یک زبان انتخاب کرده باشید."
+
+msgid "manager.payment.timestamp"
+msgstr "برچسب زمان"
+
+msgid "manager.people.existingUserRequired"
+msgstr "کاربر موجود باید وارد شود."
+
+msgid "manager.people.confirmUnenroll"
+msgstr "عزل نقش این کاربر"
+
+msgid "manager.people.createUser"
+msgstr "ایجاد کاربر جدید"
+
+msgid "manager.people.createUserGeneratePassword"
+msgstr "تولید یک رمز عبور تصادفی"
+
+msgid "manager.people.createUserSendNotify"
+msgstr "ارسال ایمیل خوش‌آمد به کاربر و ارسال نام کاربری و رمز عبور با آن"
+
+msgid "manager.people.disable"
+msgstr "غیرفعال کردن"
+
+msgid "manager.people.doNotEnroll"
+msgstr "بدون نقش"
+
+msgid "manager.people.editProfile"
+msgstr "ویرایش پرونده"
+
+msgid "manager.people.editUser"
+msgstr "ویرایش کاربر"
+
+msgid "manager.people.emailUsers.emailSelectedUsers"
+msgstr "ارسال ایمیل به کاربران انتخاب شده"
+
+msgid "manager.people.emailUsers.emailUsersEnrolledAs"
+msgstr "ارسال ایمیل به کاربران دارای نقش "
+
+msgid "manager.people.emailUsers"
+msgstr "ارسال ایمیل به کاربران"
+
+msgid "manager.people.emailUsers.selectLocale"
+msgstr "انتخاب یک زبان"
+
+msgid "manager.people.emailUsers.selectUsers"
+msgstr "با تیک زدن کاربران مورد نظرتان آن‌ها را برای ارسال ایمیل انتخاب کنید"
+
+msgid "manager.people.enable"
+msgstr "فعال کردن"
+
+msgid "manager.people.enroll"
+msgstr "اعطای نقش به کاربر"
+
+msgid "manager.people.enrollment"
+msgstr "اعطای نقش"
+
+msgid "manager.people.enrollSelected"
+msgstr "اعطای نقش به کاربران انتخاب شده"
+
+msgid "manager.people.enrollSyncRole"
+msgstr "هماهنگ‌سازی نقش "
+
+msgid "manager.people.enrollSync"
+msgstr "هماهنگ‌سازی نقش‌ها"
+
+msgid "manager.people.enrollUserAsDescription"
+msgstr ""
+"اگر هیچ نقشی انتخاب نشود کاربر ایجاد می‌شود ولی هیچ نقشی در مجله ندارد. "
+"اعطای نقش و یا عزل نقش بعداً در هر زمانی نیز مقدور است."
+
+msgid "manager.people.enrollUserAs"
+msgstr "انتساب کاربر به نقش"
+
+msgid "manager.people.invalidUser"
+msgstr "متأسفانه کاربر درخواست شده موجود نیست"
+
+msgid "manager.people.mergeUser"
+msgstr "ادغام کاربر"
+
+msgid "manager.people.mergeUsers.confirm"
+msgstr ""
+"آیا مطمئن هستید که می‌خواهید حساب کاربری \"{$oldAccountCount}\" را با حساب "
+"کاربری\"{$newUsername}\" ادغام کنید؟ بعد از ادغام حساب "
+"کاربری\"{$oldAccountCount}\" دیگر وجود نخواهد داشت . این عملیات قابل بازگشت "
+"نیست."
+
+msgid "manager.people.mergeUsers"
+msgstr "ادغام کاربران"
+
+msgid "manager.people.mustChooseRole"
+msgstr ""
+"لطفاً قبل از کلیک بر روی اعطای نقش, نقش مورد نظر را از لیست بالای صفحه "
+"انتخاب کنید."
+
+msgid "manager.people.mustProvideName"
+msgstr "لطفاً نام خانوادگی کاربر را وارد کنید"
+
+msgid "manager.people.noMatchingUsers"
+msgstr "کاربری با این مشخصات یافت نشد."
+
+msgid "manager.people.noneEnrolled"
+msgstr "کاربری بدون نقش "
+
+msgid "manager.people"
+msgstr "کاربران"
+
+msgid "manager.people.remove"
+msgstr "حذف"
+
+msgid "manager.people.saveAndCreateAnotherUser"
+msgstr "ذخیره  و ایجاد کاربر دیگر"
+
+msgid "manager.people.signedInAs"
+msgstr "You are currently logged in as {$username}"
+
+msgid "manager.people.signInAs"
+msgstr "ورود به عنوان"
+
+msgid "manager.people.signInAsUser"
+msgstr "ورود به عنوان کاربر"
+
+msgid "manager.people.syncUsers"
+msgstr "هماهنگ‌سازی اعطای نقش به کاربر"
+
+msgid "manager.people.unenroll"
+msgstr "عزل نقش"
+
+msgid "manager.people.userCreatedSuccessfully"
+msgstr "کاربر با موفقیت ایجاد شد"
+
+msgid "manager.people.userMustChangePassword"
+msgstr "لازم است که کاربر در نوبت ورود بعدی به سیستم رمز عبور خود را عوض کند."
+
+msgid "manager.plugins.action"
+msgstr "اقدام:"
+
+msgid "manager.plugins.disable"
+msgstr "غیر فعال‌سازی"
+
+msgid "manager.plugins.enable"
+msgstr "فعال‌سازی"
+
+msgid "manager.plugins.pluginManagement"
+msgstr "مدیریت افزونه‌ها"
+
+msgid "manager.plugins.sitePlugin"
+msgstr ""
+"این افزونه مربوط به کل سایت است. فقط مدیر سایت می‌تواند آن را تغییر دهد"
+
+msgid "manager.plugins"
+msgstr "افزونه‌های سیستم"
+
+msgid "manager.readingTools"
+msgstr "ابزارهای خواندن"
+
+msgid "manager.userSearch.searchByName"
+msgstr "جستجوی کاربر با نام"
+
+msgid "manager.representative.inUse"
+msgstr ""
+"You can not delete this representative because they are assigned to the "
+"market metadata for one or more publication formats for this submission."
+
+msgid "manager.reviewerSearch.change"
+msgstr "تغییر"
+
+msgid "manager.reviewerSearch.searchByName"
+msgstr "جستجوی داور بر اساس نام"
+
+msgid "manager.reviewerSearch.searchByName.short"
+msgstr "جستجو با نام"
+
+msgid "manager.reviewerSearch.interests"
+msgstr "Reviewing Interests"
+
+msgid "manager.reviewerSearch.form.instructions"
+msgstr ""
+"Use the form below to set the maximum values for the terms you wish to "
+"search for.  The form is pre-populated with the calculated averages of those"
+" fields."
+
+msgid "manager.roles"
+msgstr "نقش‌ها"
+
+msgid "manager.setup.statistics"
+msgstr "Statistics"
+
+msgid "manager.settings.statistics.geoUsageStats"
+msgstr "Geographical Statistics"
+
+msgid "manager.settings.statistics.geoUsageStats.description"
+msgstr ""
+"Select the type of geographical usage statistics to collect. More detailed "
+"geographical statistics may increase your database size considerably and, in"
+" some rare cases, may undermine the anonymity of your visitors."
+
+msgid "manager.settings.statistics.geoUsageStats.disabled"
+msgstr "Do not collect any geographical data"
+
+msgid "manager.settings.statistics.geoUsageStats.countryLevel"
+msgstr "Collect the visitor's country"
+
+msgid "manager.settings.statistics.geoUsageStats.regionLevel"
+msgstr "Collect the visitor's country and region"
+
+msgid "manager.settings.statistics.geoUsageStats.cityLevel"
+msgstr "Collect the visitor's country, region and city"
+
+msgid "manager.settings.statistics.institutionUsageStats"
+msgstr "Institutional Statistics"
+
+msgid "manager.settings.statistics.institutionUsageStats.description"
+msgstr ""
+"Enable institutional statistics if you would like to collect usage "
+"statistics by institution. If enabled, you will need to configure the IP "
+"ranges for each institution you want to track."
+
+msgid "manager.settings.statistics.institutionUsageStats.enable"
+msgstr "Enable institutional statistics"
+
+msgid "manager.settings.statistics.publicSushiApi"
+msgstr "Public API"
+
+msgid "manager.settings.statistics.publicSushiApi.description"
+msgstr ""
+"Whether or not to restrict access to the API endpoints for COUNTER SUSHI "
+"statistics. If unchecked, the API will only be accessible to users with "
+"admin or manager roles."
+
+msgid "manager.settings.statistics.publicSushiApi.public"
+msgstr "Make the COUNTER SUSHI statistics publicly available"
+
+#, fuzzy
+msgid "manager.statistics.reports"
+msgstr "تولیدگر گزارش "
+
+msgid "manager.statistics.reports.description"
+msgstr ""
+"سیستم بر اساس جزئیات مشخص شده و بر پایه میزان استفاده از سامانه و مقالات "
+"ارسالی در بازه زمانی داده شده، گزارشی تولید خواهد نمود. این گزارش در فرمت "
+"CSV تولید می‌شود."
+
+msgid "manager.statistics.reports.month.label"
+msgstr "استفاده از فرمت YYYYMM ."
+
+msgid "manager.statistics.reports.day.label"
+msgstr "استفاده از فرمت YYYYMMDD ."
+
+msgid "manager.affiliationAndSupport"
+msgstr "حامی مالی"
+
+msgid "manager.setup.dois"
+msgstr "DOIs"
+
+msgid "manager.setup.dois.setup"
+msgstr "Setup"
+
+msgid "manager.setup.dois.registration"
+msgstr "Registration"
+
+msgid "doi.manager.settings.doiPrefix"
+msgstr "DOI Prefix"
+
+msgid "doi.manager.setup.automaticDeposit"
+msgstr "Automatic Deposit"
+
+msgid "doi.manager.setup.automaticDeposit.enable"
+msgstr "Enable automatic depositing"
+
+msgid "doi.manager.setup.automaticDeposit.description"
+msgstr ""
+"The DOI registration and metadata can be automatically deposited with the "
+"selected registration agency whenever an item with a DOI is published. "
+"Automatic deposit will happen at scheduled intervals and each DOI's "
+"registration status can be monitored from the DOI management page."
+
+msgid "doi.manager.settings.doiPrefix.description"
+msgstr ""
+"پیشوند DOI توسط مراجع ثبت کننده اختصاص داده می شود (برای مثال <a "
+"href=\"http://www.crossref.org\" target=\"_new\">Crossref</a>) و فرمت آن به "
+"صورت 10.xxxx می باشد (مانند 10.1234)"
+
+msgid "doi.manager.settings.doiPrefixPattern"
+msgstr ""
+"The DOI prefix is required and must be in the the following format: 10.xxxx."
+
+msgid "doi.manager.settings.doiCreationTime.label"
+msgstr "Automatic DOI Assignment"
+
+msgid "doi.manager.settings.doiCreationTime.description"
+msgstr "When should a submission be assigned a DOI?"
+
+msgid "doi.manager.settings.doiCreationTime.publication"
+msgstr "Upon publication"
+
+msgid "doi.manager.settings.doiCreationTime.never"
+msgstr "Never"
+
+msgid "manager.setup.doiPrefix"
+msgstr "DOI Prefix"
+
+msgid "doi.manager.settings.doiObjects"
+msgstr "محتوای مجله"
+
+msgid "doi.manager.settings.doiPrefix.required"
+msgstr "A DOI prefix is required"
+
+msgid "doi.manager.settings.doiSuffix"
+msgstr "پسوند DOI"
+
+msgid "doi.manager.settings.doiSuffix.pattern"
+msgstr "DOI Suffix"
+
+msgid "doi.manager.settings.doiSuffix.custom"
+msgstr "Custom DOI Suffix Pattern"
+
+msgid "doi.manager.settings.enabledDoiTypes.error"
+msgstr ""
+"One or more selected DOI types are not allowed for the configured DOI "
+"registration agency."
+
+msgid "doi.manager.settings.doiSuffix.description"
+msgstr ""
+"پشوند DOI میتواند در هر فرمتی باشد فقط باید توجه شود که به ازای یک پیشوند "
+"اختصاص داده شده DOI، این پسوندها منحصر به فرد باشد"
+
+msgid "doi.manager.settings.doiSuffixDefault"
+msgstr "استفاده از الگوی پیشفرض"
+
+msgid "doi.manager.settings.doiSuffixManual"
+msgstr ""
+"None - Suffixes must be entered manually on the <a "
+"href=\"{$doiManagementUrl}\">DOI management page</a> and will not be "
+"generated automatically"
+
+msgid "doi.manager.settings.doiSuffixUserDefined"
+msgstr "Custom pattern - (not recommended)"
+
+msgid "doi.manager.settings.registrationAgency"
+msgstr "Registration Agency"
+
+msgid "doi.manager.settings.registrationAgency.description"
+msgstr ""
+"Please select the registration agency you would like to use when depositing "
+"DOIs."
+
+msgid "doi.manager.settings.registrationAgency.noPluginsEnabled.label"
+msgstr "No Registration Agency Enabled"
+
+msgid "doi.manager.settings.registrationAgency.noPluginsEnabled.description"
+msgstr ""
+"DOIs can be automatically minted and deposited with a registration agency. "
+"To use this feature, locate and install a plugin from the appropriate "
+"registration agency."
+
+msgid "doi.manager.settings.registrationAgency.none"
+msgstr "None"
+
+msgid "doi.manager.settings.doiVersioning"
+msgstr "DOI Versioning"
+
+msgid "doi.authorization.enabledRequired"
+msgstr "You cannot call this operation without DOIs enabled."
+
+msgid "doi.manager.versions.countStatement"
+msgstr "There are {$count} versions."
+
+msgid "doi.manager.versions.view"
+msgstr "View all"
+
+msgid "doi.manager.versions.modalTitle"
+msgstr "DOIs for all versions"
+
+msgid "doi.editor.doiSuffixInvalidCharacters"
+msgstr "The DOI contains invalid characters."
+
+msgid "manager.setup.publishing"
+msgstr "Publishing Details"
+
+msgid "manager.setup.publishingDescription"
+msgstr "نام ناشر در صفحه «درباره مجله» خواهد آمد."
+
+msgid "manager.setup.additionalContent"
+msgstr "سایر اطلاعات"
+
+msgid "manager.setup.additionalContent.description"
+msgstr "هر اطلاعات دیگری که می‌خواهید در صفحه‌ی اصلی نمایش داده شود"
+
+msgid "manager.setup.advanced"
+msgstr "Advanced"
+
+msgid "manager.setup.copyrightNotice"
+msgstr "بیانیه حق نشر"
+
+msgid "manager.setup.copyrightNotice.description"
+msgstr ""
+"نیاز به موافقت نویسنده با بیانیه حق نشر به عنوان قسمتی از روند ارسال مقاله."
+"  "
+
+msgid "manager.setup.authorGuidelines"
+msgstr "دستورالعمل ارسال مقاله"
+
+msgid "manager.setup.authorGuidelines.description"
+msgstr "دستورالعمل‌های ارسال مقال شامل فرمت نوشته و نحوه ارجاع دهی است."
+
+msgid "manager.setup.disableSubmissions"
+msgstr "Disable Submissions"
+
+msgid "manager.setup.checklist"
+msgstr "Checklist"
+
+msgid "manager.setup.competingInterests"
+msgstr "تضاد منافع"
+
+msgid "manager.setup.errorDeletingItem"
+msgstr "هنگام حذف این مورد خطایی رخ داد"
+
+msgid "manager.setup.favicon"
+msgstr "Favicon"
+
+msgid "manager.setup.homepageImage"
+msgstr "تصویر صفحه‌ی اصلی"
+
+msgid "manager.setup.homepageImage.description"
+msgstr "آپلود یک تصویر برای نمایش دادن در صفحه‌ی اصلی"
+
+msgid "manager.setup.homepageImageInvalid"
+msgstr ""
+"فرمت تصویر صفحه خانگی نامناسب است. فرمت‌های پشتیبانی شده عبارت است از: gif، "
+"png، jpg"
+
+msgid "manager.setup.homeTitleImageInvalid"
+msgstr ""
+"فرمت تصویر عنوان سرتیتر صفحه خانگی نامعتبر است. فرمت‌های پشتیبانی شده عبارت "
+"است از: gif، png، jpg"
+
+msgid "manager.setup.information.descriptionTitle"
+msgstr "توضیحات"
+
+msgid "manager.setup.layout.sidebar"
+msgstr "نوار حاشیه"
+
+msgid "manager.setup.layout.sidebar.invalidBlock"
+msgstr ""
+"The {$name} block can not be found. Please make sure the plugin is installed"
+" and enabled."
+
+msgid "manager.setup.loggingAndAuditing"
+msgstr "ورود و حسابرسی"
+
+msgid "manager.setup.logo"
+msgstr "لوگو"
+
+msgid "manager.setup.noTemporaryFile"
+msgstr ""
+"The file you uploaded could not be found. Please try to upload it again."
+
+msgid "manager.setup.notifications"
+msgstr "اطلاع‌رسانی ارسال مقاله توسط نویسنده"
+
+msgid "manager.setup.notifications.copySpecifiedAddress"
+msgstr "ارسال رونوشت به این ایمیل"
+
+msgid "manager.setup.notifyAllAuthors"
+msgstr "Notify All Authors"
+
+msgid "manager.setup.notifyAllAuthors.description"
+msgstr ""
+"Who should receive a notification email when an editorial decision is "
+"recorded?"
+
+msgid "manager.setup.notifyAllAuthors.allAuthors"
+msgstr "Send an email notification to all authors of the submission."
+
+msgid "manager.setup.notifyAllAuthors.assignedAuthors"
+msgstr ""
+"Only send an email to authors assigned to the submission workflow. Usually, "
+"this is the submitting author."
+
+msgid "manager.setup.submissionsNotifications"
+msgstr "Notifications"
+
+msgid "manager.setup.notifications.copySubmissionAckPrimaryContact"
+msgstr "Notify Primary Contact"
+
+msgid "manager.setup.notifications.copySubmissionAckPrimaryContact.enabled"
+msgstr "Yes, send a copy to {$email}"
+
+msgid "manager.setup.notifications.copySubmissionAckPrimaryContact.disabled"
+msgstr "No"
+
+msgid "manager.setup.notifications.copySubmissionAckAddress"
+msgstr "Notify Anyone"
+
+msgid "manager.setup.notifications.copySubmissionAckAddress.description"
+msgstr ""
+"A copy of the submission acknowledgement email will be sent to any of the "
+"email addresses entered here. Separate multiple email addresses with a "
+"comma. Example: one@example.com,two@example.com"
+
+msgid "manager.setup.notifications.copySubmissionAckAddress.invalid"
+msgstr "One or more of these email addresses is not valid."
+
+msgid "manager.setup.notifications.description"
+msgstr ""
+"نویسندگان به صورت خودکار ایمیلی برای اطلاع‌رسانی از مقاله ارسالی خود ارسال "
+"می‌کنند. ممکن است مایل باشید تا رونوشتی از این ایمیل‌ها به لیست زیر نیز "
+"ارسال شود:"
+
+msgid "manager.setup.notifyUsers"
+msgstr "Notify"
+
+msgid "manager.setup.notifyUsers.description"
+msgstr "Select the users who should receive your email notification."
+
+msgid "manager.setup.notifyUsers.copyDetails"
+msgstr "Send a copy of this email to me at {$email}."
+
+msgid "manager.setup.notifyUsers.send"
+msgstr "Send Email"
+
+msgid "manager.setup.notifyUsers.confirm"
+msgstr ""
+"You are about to send an email to {$total} users. Are you sure you want to "
+"send this email?"
+
+msgid "manager.setup.notifyUsers.sending"
+msgstr ""
+
+msgid "manager.setup.notifyUsers.sent"
+msgstr ""
+
+msgid "manager.setup.notifyUsers.sendAnother"
+msgstr "Send another email"
+
+msgid "manager.setup.openAccessPolicy"
+msgstr "سیاست دسترسی آزاد"
+
+msgid "manager.setup.openAccessPolicy.description"
+msgstr ""
+"اگر به صورت آنی به محتویات انتشار یافته دسترسی آزاد می‌دهید. بهتر است در "
+"مورد سیاست‌های دسترسی آزاد خود توضیحی وارد کنید."
+
+msgid "manager.setup.pageHeaderLogoImageInvalid"
+msgstr ""
+"فرمت لوگوی سرتیتر صفحات نامعتبر است.  فرمت‌های قابل قبول عبارت است از: gif، "
+"png و jpg"
+
+msgid "manager.setup.pageFooter"
+msgstr "پاورقی"
+
+msgid "manager.setup.pageFooter.description"
+msgstr ""
+"هر تصویر ، متن یا کد HTML که مایل هستید در قسمت پاوری قرار گیرد وارد نمایید"
+
+msgid "manager.setup.peerReview.description"
+msgstr ""
+"کلیات سیاست داوری خود را برای خوانندگان و نویسندگان وارد کنید. این توضیح "
+"معمولاً شامل تعداد داورهای بررسی کننده هر مقاله، روش انتخاب آن‌ها و مدت زمان"
+" داوری است."
+
+msgid "manager.setup.principalContact"
+msgstr "تماس با مدیر"
+
+msgid "manager.setup.principalContactDescription"
+msgstr ""
+"اطلاعات تماس دبیران، ویراستاران یا عوامل اجرایی که به صورت عمومی در وب‌سایت "
+"در دسترس خواهد بود"
+
+msgid "manager.setup.privacyStatement"
+msgstr "بیانه حریم خصوصی"
+
+msgid "manager.setup.dateTime"
+msgstr "Date & Time"
+
+msgid "manager.setup.dateTime.descriptionTitle"
+msgstr "Date and Time Formats"
+
+msgid "manager.setup.dateTime.description"
+msgstr ""
+"Choose the preferred format for dates and times. A custom format can be "
+"entered using the special <a "
+"href=\"https://www.php.net/manual/en/function.strftime.php#refsect1-function.strftime-"
+"parameters\">format characters</a>."
+
+msgid "manager.setup.dateTime.longDate"
+msgstr "Date"
+
+msgid "manager.setup.dateTime.shortDate"
+msgstr "Date (Short)"
+
+msgid "manager.setup.dateTime.time"
+msgstr "Time"
+
+msgid "manager.setup.dateTime.longDateTime"
+msgstr "Date & Time"
+
+msgid "manager.setup.dateTime.shortDateTime"
+msgstr "Date & Time (Short)"
+
+msgid "manager.setup.dateTime.custom"
+msgstr "Custom"
+
+msgid "manager.setup.privacyStatement.description"
+msgstr ""
+"This statement will appear during user registration, author submission, and "
+"on the publicly available Privacy page. In some jurisdictions, you are "
+"legally required to disclose how you handle user data in this privacy "
+"policy."
+
+msgid "manager.setup.reviewOptions.defaultReviewResponseTime"
+msgstr "Default Response Deadline"
+
+msgid "manager.setup.reviewOptions.defaultReviewCompletionTime"
+msgstr "Default Completion Deadline"
+
+msgid "manager.setup.reviewOptions.numWeeksPerResponse"
+msgstr "مهلت زمان (به هفته) قبول یا رد انجام داوری"
+
+msgid "manager.setup.reviewOptions.numWeeksPerReview"
+msgstr "متوسط مهلت داوری"
+
+msgid "manager.setup.reviewOptions.neverSendReminder"
+msgstr "هرگز یادآوری نکن"
+
+msgid "manager.setup.reviewOptions.noteOnModification"
+msgstr "مقادیر پیش‌فرض به ازای هر داوری می‌تواند ویرایش شود."
+
+msgid "manager.setup.reviewOptions.reminders.response"
+msgstr "Response Reminder"
+
+msgid "manager.setup.reviewOptions.reminders.response.description"
+msgstr ""
+"ارسال یادآوری برای داور در صورت عدم پاسخ به درخواست داوری در مهلت معین شده "
+"پس از (به ‌روز):"
+
+msgid "manager.setup.reviewOptions.reminders.submit"
+msgstr "Review Reminder"
+
+msgid "manager.setup.reviewOptions.reminders.submit.description"
+msgstr ""
+"ارسال یادآوری برای داور در صورت عدم ارسال نتیجه داوری در مهلت معین شده پس از"
+" (به‌ روز):"
+
+msgid "manager.setup.reviewOptions.reviewMode"
+msgstr "Default Review Mode"
+
+msgid "manager.setup.reviewOptions.showAnonymousReviewLink"
+msgstr ""
+"Present a link to <button type=\"button\">how to ensure all files are "
+"anonymized</button> during upload"
+
+msgid "manager.setup.sponsors.note"
+msgstr "سیاست‌های حمایت مالی و معنوی"
+
+msgid "manager.setup.sponsors.description"
+msgstr ""
+"برای مثال: انجمن‌های علمی، دانشکده‌ها، تعاونی‌ها، و غیره. حامیان به طور "
+"عمومی نمایش داده می‌شوند."
+
+msgid "manager.setup.styleSheetDescription"
+msgstr ""
+"توسعه‌دهندگان وب می‌توانند یک فایل CSS برای سفارشی کردن طرح وب‌سایت بارگذاری"
+" کنند"
+
+msgid "manager.setup.technicalSupportContact"
+msgstr "اطلاعات پشتیبانی فنی"
+
+msgid "manager.setup.technicalSupportContactDescription"
+msgstr ""
+"این اطلاعات مربوط به رابط نماینده‌ای است که در صورت برخورد ویراستاران ، "
+"داوران یا نویسندگان با هرگونه مشکلی در ارسال ، بازبینی یا انتشار مقالات با "
+"وی جهت بررسی و رفع اشکال تماس خواهند گرفت"
+
+msgid "manager.setup.theme"
+msgstr "پوسته سایت"
+
+msgid "manager.setup.institutions"
+msgstr "Institutions"
+
+msgid "manager.setup.theme.description"
+msgstr "ممکن است پوسته جدیدی  از طریق بخش افزونه‌ها نصب شده باشد."
+
+msgid "manager.setup.theme.notFound"
+msgstr "The theme you selected is not installed or enabled."
+
+msgid "manager.setup.workflow.beginSubmissionHelp.description"
+msgstr ""
+"The following is shown to authors before they begin their submission. "
+"Provide a brief explanation of the submission process so that the author "
+"knows what to expect."
+
+msgid "manager.setup.workflow.uploadFilesHelp.description"
+msgstr ""
+"The following is shown to authors during the upload files step. Provide a "
+"brief explanation of what files authors are expected to share with their "
+"submission."
+
+msgid "manager.setup.workflow.contributorsHelp.description"
+msgstr ""
+"The following is shown to authors during the contributors step. Provide a "
+"brief explanation of what information the author should provide about "
+"themselves, co-authors, and any other contributors."
+
+msgid "manager.setup.workflow.detailsHelp.description"
+msgstr ""
+"The following is shown to authors during the details step, when they are "
+"asked to provide the title, abstract, and other key information about their "
+"submission."
+
+msgid "manager.setup.workflow.forTheEditorsHelp.description"
+msgstr ""
+"The following is shown to authors during the For the Editors step, when they"
+" are asked to provide metadata such as keywords, comments to the editor, and"
+" other details to assist in editorial review."
+
+msgid "manager.setup.workflow.reviewHelp.description"
+msgstr ""
+"The following is shown to authors during the final step of the submission "
+"wizard, when they are asked to review all of the information they have "
+"provided before submitting their work."
+
+msgid "manager.setup.workflow.guidance"
+msgstr "Author Guidance"
+
+msgid "manager.setup.submissionPreparationChecklist"
+msgstr "چک‌لیست موارد مورد نیاز برای ارسال مقاله"
+
+#, fuzzy
+msgid "manager.setup.submissionPreparationChecklistDescription"
+msgstr ""
+"در بدو ارسال مقاله به مجله ابتدا از نویسنده خواسته می‌شود تا موارد مختلف "
+"مربوط ارسال مقاله را در یک چک‌لیست تیک بزند تا بدین وسیله اطمینان حاصل شود "
+"که وی آن‌ها را رعایت کرده است. این چک‌لیست همچنین در راهنمای نویسندگان نیز "
+"در قسمت درباره مجله نمایش داده  می‌شود. در زیر می‌توان این لیست را مشاهده و "
+"به‌دلخواه آن را ویرایش کنید. تمام موارد این چک‌لیست می‌بایست توسط نویسنده "
+"تیک بخورد تا وی قادر به ادامه ارسال مقاله باشد."
+
+msgid "manager.sections.form.deactivateSection"
+msgstr ""
+"Deactivate this section and do not allow new submissions to be made to it."
+
+msgid "manager.sections.confirmDeactivateSection"
+msgstr "Are you sure you wish to deactivate this section?"
+
+msgid "manager.sections.confirmActivateSection"
+msgstr "Are you sure you wish to activate this section?"
+
+msgid "manager.sections.form.assignEditors"
+msgstr "Editorial Assignments"
+
+msgid "manager.sections.form.assignEditors.description"
+msgstr ""
+"Select the editorial users who should be assigned automatically to all new "
+"submissions to this section."
+
+msgid "manager.sections.form.assignEditorAs"
+msgstr "Assign {$name} as {$role}"
+
+msgid "manager.categories.form.assignEditors.description"
+msgstr ""
+"Select the editorial users who should be assigned automatically to all new "
+"submissions to this category."
+
+msgid "manager.siteAccessOptions.siteAccessOptions"
+msgstr "تنظیمات دسترسی سایت"
+
+msgid "manager.statistics.statistics.count.value"
+msgstr "{$count} ({$percentage}%)"
+
+msgid "manager.statistics.statistics.totalNewValue"
+msgstr "{$numTotal} ({$numNew} جدید)"
+
+msgid "manager.statistics.statistics.registeredUsers"
+msgstr "Registered users"
+
+msgid "manager.users"
+msgstr "کاربرها"
+
+msgid "plugins.categories.metadata"
+msgstr "افزونه‌های فراداده"
+
+msgid "plugins.categories.metadata.description"
+msgstr "افزونه‌های فراداده، استانداردهای فراداده اضافی را پیاده‌سازی می‌کنند."
+
+msgid "plugins.categories.auth"
+msgstr "افزونه‌های احراز هویت"
+
+msgid "plugins.categories.blocks"
+msgstr "افزونه‌های بلوکی"
+
+msgid "plugins.categories.blocks.description"
+msgstr ""
+"افزونه‌های بلوکی اجزای گرافیکی قابل اتصال به سیستم هستند مانند ابزارهای "
+"مختلف موجود در نوار کناری"
+
+msgid "plugins.categories.gateways.description"
+msgstr "افزونه‌های دروازه داده‌های مؤثر را بر سیستم‌های خارجی فراهم می‌کند"
+
+msgid "plugins.categories.gateways"
+msgstr "افزونه‌های گذرگاه"
+
+msgid "plugins.categories.generic"
+msgstr "افزونه‌های عمومی"
+
+msgid "plugins.categories.importexport.description"
+msgstr ""
+"برون دهی / درون‌ریزی افزونه‌ها می‌تواند برای انتقال محتوا از و به سیستم‌های "
+"دیگر مورد استفاده قرار گیرد"
+
+msgid "plugins.categories.importexport"
+msgstr "افزونه‌های برون دهی / درون‌ریزی"
+
+msgid "plugins.categories.paymethod.description"
+msgstr ""
+"افزونه‌های روش‌های پرداخت حمایت از روش‌های مختلف پردازش پرداخت‌های آنلاین را"
+" فراهم می‌کنند"
+
+msgid "plugins.categories.paymethod"
+msgstr "افزونه‌های روش‌های پرداخت"
+
+msgid "plugins.categories.reports.description"
+msgstr ""
+"افزونه‌های گزارش برای تولید انواع مختلف گزارشات و استخراج داده بکار می‌رود"
+
+msgid "plugins.categories.reports"
+msgstr "افزونه‌های گزارش"
+
+msgid "plugins.categories.themes.description"
+msgstr "افزونه‌های پوسته می‌توانند برای تغییر ظاهر سیستم استفاده شوند"
+
+msgid "plugins.categories.themes"
+msgstr "افزونه‌های پوسته"
+
+msgid "plugins.categories.oaiMetadataFormats"
+msgstr "افزونه فرمت فراداده OAI"
+
+msgid "plugins.categories.oaiMetadataFormats.description"
+msgstr "این افزونه‌های فرمت، فراداده را در ارتباطات OAI بیان می‌کنند."
+
+msgid "plugins.categories.pubIds"
+msgstr "افزونه شناسه عمومی"
+
+msgid "plugins.categories.pubIds.description"
+msgstr "این افزونه‌ها برای پشتیبانی از شناسه‌های عمومی هستند."
+
+msgid "manager.plugins.copyError"
+msgstr ""
+"افزونه به صورت صحیح کپی نشده است. می‌تواند مشکل از سطح دسترسی باشد. مطمئن "
+"شوید که سرور اجازه نوشتن در پوشه افزونه‌ها را دارد."
+
+msgid "manager.plugins.delete"
+msgstr "حذف افزونه"
+
+msgid "manager.plugins.installConfirm"
+msgstr "مطمئنید که می‌خواهید این افزونه را نصب کنید؟"
+
+msgid "manager.plugins.upgradeConfirm"
+msgstr "مطمئنید که می‌خواهید این افزونه را ارتقاء دهید؟"
+
+msgid "grid.action.installPlugin"
+msgstr "نصب یا ارتقاء این افزونه"
+
+msgid "manager.plugins.deleteConfirm"
+msgstr "آیا مطمئنید که می‌خواهید این افزونه را حذف کنید؟"
+
+msgid "manager.plugins.deleteDescription"
+msgstr "با کلیک بر روی «حذف» این افزونه از سرور حذف خواهد شد."
+
+msgid "manager.plugins.deleteError"
+msgstr ""
+"افزونه \"{$pluginName}\" امکان حذف از روی سرور را ندارد. می‌تواند مشکل از "
+"سطح دسترسی باشد. مطمئن شوید که سرور اجازه نوشتن در پوشه افزونه‌ها را دارد."
+
+msgid "manager.plugins.deleteSuccess"
+msgstr "افزونه \"{$pluginName}\" با موفقیت حذف شد."
+
+msgid "manager.plugins.description"
+msgstr ""
+"این صفحه برای مدیریت و مشاهده افزونه‌های نصب شده بر روی سامانه است. "
+"افزونه‌ها بر اساس عملکردشان در دسته‌های مختلف تقسیم شده‌اند."
+
+msgid "manager.plugins.doesNotExist"
+msgstr "افزونه \"{$pluginName}\" موجود نیست"
+
+msgid "manager.plugins.fileSelectError"
+msgstr "لطفاً اول فایل را انتخاب کنید."
+
+msgid "manager.plugins.upload"
+msgstr "بارگذاری افزونه‌ی جدید"
+
+msgid "manager.plugins.uploadDescription"
+msgstr ""
+"این فرم به شما امکان می‌دهد تا یک افزونه را آپلود و نصب کنید. مطمئن شوید که "
+"فایل افزونه به صورت یک فایل فشرده با پسوند .tar.gz باشد."
+
+msgid "manager.plugins.uploadFailed"
+msgstr "مطمئن شوید که فایلی برای آپلود انتخاب شده است."
+
+msgid "manager.plugins.installed"
+msgstr "افزونه‌های نصب شده"
+
+msgid "manager.plugins.pluginGallery"
+msgstr "گالری افزونه‌ها"
+
+msgid "manager.plugins.pluginGallery.overview"
+msgstr "نگاه کلی"
+
+msgid "manager.plugins.pluginGallery.installation"
+msgstr "نصب"
+
+msgid "manager.plugins.pluginGallery.latestCompatible"
+msgstr "آخرین نسخه سازگار"
+
+msgid "manager.plugins.pluginGallery.certifications.official"
+msgstr "رسمی"
+
+msgid "manager.plugins.pluginGallery.certifications.official.description"
+msgstr "این افزونه توسط تیم پروژه دانش عمومی توسعه یافته و پشتیبانی می‌شود."
+
+msgid "manager.plugins.pluginGallery.certifications.reviewed"
+msgstr "بررسی شده"
+
+msgid "manager.plugins.pluginGallery.certifications.reviewed.description"
+msgstr "این افزونه توسط تیم پروژه دانش عمومی بررسی و تأیید شده است."
+
+msgid "manager.plugins.pluginGallery.certifications.partner"
+msgstr "شریک"
+
+msgid "manager.plugins.pluginGallery.certifications.partner.description"
+msgstr "این افزونه توسط سازمان‌های همکار این پروژه فراهم شده است."
+
+msgid "manager.plugins.pluginGallery.maintainer"
+msgstr "نگه‌دارنده"
+
+msgid "manager.plugins.pluginGallery.version"
+msgstr "نسخه {$version} در تاریخ {$date} منتشر شد."
+
+msgid "manager.plugins.pluginGallery.homepage"
+msgstr "صفحه اصلی"
+
+msgid "manager.plugins.pluginGallery.summary"
+msgstr "خلاصه"
+
+msgid "manager.plugins.pluginGallery.status"
+msgstr "وضعیت"
+
+msgid "manager.plugins.noInstalledVersion"
+msgstr "افزونه هنوز نصب نشده است."
+
+msgid "manager.plugins.noCompatibleVersion"
+msgstr "در حال حاضر هیچ نسخه سازگاری از این افزونه وجود ندارد."
+
+msgid "manager.plugins.installedVersionNewer"
+msgstr ""
+"این افزونه پیشتر نصب شده است و نسخه نصب شده، جدیدتر از نسخه موجود در گالری "
+"است."
+
+msgid "manager.plugins.installedVersionOlder"
+msgstr "افزونه پیشتر نصب شده است، اما قابل ارتقاء به نسخه جدیدتر می‌باشد."
+
+msgid "manager.plugins.installedVersionNewest"
+msgstr "افزونه نصب و به‌روزرسانی شد"
+
+msgid "manager.plugins.installedVersionNewer.short"
+msgstr "جدیدتر از نسخه موجود"
+
+msgid "manager.plugins.installedVersionOlder.short"
+msgstr "قابل به‌روزرسانی"
+
+msgid "manager.plugins.installedVersionNewest.short"
+msgstr "به‌روزرسانی"
+
+msgid "manager.plugins.noCompatibleVersion.short"
+msgstr "خارج از دسترس"
+
+msgid "manager.plugins.installFailed"
+msgstr "خطا در نصب. {$errorString}"
+
+msgid "manager.plugins.installSuccessful"
+msgstr "با موفقیت نسخه {$versionNumber} نصب شد."
+
+msgid "manager.plugins.invalidPluginArchive"
+msgstr "فایل فشرده آپلود شده از افزونه شامل پوشه‌ای با نام افزونه نمی‌باشد."
+
+msgid "manager.plugins.wrongCategory"
+msgstr "افزونه آپلود شده در دسته افزونه ارتقاء یافته نیست."
+
+msgid "manager.plugins.wrongName"
+msgstr ""
+"نام افزونه در فایل version.xml با نام افزونه ارتقاء یافته همخوانی ندارد."
+
+msgid "manager.plugins.pleaseInstall"
+msgstr "افزونه موجود نیست، لطفاً نصب نمایید"
+
+msgid "manager.plugins.pleaseUpgrade"
+msgstr "نسخه جدیدتر افزونه نصب شده موجود است. لطفاً آن را ارتقاء دهید."
+
+msgid "manager.plugins.settings"
+msgstr "تنظیمات"
+
+msgid "manager.plugins.upgrade"
+msgstr "ارتقاء افزونه"
+
+msgid "manager.plugins.upgradeDescription"
+msgstr ""
+"این فرم اجازه ارتقاء افزونه را به شما می‌دهد. مطمئن شوید که فایل افزونه به "
+"صورت یک فایل .tar.gz فشرده‌سازی شده است."
+
+msgid "manager.plugins.upgradeFailed"
+msgstr "خطا در ارتقاء {$errorString}"
+
+msgid "manager.plugins.upgradeSuccessful"
+msgstr "با موفقیت به نسخه {$versionString} ارتقاء یافت"
+
+msgid "manager.plugins.uploadError"
+msgstr "خطا در ارتقاء فایل"
+
+msgid "manager.plugins.uploadPluginDir"
+msgstr "انتخاب فایل‌های افزونه"
+
+msgid "manager.plugins.versionFileInvalid"
+msgstr "فایلversion.xml  در پوشه افزونه شامل داده‌های نامعتبری است"
+
+msgid "manager.plugins.versionFileNotFound"
+msgstr "فایلversion.xml  در پوشه افزونه یافت نشد."
+
+msgid "notification.localeEnabled"
+msgstr "زبان فعال شد"
+
+msgid "notification.localeDisabled"
+msgstr "زبان غیرفعال شد."
+
+msgid "notification.primaryLocaleDefined"
+msgstr "{$locale}  به عنوان زبان اصلی سامانه تعریف شده است."
+
+msgid "notification.localeInstalled"
+msgstr "تمامی زیان‌ها با موفقیت نصب شدند"
+
+msgid "notification.localeUninstalled"
+msgstr "زبان {$locale} حذف شد."
+
+msgid "notification.localeReloaded"
+msgstr "زبان {$locale} بارگذاری مجدد شد."
+
+msgid "notification.localeSettingsSaved"
+msgstr "تنظیمات زبان ذخیره شد."
+
+msgid "notification.localeSettingsCannotBeSaved"
+msgstr ""
+"The language setting could not be saved. At least one language must be "
+"enabled for each option"
+
+msgid "notification.editedUser"
+msgstr "کاربر ویرایش شد."
+
+msgid "manager.distribution.license"
+msgstr "License"
+
+msgid "manager.distribution.license.other"
+msgstr "Other license URL"
+
+msgid "manager.distribution.licenseTerms"
+msgstr "License Terms"
+
+msgid "manager.distribution.licenseTerms.description"
+msgstr ""
+"Enter public licensing terms you would like to display alongside published "
+"work."
+
+msgid "manager.distribution.customHeaders"
+msgstr "Custom Tags"
+
+msgid "manager.distribution.customHeaders.description"
+msgstr ""
+"Add custom HTML tags, also known as meta tags, that you would like to be "
+"inserted in the head of every page. Consult a technical advisor before "
+"adding tags here."
+
+msgid "manager.paymentMethod"
+msgstr "شیوه‌ی پرداخت"
+
+msgid "manager.paymentMethod.title"
+msgstr "شیوه‌های پرداخت"
+
+msgid "manager.paymentMethod.none"
+msgstr "روش پرداختی انتخاب نشده است"
+
+msgid "manager.paymentMethod.method"
+msgstr "روش پرداخت"
+
+msgid "manager.paymentMethod.currency"
+msgstr "واحد پول"
+
+msgid "settings.roles.roleOptions"
+msgstr "گزینه های نقش"
+
+msgid "settings.roles.showTitles"
+msgstr "نمایش عنوان نقش را در فهرست مشارکت کننده"
+
+msgid "settings.roles.permitSelfRegistration"
+msgstr "اجازه ثبت‌نام کاربر"
+
+msgid "settings.roles.recommendOnly"
+msgstr ""
+"این نقش فقط اجازه توصیه یک تصمیم را دارد. برای اتخاذ تصمیم نهایی نقشی با سطح"
+" دسترسی دبیر نیاز است."
+
+msgid "settings.roles.roleName"
+msgstr "انواع نقش"
+
+msgid "settings.roles.roleAbbrev"
+msgstr "اختصار"
+
+msgid "settings.roles.assignedStages"
+msgstr "انتساب مراحل"
+
+msgid "settings.roles.stages"
+msgstr "مراحل"
+
+msgid "settings.roles.roleDetails"
+msgstr "جزئیات نقش"
+
+msgid "settings.roles.from"
+msgstr "سطح دسترسی"
+
+msgid "settings.roles.removeText"
+msgstr ""
+"شما در حال حذف این نقش هستید، که شامل حذف تمامی تنظیمات این نقش و کاربران "
+"دارای این نقش خواهد بود. آیا مایل به ادامه این کار هستید؟"
+
+msgid "settings.roles.nameRequired"
+msgstr "وارد کردن نام نقش الزامی است."
+
+msgid "settings.roles.abbrevRequired"
+msgstr "وارد کردن اختصار برای نقش الزامی است."
+
+msgid "settings.roles.uniqueName"
+msgstr "نام نقش باید منحصربه‌فرد باشد."
+
+msgid "settings.roles.uniqueAbbrev"
+msgstr "اختصار مشخص شده برای نقش باید منحصربه‌فرد باشد."
+
+msgid "settings.roles.roleIdRequired"
+msgstr "باید سطح دسترسی نقش مشخص شود"
+
+msgid "settings.roles.stageIdRequired"
+msgstr "باید مرحله ای که این نقش به آن انتساب می شود مشخص شود."
+
+msgid "settings.roles.permitMetadataEdit"
+msgstr "Permit submission metadata edit."
+
+msgid "settings.libraryFiles.fileRequired"
+msgstr "فایل کتابخانه نیاز است. لطفاً از انتخاب و آپلود شدن فایل مطمئن شوید."
+
+msgid "settings.libraryFiles.nameRequired"
+msgstr "برای این کتابخانه وارد کردن نام الزامی است."
+
+msgid "settings.libraryFiles.typeRequired"
+msgstr "برای این کتابخانه وارد کردن نوع فایل الزامی است."
+
+msgid "settings.libraryFiles.category.contracts"
+msgstr "قراردادها"
+
+msgid "settings.libraryFiles.category.marketing"
+msgstr "بازاریابی"
+
+msgid "settings.libraryFiles.category.permissions"
+msgstr "مجوزها"
+
+msgid "settings.libraryFiles.category.reports"
+msgstr "گزارشها"
+
+msgid "settings.libraryFiles.category.other"
+msgstr "دیگر"
+
+msgid "settings.libraryFiles.public.viewInstructions"
+msgstr ""
+"<p>This library file can be accessible for download, if \"Public Access\" is"
+" enabled, at: <blockquote>{$downloadUrl}</blockquote></p>"
+
+msgid "settings.libraryFiles.public.selectLibraryFiles"
+msgstr "Select Library Files to attach"
+
+msgid "grid.action.addGenre"
+msgstr "افزودن یک جزء"
+
+msgid "grid.action.editGenre"
+msgstr "ویرایش این جزء"
+
+msgid "grid.action.deleteGenre"
+msgstr "حذف این جزء"
+
+msgid "grid.action.restoreGenres"
+msgstr "برگرداندن اجزاء به تنظیمات پیش‌فرض"
+
+msgid "manager.setup.genres.label"
+msgstr "File Type"
+
+msgid "manager.setup.genres.dependent"
+msgstr ""
+"These are dependent files, such as images displayed by a HTML file, and will"
+" not be displayed with published content."
+
+msgid "manager.setup.genres.supplementary"
+msgstr ""
+"These are supplementary files, such as data sets and research materials, and"
+" will be displayed separately from the main publication files."
+
+msgid "manager.setup.genres.key"
+msgstr "Key"
+
+msgid "manager.setup.genres.key.description"
+msgstr "An optional short symbolic identifer for this genre."
+
+msgid "manager.setup.genres.key.exists"
+msgstr "The key already exists."
+
+msgid "manager.setup.genres.key.alphaNumeric"
+msgstr ""
+"The key can contain only alphanumeric characters, underscores, and hyphens, "
+"and must begin and end with an alphanumeric character."
+
+msgid "manager.setup.genres.metatadata"
+msgstr "File Metadata"
+
+msgid "manager.setup.genres.metatadata.description"
+msgstr ""
+"Select the type of metadata that these files may receive. Document should be"
+" selected for the main publication files, such as the downloadable PDF, so "
+"that these files inherit their metadata from the publication. Otherwise, "
+"choose Supplementary Content for most file types. Artwork is appropriate for"
+" files which require distinct credit, caption and licensing metadata."
+
+msgid "manager.setup.genres.submitRequired.label"
+msgstr "Require with Submissions"
+
+msgid "manager.setup.genres.submitRequired.description"
+msgstr ""
+"Should at least one of these files be required with every new submission? If"
+" you select yes, authors will not be allowed to submit until they have "
+"uploaded at least one file of this type."
+
+msgid "manager.setup.genres.submitRequired.yes"
+msgstr "Yes, require submitting authors to upload one or more of these files."
+
+msgid "manager.setup.genres.submitRequired.no"
+msgstr "No, allow new submissions without these files."
+
+msgid "manager.settings.wizard"
+msgstr "تنظیمات مرحله به مرحله"
+
+msgid "manager.users.roleRequired"
+msgstr "باید حداقل یک نقش به این کاربر انتساب دهید."
+
+msgid "manager.website"
+msgstr "مدیریت سایت"
+
+msgid "manager.website.title"
+msgstr "تنظیمات سایت"
+
+msgid "manager.workflow"
+msgstr "گردش کار"
+
+msgid "manager.workflow.title"
+msgstr "تنظیمات گردش کار"
+
+msgid "manager.distribution"
+msgstr "توزیع"
+
+msgid "manager.distribution.title"
+msgstr "تنظیمات توزیع"
+
+msgid "manager.reviewForms"
+msgstr "فرم‌های داوری"
+
+msgid "manager.reviewForms.confirmActivate"
+msgstr ""
+"آیا مطمئن به فعال‌سازی این فرم هستید؟ پس از فعال‌سازی در صورت استفاده از آن "
+"دیگر امکان غیر فعال‌سازی نخواهد داشت."
+
+msgid "manager.reviewForms.confirmDeactivate"
+msgstr ""
+"آیا مطمئن به غیرفعال‌سازی این فرم هستید؟ این فرم دیگر در دسترس نخواهد بود."
+
+msgid "manager.reviewForms.confirmCopy"
+msgstr "آیا مطمئنید که می‌خواهید یک کپی از این فرم داوری ایجاد شود؟"
+
+msgid "manager.reviewForms.completed"
+msgstr "موارد تکمیل شده"
+
+msgid "manager.reviewForms.confirmDelete"
+msgstr "آیا مطمئنید که می‌خواهید این فرم داوری را حذف کنید؟"
+
+msgid "manager.reviewForms.create"
+msgstr "ایجاد فرم داوری"
+
+msgid "manager.reviewForms.description"
+msgstr "تعاریف و دستورالعمل‌ها"
+
+msgid "manager.reviewForms.edit"
+msgstr "فرم داوری"
+
+msgid "manager.reviewForms.form.titleRequired"
+msgstr "عنوان فرم داوری الزامی است"
+
+msgid "manager.reviewForms.inReview"
+msgstr "در حال داوری"
+
+msgid "manager.reviewForms.list.description"
+msgstr ""
+"این فرم‌های داوری به جای فرم پیش‌فرض در اختیار داوران قرار می‌گیرند. فرم "
+"پیش‌فرض فقط دارای دو جعبه متن یکی برای وارد کردن نظراتی که فقط دبیر مقاله "
+"باید ببیند و دیگری برای دبیر مقاله و نویسنده مقاله. فرم‌های داوری را می‌توان"
+" برای نوع خاصی از مقالات در نظر گرفت - به علاوه دبیر مقاله این اختیار را "
+"دارد که کدام فرم یا فرم‌های داوری برای کدام داور ارسال شود. در تمامی این "
+"حالات دبیر مقاله مختار است که ماحصل این فرم‌های داوری را در اختیار نویسنده "
+"مقاله قرار بدهد یا خیر."
+
+msgid "manager.reviewForms.noneChosen"
+msgstr "هیچکدام / فرم داوری آزاد"
+
+msgid "manager.reviewForms.noneCreated"
+msgstr "هیچ فرم داوری تولید نشده است"
+
+msgid "manager.reviewForms.noneUsed"
+msgstr "هیچ فرم داوری تاکنون استفاده نشده است."
+
+msgid "manager.reviewForms.preview"
+msgstr "فرم داوری"
+
+msgid "manager.reviewForms.reviewFormData"
+msgstr "داده‌های فرم داوری"
+
+msgid "manager.reviewForms.title"
+msgstr "عنوان"
+
+msgid "manager.reviewFormElement.changeType"
+msgstr "تغییر نوع المان‌های فرم ..."
+
+msgid "manager.reviewFormElements"
+msgstr "المان‌های فرم"
+
+msgid "manager.reviewFormElements.addResponseItem"
+msgstr "افزودن گزینه"
+
+msgid "manager.reviewFormElements.checkboxes"
+msgstr "جعبه تیک: یک یا چند گزینه قابل انتخاب است"
+
+msgid "manager.reviewFormElements.chooseType"
+msgstr "انتخاب نوع المان"
+
+msgid "manager.reviewFormElements.confirmDelete"
+msgstr "تأیید حذف المان فرم انتشار یافته ..."
+
+msgid "manager.reviewFormElements.copyTo"
+msgstr "کپی به:"
+
+msgid "manager.reviewFormElements.create"
+msgstr "ایجاد المان جدید"
+
+msgid "manager.reviewFormElements.dropdownbox"
+msgstr "جعبه منوی کرکره‌ای"
+
+msgid "manager.reviewFormElements.edit"
+msgstr "ویرایش المان فرم"
+
+msgid "manager.reviewFormElements.elementType"
+msgstr "نوع المان"
+
+msgid "manager.reviewFormElements.form.elementTypeRequired"
+msgstr "تعیین نوع المان برای تمامی المان‌های فرم اجباری است"
+
+msgid "manager.reviewFormElements.form.questionRequired"
+msgstr "این المان یک پرسش لازم دارد"
+
+msgid "manager.reviewFormElements.noneCreated"
+msgstr "هنوز المانی برای این فرم ایجاد نشده است"
+
+msgid "manager.reviewFormElements.possibleResponse"
+msgstr "گزینه"
+
+msgid "manager.reviewFormElements.question"
+msgstr "المان"
+
+msgid "manager.reviewFormElements.description"
+msgstr "Description"
+
+msgid "manager.reviewFormElements.radiobuttons"
+msgstr "دکمه رادیوئی: فقط یک گزینه قابل انتخاب است"
+
+msgid "manager.reviewFormElements.required"
+msgstr "پاسخ به این المان توسط داوران الزامی است"
+
+msgid "manager.reviewFormElements.included"
+msgstr "در پیام به نویسنده‌ها نیز وارد شود"
+
+msgid "manager.reviewFormElements.smalltextfield"
+msgstr "جعبه متن یک کلمه‌ای"
+
+msgid "manager.reviewFormElements.textarea"
+msgstr "جعبه متن طویل"
+
+msgid "manager.reviewFormElements.textfield"
+msgstr "جعبه متن یک سطری"
+
+msgid "manager.reviewFormElements.viewable"
+msgstr "قابل مشاهده (برای نویسندگان)"
+
+msgid "grid.action.createReviewForm"
+msgstr "ایجاد یک فرم داوری جدید"
+
+msgid "manager.setup.competingInterests.required"
+msgstr "درخواست بیانیه تضاد منافع رقابتی به ازای هر داوری"
+
+msgid "manager.setup.licenseURLDescription"
+msgstr "آدرس صفحه وبی که این مجوز را شرح می‌دهد (در صورت وجود) اضافه کنید"
+
+msgid "manager.setup.metadata.submission"
+msgstr "فرم ارسال مقاله"
+
+msgid "manager.setup.metadata.coverage"
+msgstr "Coverage"
+
+msgid "manager.setup.metadata.coverage.description"
+msgstr ""
+"Coverage will typically indicate a work's spatial location (a place name or "
+"geographic coordinates), temporal period (a period label, date, or date "
+"range) or jurisdiction (such as a named administrative entity)."
+
+msgid "manager.setup.metadata.coverage.enable"
+msgstr "Enable coverage metadata"
+
+msgid "manager.setup.metadata.coverage.noRequest"
+msgstr "Do not request coverage metadata from the author during submission."
+
+msgid "manager.setup.metadata.coverage.request"
+msgstr "Ask the author to suggest coverage metadata during submission."
+
+msgid "manager.setup.metadata.coverage.require"
+msgstr ""
+"Require the author to suggest coverage metadata before accepting their "
+"submission."
+
+msgid "manager.setup.metadata.keywords.description"
+msgstr ""
+"Keywords are typically one- to three-word phrases that are used to indicate "
+"the main topics of a submission."
+
+msgid "manager.setup.metadata.keywords.enable"
+msgstr "Enable keyword metadata"
+
+msgid "manager.setup.metadata.keywords.noRequest"
+msgstr "Do not request keywords from the author during submission."
+
+msgid "manager.setup.metadata.keywords.request"
+msgstr "Ask the author to suggest keywords during submission."
+
+msgid "manager.setup.metadata.keywords.require"
+msgstr ""
+"Require the author to suggest keywords before accepting their submission."
+
+msgid "manager.setup.metadata.languages.description"
+msgstr ""
+"Language indicates the work's primary language using a language code "
+"(\"en\") with an optional country code (\"en_US\")."
+
+msgid "manager.setup.metadata.languages.enable"
+msgstr "Enable language metadata"
+
+msgid "manager.setup.metadata.languages.noRequest"
+msgstr ""
+"Do not request the submission's languages from the author during submission."
+
+msgid "manager.setup.metadata.languages.request"
+msgstr ""
+"Ask the author to indicate the submission's languages during submission."
+
+msgid "manager.setup.metadata.languages.require"
+msgstr ""
+"Require the author to enter the submission's languages before accepting "
+"their submission."
+
+msgid "manager.setup.metadata.rights.description"
+msgstr ""
+"Any rights held over the submission, which may include Intellectual Property"
+" Rights (IPR), Copyright, and various Property Rights."
+
+msgid "manager.setup.metadata.rights.enable"
+msgstr "Enable rights metadata"
+
+msgid "manager.setup.metadata.rights.noRequest"
+msgstr "Do not request a rights disclosure from the author during submission."
+
+msgid "manager.setup.metadata.rights.request"
+msgstr "Ask the author to disclose any prior access rights during submission."
+
+msgid "manager.setup.metadata.rights.require"
+msgstr ""
+"Require the author to disclose any prior access rights before accepting "
+"their submission."
+
+msgid "manager.setup.metadata.source.description"
+msgstr ""
+"The source may be an ID, such as a DOI, of another work or resource from "
+"which the submission is derived."
+
+msgid "manager.setup.metadata.source.enable"
+msgstr "Enable source metadata"
+
+msgid "manager.setup.metadata.source.noRequest"
+msgstr "Do not request a source URL from the author during submission."
+
+msgid "manager.setup.metadata.source.request"
+msgstr "Ask the author to provide a source URL during submission."
+
+msgid "manager.setup.metadata.source.require"
+msgstr ""
+"Require the author to provide a source URL before accepting their "
+"submission."
+
+msgid "manager.setup.metadata.subjects.description"
+msgstr ""
+"Subjects will be keywords, key phrases or classification codes that describe"
+" a topic of the submission."
+
+msgid "manager.setup.metadata.subjects.enable"
+msgstr "Enable subject metadata"
+
+msgid "manager.setup.metadata.subjects.noRequest"
+msgstr "Do not request subjects from the author during submission."
+
+msgid "manager.setup.metadata.subjects.request"
+msgstr "Ask the author to provide subjects during submission."
+
+msgid "manager.setup.metadata.subjects.require"
+msgstr ""
+"Require the author to provide subjects before accepting their submission."
+
+msgid "manager.setup.metadata.type.description"
+msgstr ""
+"The nature or genre of the main content of the submission. The type is "
+"usually \"Text\", but may also be \"Dataset\", \"Image\" or any of the <a "
+"target=\"_blank\" href=\"https://www.dublincore.org/specifications/dublin-"
+"core/dcmi-terms/\">Dublin Core types</a>."
+
+msgid "manager.setup.metadata.type.enable"
+msgstr "Enable type metadata"
+
+msgid "manager.setup.metadata.type.noRequest"
+msgstr "Do not request the type from the author during submission."
+
+msgid "manager.setup.metadata.type.request"
+msgstr "Ask the author to provide the type during submission."
+
+msgid "manager.setup.metadata.type.require"
+msgstr ""
+"Require the author to provide the type before accepting their submission."
+
+msgid "manager.setup.metadata.disciplines.description"
+msgstr ""
+"Disciplines are types of study or branches of knowledge as described by "
+"university faculties and learned societies."
+
+msgid "manager.setup.metadata.disciplines.enable"
+msgstr "Enable disciplines metadata"
+
+msgid "manager.setup.metadata.disciplines.noRequest"
+msgstr "Do not request disciplines from the author during submission."
+
+msgid "manager.setup.metadata.disciplines.request"
+msgstr "Ask the author to provide disciplines during submission."
+
+msgid "manager.setup.metadata.disciplines.require"
+msgstr ""
+"Require the author to provide disciplines before accepting their submission."
+
+msgid "manager.setup.metadata.agencies.description"
+msgstr ""
+"Supporting agencies may indicate the source of research funding or other "
+"institutional support that facilitated the research."
+
+msgid "manager.setup.metadata.agencies.enable"
+msgstr "Enable supporting agencies metadata"
+
+msgid "manager.setup.metadata.agencies.noRequest"
+msgstr "Do not request supporting agencies from the author during submission."
+
+msgid "manager.setup.metadata.agencies.request"
+msgstr "Ask the author to disclose any supporting agencies during submission."
+
+msgid "manager.setup.metadata.agencies.require"
+msgstr ""
+"Require the author to disclose any supporting agencies before accepting "
+"their submission."
+
+msgid "manager.setup.metadata.citations.description"
+msgstr ""
+"Collect a submission's references in a separate field. This may be required "
+"to comply with citation-tracking services such as Crossref."
+
+msgid "manager.setup.metadata.citations.enable"
+msgstr "Enable references metadata"
+
+msgid "manager.setup.metadata.citations.noRequest"
+msgstr "Do not request references from the author during submission."
+
+msgid "manager.setup.metadata.citations.request"
+msgstr "Ask the author to provide references during submission."
+
+msgid "manager.setup.metadata.citations.require"
+msgstr ""
+"Require the author to provide references before accepting their submission."
+
+msgid "manager.setup.metadata.dataAvailability.description"
+msgstr ""
+"A short statement describing whether or not the author(s) have made their "
+"research data available and, if so, where readers may access it."
+
+msgid "manager.setup.metadata.dataAvailability.enable"
+msgstr "Enable data availability statement metadata"
+
+msgid "manager.setup.metadata.dataAvailability.noRequest"
+msgstr ""
+"Do not request a data availability statement from the author during "
+"submission."
+
+msgid "manager.setup.metadata.dataAvailability.request"
+msgstr ""
+"Ask the author to provide a data availability statement during submission."
+
+msgid "manager.setup.metadata.dataAvailability.require"
+msgstr ""
+"Require the author to provide a data availability statement before accepting"
+" their submission."
+
+msgid "plugins.importexport.common.validationErrors"
+msgstr "خطاهای اعتبار سنجی:"
+
+msgid "plugins.importexport.common.warningsEncountered"
+msgstr "اخطاری رخ داده است."
+
+msgid "plugins.importexport.common.errorsOccured"
+msgstr "خطا رخ داده است:"
+
+msgid "plugins.importexport.common.id"
+msgstr "Id: {$id}"
+
+msgid "plugins.importexport.common.error.unknownElement"
+msgstr "المان نامشخص {$param}"
+
+msgid "plugins.importexport.common.error.unknownGenre"
+msgstr "مولفه نامشخص {$param}"
+
+msgid "plugins.importexport.common.error.unknownEncoding"
+msgstr "کدگزاری نامشخص {$param}"
+
+msgid "plugins.importexport.common.error.encodingError"
+msgstr "محتوا به {$param} عنوان کدگذاری نشده است."
+
+msgid "plugins.importexport.common.error.unknownUserGroup"
+msgstr "گروه کاربری نامشخص {$param}"
+
+msgid "plugins.importexport.common.error.userGroupMissing"
+msgstr "UserGroup Missing for author name {$param}"
+
+msgid "plugins.importexport.common.error.missingGivenName"
+msgstr ""
+"The author {$authorName} does not have a given name in the submission's "
+"language, {$localeName}. The submission can not be imported without this "
+"information."
+
+msgid "plugins.importexport.common.error.unknownUploader"
+msgstr "آپلود کننده نامشخص {$param}"
+
+msgid "plugins.importexport.common.error.temporaryFileFailed"
+msgstr "ایجاد فایل موقتی {$dest} از {$source} امکان‌پذیر نیست."
+
+msgid "plugins.importexport.common.error.filesizeMismatch"
+msgstr ""
+"اندازه فایل مورد انتظار «{$expected}» بوده و با اندازه اصلی فایل ({$actual})"
+" مطابقت ندارد."
+
+msgid "plugins.importexport.common.error.duplicateRevisionForSubmission"
+msgstr ""
+"اصلاحات «{$revisionId}» برای فایل مقاله «{$fileId}» ممکن است باعث ایجاد یک "
+"رکورد تکراری شود."
+
+msgid "plugins.importexport.native.error.submissionFileImportFailed"
+msgstr "فایل مقاله ارسالی قابل درون‌ریزی نیست."
+
+msgid "plugins.importexport.native.error.submissionFileSkipped"
+msgstr ""
+"The submission file {$id} was skipped because it is attached to a record "
+"that will not be imported, such as a review assignment or discussion."
+
+msgid "plugins.importexport.user.importExportErrors"
+msgstr "Import/Export errors:"
+
+msgid "plugins.importexport.user.error.userHasNoPassword"
+msgstr ""
+"The imported user \"{$username}\" has no password. Check your import XML "
+"format. The user has not been imported."
+
+msgid "plugins.importexport.user.error.passwordHasBeenChanged"
+msgstr ""
+"The imported user \"{$username}\" password could not be imported as is. A "
+"new password is been send to the user email. The user has been imported."
+
+msgid "plugins.importexport.user.error.plainPasswordNotValid"
+msgstr ""
+"The imported user \"{$username}\" has a plain password that is not valid. "
+"The user has not been imported."
+
+msgid "plugins.importexport.user.error.usernameEmailMismatch"
+msgstr ""
+"The username \"{$username}\" and the e-mail \"{$email}\" do not match to the"
+" one and the same existing user."
+
+msgid "plugins.importexport.common.settings.form.testMode.label"
+msgstr "Testing"
+
+msgid "manager.navigationMenus.form.title"
+msgstr "عنوان"
+
+msgid "manager.navigationMenus.form.path"
+msgstr "مسیر"
+
+msgid "manager.navigationMenus"
+msgstr "منوی گشت‌وگذار"
+
+msgid "manager.navigationMenus.form.viewInstructions"
+msgstr ""
+"<p>این صفحه در مسیر <blockquote>{$pagesPath}</blockquote> قابل دسترس خواهد "
+"بود. که در آن %PATH% مسیر وارد شده در بالا است.  <strong>توجه: </strong> دو "
+"صفحه نمی‌توانند یک مسیر داشته باشند و همچنین از مسیرهایی که خود سامانه به "
+"صورت پیش‌فرض استفاده می‌کند به عنوان مسیر استفاده نکنید چون ممکن است باعث "
+"اختلال در عملکرد سامانه شود."
+
+msgid "manager.navigationMenus.form.content"
+msgstr "محتوا"
+
+msgid "manager.navigationMenus.form.pathRegEx"
+msgstr ""
+"محتوای وارد شده در قسمت مسیر تنها می‌تواند شامل کاراکترهای متنی به اضافه "
+"کاراکترهای «.»، «/»، «-» و «_» باشد."
+
+msgid "manager.navigationMenus.form.duplicatePath"
+msgstr "این مسیر از قبل در منوی گشت و گدار وجود دارد."
+
+msgid "manager.navigationMenus.form.duplicateTitles"
+msgstr "این عنوان از قبل در منوی گشت و گدار وجود دارد."
+
+msgid "manager.navigationMenus.form.titleRequired"
+msgstr "وارد کردن عنوان الزامی است."
+
+msgid "manager.navigationMenuItems"
+msgstr "المان منوی گشت‌وگذار"
+
+msgid "manager.navigationMenus.assignedMenuItems"
+msgstr "المان انتساب داده شده"
+
+msgid "manager.navigationMenus.unassignedMenuItems"
+msgstr "المان‌های بدون انتساب"
+
+msgid "manager.navigationMenus.form.navigationMenuArea"
+msgstr "فعال کردن پوسته ناحیه گشت‌وگذار"
+
+msgid "manager.navigationMenus.form.navigationMenuAreaMessage"
+msgstr "انتخاب ناحیه گشت‌وگذار"
+
+msgid "manager.navigationMenus.form.menuAssigned"
+msgstr "A navigation menu is already assigned to this area."
+
+msgid "manager.navigationMenus.form.url"
+msgstr "URL"
+
+msgid "manager.navigationMenus.form.customUrlError"
+msgstr "وارد کردن URL الزامی است."
+
+msgid "manager.navigationMenus.form.conditionalDisplay"
+msgstr "بیاموزید که چه زمانی این آیتم نمایش داده خواهد شد یا نه"
+
+msgid "manager.navigationMenus.form.submenuWarning"
+msgstr ""
+"زمانی که یک المان از منو شامل یک زیر منو است. لینک آن در تمامی دستگاه‌ها "
+"قابل مشاهده نیست. برای مثال چنانچه شما یک المان منو با عنوان «درباره» داشته "
+"باشد که خود شامل زیر منویی با المان‌های «مجله»، «موسسه» و «تیم سردبیری» "
+"باشد. خود لینک المان « درباره » ممکن است در تمامی دستگاه‌ها باز نشود."
+
+msgid "manager.navigationMenus.form.navigationMenuItemType"
+msgstr "نوع منوی گشت‌وگذار"
+
+msgid "manager.navigationMenus.form.navigationMenuItemTypeMessage"
+msgstr "نوع منوی گشت‌وگذار را انتخاب کرده و یا نوع سفارشی خود را ایجاد کنید."
+
+msgid "manager.navigationMenus.customPage"
+msgstr "صفحه سفارشی"
+
+msgid "manager.navigationMenus.customPage.description"
+msgstr "ایجاد یک صفحه سفارشی و لینک به آن در منوی گشت‌وگذار"
+
+msgid "manager.navigationMenus.remoteUrl"
+msgstr "URL خارجی"
+
+msgid "manager.navigationMenus.remoteUrl.description"
+msgstr "لینک به یک آدرس در سایتی دیگر (مانند http://pkp.sfu.ca)"
+
+msgid "manager.navigationMenus.about.description"
+msgstr "لینک به صفحه نمایش محتوای درباره مجله"
+
+msgid "manager.navigationMenus.about.conditionalWarning"
+msgstr ""
+"این لینک تنها در صورتی که بخش درباره مجله (در قسمت تنظیمات > مجله) تکمیل شده"
+" باشد، نمایش داده خواهد شد."
+
+msgid "manager.navigationMenus.editorialTeam.description"
+msgstr "لینک به صفحه نمایش اطلاعات کلی مجله"
+
+msgid "manager.navigationMenus.editorialTeam.conditionalWarning"
+msgstr ""
+"این لینک تنها در صورتی که بخش تیم سردبیر مجله (در قسمت تنظیمات > مجله) تکمیل"
+" شده باشد، نمایش داده خواهد شد."
+
+msgid "manager.navigationMenus.submissions.description"
+msgstr "لینک به صفحه دستورالعمل‌های ثبت مقاله"
+
+msgid "manager.navigationMenus.current.description"
+msgstr "لینک به شماره جاری"
+
+msgid "manager.navigationMenus.archives.description"
+msgstr "لینک به بایگانی شماره‌ها"
+
+msgid "manager.navigationMenus.announcements.description"
+msgstr "لینک به صفحه نمایش اعلامیه"
+
+msgid "manager.navigationMenus.announcements.conditionalWarning"
+msgstr ""
+"این لینک تنها در صورتی که بخش اعلامیه‌ها (در قسمت تنظیمات > وب‌سایت) فعال "
+"شده باشد، نمایش داده خواهد شد."
+
+msgid "manager.navigationMenus.login.description"
+msgstr "لینک به صفحه ورود به سامانه"
+
+msgid "manager.navigationMenus.register.description"
+msgstr "لینک به صفحه ثبت‌نام"
+
+msgid "manager.navigationMenus.dashboard.description"
+msgstr "لینک به داشبورد"
+
+msgid "manager.navigationMenus.profile.description"
+msgstr "لینک به پروفایل کاربر"
+
+msgid "manager.navigationMenus.administration.description"
+msgstr "لینک به بخش ابزارهای مدیریتی"
+
+msgid "manager.navigationMenus.administration.conditionalWarning"
+msgstr "این لینک فقط به کاربرانی با نقش مدیریتی نمایش داده می‌شود."
+
+msgid "manager.navigationMenus.logOut.description"
+msgstr "لینکی که باعث خروج کاربر از سامانه می‌شود."
+
+msgid "manager.navigationMenus.loggedOut.conditionalWarning"
+msgstr "این لینک تنها زمانی نمایش داده می‌شود که کاربر وارد سیستم شده است."
+
+msgid "manager.navigationMenus.loggedIn.conditionalWarning"
+msgstr "این لینک تنها زمانی نمایش داده می‌شود که کاربر وارد سیستم نشده است."
+
+msgid "manager.navigationMenus.contact.description"
+msgstr "Link to a page displaying your contact information."
+
+msgid "manager.navigationMenus.contact.conditionalWarning"
+msgstr ""
+"This link will only be displayed if you have filled out the Contact "
+"information under Settings > Contact."
+
+msgid "manager.navigationMenus.form.typeMissing"
+msgstr "Please select a navigation menu type."
+
+msgid "manager.navigationMenus.subscriptions.conditionalWarning"
+msgstr ""
+"This link will only be displayed if payments are enabled under Settings > "
+"Distribution > Payments."
+
+msgid "manager.navigationMenus.mySubscriptions.conditionalWarning"
+msgstr ""
+"This link will only be displayed if the visitor is logged in, payments are "
+"enabled under Settings > Distribution > Payments and subscriptions are "
+"required under Settings > Distribution > Access."
+
+msgid "manager.navigationMenus.search.description"
+msgstr "Link to the search page."
+
+msgid "manager.navigationMenus.privacyStatement.description"
+msgstr "Link to the page displaying your privacy statement."
+
+msgid "manager.navigationMenus.privacyStatement.conditionalWarning"
+msgstr ""
+"This link will only be displayed if you have entered a privacy statement "
+"under Settings > Workflow > Submissions."
+
+msgid "grid.category.add"
+msgstr "Add Category"
+
+msgid "grid.category.edit"
+msgstr "Edit Category"
+
+msgid "grid.category.name"
+msgstr "Name"
+
+msgid "grid.category.path"
+msgstr "Path"
+
+msgid "grid.category.urlWillBe"
+msgstr "The category's URL will be: {$sampleUrl}"
+
+msgid "grid.category.pathAlphaNumeric"
+msgstr "The category path must consist of only letters and numbers."
+
+msgid "grid.category.pathExists"
+msgstr "The category path already exists. Please enter a unique path."
+
+msgid "grid.category.description"
+msgstr "Description"
+
+msgid "grid.category.parentCategory"
+msgstr "Parent Category"
+
+msgid "grid.category.removeText"
+msgstr "Are you sure you wish to remove this category?"
+
+msgid "grid.category.nameRequired"
+msgstr "Please enter a category name."
+
+msgid "grid.category.categoryDetails"
+msgstr "Category Details"
+
+msgid "stats.allUsers"
+msgstr "All Users"
+
+msgid "stats.city"
+msgstr "شهر"
+
+msgid "stats.views"
+msgstr "Views"
+
+msgid "stats.downloads"
+msgstr "Downloads"
+
+msgid "stats.views.timelineInterval"
+msgstr "Total views by date"
+
+msgid "stats.downloads.timelineInterval"
+msgstr "Total downloads by date"
+
+msgid "stats.countWithYearlyAverage"
+msgstr "{$count} ({$average}/year)"
+
+msgid "stats.daily"
+msgstr "Daily"
+
+msgid "stats.dateRange"
+msgstr "Date Range"
+
+msgid "stats.dateRange.allDates"
+msgstr "All dates"
+
+msgid "stats.dateRange.apply"
+msgstr "Apply"
+
+msgid "stats.dateRange.change"
+msgstr "Change date range"
+
+msgid "stats.dateRange.customRange"
+msgstr "Custom Range"
+
+msgid "stats.dateRange.dateDoesNotExist"
+msgstr "One of the dates entered does not exist."
+
+msgid "stats.dateRange.from"
+msgstr "From"
+
+msgid "stats.dateRange.instructions"
+msgstr ""
+"Enter each date in the format YYYY-MM-DD. For example, if you want the date "
+"for 15 January, 2019, enter 2019-01-15."
+
+msgid "stats.dateRange.invalidDate"
+msgstr ""
+"The date format is not valid. Enter each date in the format YYYY-MM-DD."
+
+msgid "stats.dateRange.invalidDateRange"
+msgstr "The start date must be before the end date."
+
+msgid "stats.dateRange.invalidEndDateMax"
+msgstr "The end date may not be later than {$date}."
+
+msgid "stats.dateRange.invalidStartDateMin"
+msgstr "The start date may not be earlier than {$date}."
+
+msgid "stats.dateRange.last12Months"
+msgstr "Last 12 months"
+
+msgid "stats.dateRange.last30Days"
+msgstr "Last 30 days"
+
+msgid "stats.dateRange.last90Days"
+msgstr "Last 90 days"
+
+msgid "stats.dateRange.lastTwoYears"
+msgstr "Last two years"
+
+msgid "stats.dateRange.lastYear"
+msgstr "Last year"
+
+msgid "stats.dateRange.sinceDate"
+msgstr "Since {$date}"
+
+msgid "stats.dateRange.thisYear"
+msgstr "Year to date"
+
+msgid "stats.dateRange.to"
+msgstr "To"
+
+msgid "stats.dateRange.untilDate"
+msgstr "Until {$date}"
+
+msgid "stats.description.acceptRejectRate"
+msgstr ""
+"The percentage for the selected date range is calculated for submissions "
+"that were submitted during this date range and have received a final "
+"decision.<br><br>For example, consider the case where ten submissions were "
+"made during this date range. Four were accepted, four were rejected and two "
+"are still awaiting a final decision.<br><br>The acceptance rate will be 50% "
+"(4 of 8 submissions) because the two submissions that have not reached a "
+"final decision are not counted."
+
+msgid "stats.description.daysToDecision"
+msgstr ""
+"The number of days it takes for most submissions to receive the first "
+"editorial decision, such as desk rejection or send for review.<br><br>These "
+"figures indicate that 80% of submissions reach the decision within the given"
+" number of days.<br><br>This statistic attempts to describe when the "
+"majority of authors submitting to your journal can expect a decision."
+
+msgid "stats.description.submissionsSkipped"
+msgstr ""
+"This includes submissions that are not counted in other totals, such as "
+"those that are still in progress and those that appear to have been "
+"imported."
+
+msgid "stats.descriptionForStat"
+msgstr "Description for {$stat}"
+
+msgid "stats.editorialActivity"
+msgstr "فعالیت تحریریه"
+
+msgid "stats.file.type.primaryFile"
+msgstr "Primary File"
+
+msgid "stats.file.type.suppFile"
+msgstr "Supplementary File"
+
+msgid "stats.fileViews"
+msgstr "File Views"
+
+msgid "stats.html"
+msgstr "HTML"
+
+msgid "stats.monthly"
+msgstr "Monthly"
+
+msgid "stats.pdf"
+msgstr "PDF"
+
+msgid "stats.geographic.ccAttribution"
+msgstr "Geolocation provided by <a href='https://db-ip.com'>DB-IP</a>"
+
+msgid "stats.geographic.tooltip.label"
+msgstr "About Geolocation"
+
+msgid "stats.downloadReport.betweenDates"
+msgstr "{$startDate} to {$endDate}"
+
+msgid "stats.downloadReport.allFilters"
+msgstr "All {$filter}"
+
+msgid "stats.publications.downloadReport.downloadFiles"
+msgstr "Download Files"
+
+msgid "stats.publications.downloadReport.downloadFiles.description"
+msgstr "The number of downloads for each file."
+
+msgid "stats.publications.downloadReport.downloadGeographic"
+msgstr "Download Geographic"
+
+msgid "stats.publications.downloadReport.downloadGeographic.description"
+msgstr "The number of views and downloads for each city, region or country."
+
+msgid "stats.region"
+msgstr "منطقه"
+
+msgid "stats.searchSubmissionDescription"
+msgstr "Search by title, author and ID"
+
+msgid "stats.submissionsActive"
+msgstr "Active Submissions"
+
+msgid "stats.timeline"
+msgstr "Timeline"
+
+msgid "stats.timeline.downloadReport.description"
+msgstr "The number of {$type} for each {$interval}."
+
+msgid "stats.timeline.downloadReport.downloadTimeline"
+msgstr "Download Timeline"
+
+msgid "stats.timelineInterval"
+msgstr "Timeline Interval"
+
+msgid "stats.timelineType"
+msgstr "Timeline Type"
+
+msgid "stats.total"
+msgstr "Total"
+
+msgid "stats.unique"
+msgstr "Unique"
+
+msgid "stats.totalWithinDateRange"
+msgstr "Total Within Date Range"
+
+msgid "stats.trends"
+msgstr "Trends"
+
+msgid "stats.unknown"
+msgstr "unknown"
+
+msgid "stats.userStatistics"
+msgstr "User Statistics"
+
+msgid "stats.name.submissionsReceived"
+msgstr "Submissions Received"
+
+msgid "stats.name.submissionsSkipped"
+msgstr "Other Submissions"
+
+msgid "stats.name.submissionsInProgress"
+msgstr "Submissions In Progress"
+
+msgid "stats.name.submissionsImported"
+msgstr "Imported Submissions"
+
+msgid "stats.name.submissionsAccepted"
+msgstr "Submissions Accepted"
+
+msgid "stats.name.submissionsDeclined"
+msgstr "Submissions Declined"
+
+msgid "stats.name.submissionsDeclinedDeskReject"
+msgstr "Submissions Declined (Desk Reject)"
+
+msgid "stats.name.submissionsDeclinedPostReview"
+msgstr "Submissions Declined (After Review)"
+
+msgid "stats.name.submissionsPublished"
+msgstr "Submissions Published"
+
+msgid "stats.name.daysToDecision"
+msgstr "Days to First Editorial Decision"
+
+msgid "stats.name.daysToAccept"
+msgstr "Days to Accept"
+
+msgid "stats.name.daysToReject"
+msgstr "Days to Reject"
+
+msgid "stats.name.acceptanceRate"
+msgstr "Acceptance Rate"
+
+msgid "stats.name.declineRate"
+msgstr "Rejection Rate"
+
+msgid "stats.name.declinedDeskRate"
+msgstr "Desk Reject Rate"
+
+msgid "stats.name.declinedReviewRate"
+msgstr "After Review Reject Rate"
+
+msgid "plugins.importexport.native.processFailed"
+msgstr "The process failed. Check below for errors/warnings."
+
+msgid "plugins.importexport.native.export.submissions.results"
+msgstr "Export Submissions Results"
+
+msgid "plugins.importexport.native.export.download.results"
+msgstr "Download Exported File"
+
+msgid "plugins.importexport.native.export.completed"
+msgstr "The export completed successfully."
+
+msgid "plugins.importexport.native.export.completed.downloadFile"
+msgstr "Download the exported file from the button below."
+
+msgid "plugins.importexport.native.common.any"
+msgstr "Generic Items"
+
+msgid "plugins.importexport.native.common.error.filter.configuration.count"
+msgstr ""
+"Wrong filter configuration [{$filterName}]: {$filterCount} occurrences. "
+"Should be only one."
+
+msgid "plugins.importexport.common.cliError"
+msgstr "خطا:"
+
+msgid "plugins.importexport.common.error.unknownContext"
+msgstr "مسیر مجله وارد شده (\"{$contextPath}\") یافت شند."
+
+msgid "plugins.importexport.submission.cli.display"
+msgstr "\"{$submissionId}\" - \"{$submissionTitle}\""
+
+msgid "plugins.importexport.author.exportFailed"
+msgstr "Process failed to parse authors"
+
+msgid "plugins.importexport.publication.exportFailed"
+msgstr "Process failed to parse publications"
+
+msgid "emailTemplate.variable.allReviewersComments"
+msgstr ""
+"All comments from completed reviews. Reviewer names are hidden for anonymous"
+" reviews"
+
+msgid "emailTemplate.variable.authorsWithAffiliation"
+msgstr "The names and affiliations of the submission's authors."
+
+msgid "emailTemplate.variable.context.passwordLostUrl"
+msgstr "The URL to a page where the user can recover a lost password"
+
+msgid "emailTemplate.variable.context.submissionsUrl"
+msgstr "The URL to view all of a user's assigned submissions"
+
+msgid "emailTemplate.variable.context.userProfileUrl"
+msgstr "The URL for a user to view and edit their profile"
+
+msgid "emailTemplate.variable.decision.name"
+msgstr "The name of the decision that was taken"
+
+msgid "emailTemplate.variable.decision.description"
+msgstr "A description of the decision that was taken"
+
+msgid "emailTemplate.variable.decision.stage"
+msgstr "The stage of the editorial workflow this decision was taken in"
+
+msgid "emailTemplate.variable.decision.round"
+msgstr ""
+"The round of review this decision was taken in, if the decision is related "
+"to a review stage"
+
+msgid "emailTemplate.variable.discussion.subject"
+msgstr "The subject of the discussion"
+
+msgid "emailTemplate.variable.discussion.content"
+msgstr "The content of the new discussion or reply"
+
+msgid "emailTemplate.variable.editorialReminder.outstandingTasks"
+msgstr "A list of submissions with outstanding tasks"
+
+msgid "emailTemplate.variable.editorialReminder.numberOfSubmissions"
+msgstr "The number of submissions assigned to this editor"
+
+msgid "emailTemplate.variable.recipient.userFullName"
+msgstr "The full name of the recipient or all recipients"
+
+msgid "emailTemplate.variable.recipient.username"
+msgstr "The username of the recipient or all recipients"
+
+msgid "emailTemplate.variable.recipient.reviewDueDate"
+msgstr "Date when the review should be completed"
+
+msgid "emailTemplate.variable.recipient.responseDueDate"
+msgstr "Date when the reviewer should accept or decline the assignment"
+
+msgid "emailTemplate.variable.recipient.reviewAssignmentUrl"
+msgstr "The URL to the review assignment"
+
+msgid "emailTemplate.variable.recommendation"
+msgstr "The recommended decision, such as Accept Submission"
+
+msgid "emailTemplate.variable.review.assignedDate"
+msgstr "The date this review was assigned"
+
+msgid "emailTemplate.variable.review.method"
+msgstr "The type of review, such as anonymous, double anonymous or open"
+
+msgid "emailTemplate.variable.review.recommendation"
+msgstr "The reviewer's recommendation, such as Accept Submission or Decline"
+
+msgid "emailTemplate.variable.review.round"
+msgstr "The round of review, such as Round 1 or Round 2"
+
+msgid "emailTemplate.variable.review.files"
+msgstr "The files uploaded by the reviewer"
+
+msgid "emailTemplate.variable.review.name"
+msgstr "The name of the reviewer"
+
+msgid "emailTemplate.variable.reviewType"
+msgstr ""
+"A description of the default review method, such as double anonymous or open"
+
+msgid "emailTemplate.variable.reviewType.doubleAnonymous"
+msgstr ""
+"This journal conducts double-anonymous peer review. The reviewers will not "
+"see any identifying information about you or your co-authors. Similarly, you"
+" will not know who reviewed your submission, and you will not hear from the "
+"reviewers directly."
+
+msgid "emailTemplate.variable.reviewType.anonymous"
+msgstr ""
+"This journal conducts “reviewer anonymous” peer review. Your name, and those"
+" of your coauthors, will be visible to the reviewers; however, the "
+"reviewers' identities will remain anonymous."
+
+msgid "emailTemplate.variable.reviewType.open"
+msgstr ""
+"This journal conducts open peer review. The reviewers will see your name and"
+" affiliation, as well as the names and affiliations of your co-authors. "
+"Similarly, you will see the names and affiliations of the reviewers."
+
+msgid "emailTemplate.variable.sender.senderName"
+msgstr "The full name of the sender"
+
+msgid "emailTemplate.variable.sender.senderEmail"
+msgstr "The email address of the sender"
+
+msgid "emailTemplate.variable.sender.signature"
+msgstr "The email signature of the sender"
+
+msgid "emailTemplate.variable.site.siteContactName"
+msgstr "The full name of the website's primary contact"
+
+msgid "emailTemplate.variable.site.siteContactEmail"
+msgstr "The email of the website's primary contact"
+
+msgid "emailTemplate.variable.site.siteSignature"
+msgstr "The website's email signature for automated emails"
+
+msgid "emailTemplate.variable.stageAssignment.editors"
+msgstr "The editors assigned to this submission who can make a decision"
+
+msgid "emailTemplate.variable.submission.submissionTitle"
+msgstr "The submission's title"
+
+msgid "emailTemplate.variable.submission.submissionId"
+msgstr "The submission's unique ID number"
+
+msgid "emailTemplate.variable.submission.submissionAbstract"
+msgstr "The submission's abstract"
+
+msgid "emailTemplate.variable.submission.authorsShort"
+msgstr "The names of the authors in a short string, like \"Barnes, et al\""
+
+msgid "emailTemplate.variable.submission.authors"
+msgstr "The full names of the authors"
+
+msgid "emailTemplate.variable.submission.authorSubmissionUrl"
+msgstr "The author's URL to the submission"
+
+msgid "emailTemplate.variable.submission.submissionUrl"
+msgstr "The URL to the submission in the editorial backend"
+
+msgid "emailTemplate.variable.submission.submissionPublishedUrl"
+msgstr "The URL to the published submission"
+
+msgid "emailTemplate.variable.submission.submissionWizardUrl"
+msgstr "The URL to the submission in the submission wizard"
+
+msgid "emailTemplate.variable.submission.submittingAuthorName"
+msgstr ""
+"The names of the authors assigned to the submission workflow. Usually this "
+"is the submitting author"
+
+msgid "emailTemplate.variable.passwordResetUrl"
+msgstr "Hashed URL which is sent to a user to confirm the password reset"
+
+msgid "emailTemplate.variable.password"
+msgstr "New random user password"
+
+msgid "mailable.reviewerReinstate.name"
+msgstr "Reviewer Reinstate"
+
+msgid "mailable.reviewerResendRequest.name"
+msgstr "Resend Review Request to Reviewer"
+
+msgid "emailTemplate.variable.submitterName"
+msgstr "The full name of a user who uploaded a submission file"
+
+msgid "emailTemplate.variable.announcementTitle"
+msgstr "The title of the announcement"
+
+msgid "emailTemplate.variable.announcementSummary"
+msgstr "Short description of the announcement"
+
+msgid "emailTemplate.variable.announcementUrl"
+msgstr "The URL to the announcement"
+
+msgid "emailTemplate.variable.statisticsReportNotify.newSubmissions"
+msgstr "The number of submissions received this month"
+
+msgid "emailTemplate.variable.statisticsReportNotify.declinedSubmissions"
+msgstr "The number of declined submissions"
+
+msgid "emailTemplate.variable.statisticsReportNotify.acceptedSubmissions"
+msgstr "The number of accepted submissions"
+
+msgid "emailTemplate.variable.statisticsReportNotify.otherSubmissions"
+msgstr "The number of submissions not included in other totals"
+
+msgid "emailTemplate.variable.statisticsReportNotify.totalSubmissions"
+msgstr "The total number of submissions received"
+
+msgid "emailTemplate.variable.statisticsReportNotify.month"
+msgstr "The month of the report"
+
+msgid "emailTemplate.variable.statisticsReportNotify.year"
+msgstr "The year of the report"
+
+msgid "emailTemplate.variable.issue.issueIdentification"
+msgstr "Issue identification, including volume, number, year, and title"
+
+msgid "emailTemplate.variable.issue.issuePublishedUrl"
+msgstr "The URL to the published issue"
+
+msgid "mailTemplate.variable.statisticsReportNotify.year"
+msgstr "The year of the report"
+
+msgid "emailTemplate.variable.statisticsReportNotify.editorialStatsLink"
+msgstr "The link to the editorial activity page"
+
+msgid "mailable.reviewerReinstate.description"
+msgstr ""
+"This email is sent when a reviewer that was unassigned is reinstated by an "
+"editor."
+
+msgid "mailable.reviewerResendRequest.description"
+msgstr ""
+"This email is sent by an editor to a reviewer who has declined a review "
+"request, when the editor wishes to resend the request."
+
+msgid "mailable.reviewerUnassign.name"
+msgstr "Reviewer Unassign"
+
+msgid "mailable.reviewerUnassign.description"
+msgstr "This email is sent when an editor unassigns a reviewer."
+
+msgid "mailable.validateEmailSite.name"
+msgstr "Validate Email (Site)"
+
+msgid "mailable.validateEmailSite.description"
+msgstr ""
+"This email is automatically sent to a new user when they register with the "
+"site when the settings require the email address to be validated."
+
+msgid "mailable.decision.notifyOtherAuthors.name"
+msgstr "Notify Other Authors"
+
+msgid "mailable.decision.notifyOtherAuthors.description"
+msgstr ""
+"This email is sent to notify authors of a submission who are not assigned as"
+" participants that a decision has been made. Usually these are all others "
+"except the submitting author."
+
+msgid "mailable.decision.notifyOtherAuthors.variable.message.description"
+msgstr "A copy of the email message that was sent to the submitting author"
+
+msgid "mailable.decision.notifyReviewer.name"
+msgstr "Notify Reviewers of Decision"
+
+msgid "mailable.decision.notifyReviewer.description"
+msgstr ""
+"This email is sent by an Editor to a Reviewer to notify them that a decision"
+" has been made regarding a submission that they reviewed."
+
+msgid "mailable.decision.notifyReviewer.variable.decisionDescription"
+msgstr ""
+"A short description of this decision that is intended to be shared in an "
+"email notification sent to reviewers about this decision"
+
+msgid "mailable.decision.notifyReviewer.variable.decisionDescription.accept"
+msgstr "We have chosen to accept this submission without revisions."
+
+msgid "mailable.decision.notifyReviewer.variable.decisionDescription.decline"
+msgstr "We have chosen to decline this submission."
+
+msgid ""
+"mailable.decision.notifyReviewer.variable.decisionDescription.pendingRevisions"
+msgstr "We have invited the authors to submit revisions."
+
+msgid "mailable.decision.notifyReviewer.variable.decisionDescription.resubmit"
+msgstr ""
+"We have invited the authors to submit a revised version for further review."
+
+msgid ""
+"mailable.decision.notifyReviewer.variable.decisionDescription.unassigned"
+msgstr "Invited reviewer to the submission has been unassigned."
+
+msgid "mailable.decision.accept.notifyAuthor.name"
+msgstr "Submission Accepted"
+
+msgid "mailable.decision.accept.notifyAuthor.description"
+msgstr ""
+"This email notifies the author that their submission has been accepted for "
+"publication."
+
+msgid "mailable.decision.backToCopyediting.notifyAuthor.name"
+msgstr "Submission Sent Back to Copyediting"
+
+msgid "mailable.decision.backToCopyediting.notifyAuthor.description"
+msgstr ""
+"This email notifies the author that their submission has been sent back to "
+"the copyediting stage."
+
+msgid "mailable.decision.backFromCopyediting.notifyAuthor.name"
+msgstr "Submission Sent Back from Copyediting"
+
+msgid "mailable.decision.backFromCopyediting.notifyAuthor.description"
+msgstr ""
+"This email notifies the author that their submission has been sent back from"
+" the copyediting stage."
+
+msgid "mailable.decision.cancelReviewRound.notifyAuthor.name"
+msgstr "Review Round Cancelled"
+
+msgid "mailable.decision.cancelReviewRound.notifyAuthor.description"
+msgstr ""
+"This email notifies the author that a review round for their submission has "
+"been cancelled."
+
+msgid "mailable.decision.decline.notifyAuthor.name"
+msgstr "Submission Declined"
+
+msgid "mailable.decision.decline.notifyAuthor.description"
+msgstr ""
+"This email notifies the author that their submission has been declined after"
+" peer review."
+
+msgid "mailable.decision.initialDecline.notifyAuthor.name"
+msgstr "Submission Declined (Pre-Review)"
+
+msgid "mailable.decision.newReviewRound.notifyAuthor.name"
+msgstr "New Review Round Initiated"
+
+msgid "mailable.decision.newReviewRound.notifyAuthor.description"
+msgstr ""
+"This email notifies the author that a new round of review is beginning for "
+"their submission."
+
+msgid "mailable.decision.requestRevisions.notifyAuthor.name"
+msgstr "Revisions Requested"
+
+msgid "mailable.decision.requestRevisions.notifyAuthor.description"
+msgstr ""
+"This email notifies the author of a decision to requests revisions during "
+"peer review."
+
+msgid "mailable.decision.resubmit.notifyAuthor.name"
+msgstr "Resubmit for Review"
+
+msgid "mailable.decision.resubmit.notifyAuthor.description"
+msgstr ""
+"This email notifies the author of a \"revise and resubmit\" decision "
+"regarding their submission."
+
+msgid "mailable.decision.revertDecline.notifyAuthor.name"
+msgstr "Reinstate Declined Submission"
+
+msgid "mailable.decision.revertDecline.notifyAuthor.description"
+msgstr ""
+"This email notifies the author that a previous decision to decline their "
+"submission after peer review is being reverted."
+
+msgid "mailable.decision.revertInitialDecline.notifyAuthor.name"
+msgstr "Reinstate Submission Declined Without Review"
+
+msgid "mailable.decision.revertInitialDecline.notifyAuthor.description"
+msgstr ""
+"This email notifies the author that a previous decision to decline their "
+"submission without review is being reverted."
+
+msgid "mailable.decision.sendExternalReview.notifyAuthor.name"
+msgstr "Sent to Review"
+
+msgid "mailable.decision.sendExternalReview.notifyAuthor.description"
+msgstr ""
+"This email notifies the author that their submission is being sent to the "
+"review stage."
+
+msgid "mailable.decision.sendToProduction.notifyAuthor.name"
+msgstr "Sent to Production"
+
+msgid "mailable.decision.sendToProduction.notifyAuthor.description"
+msgstr ""
+"This email notifies the author that their submission is being sent to the "
+"production stage."
+
+msgid "mailable.decision.skipReview.notifyAuthor.name"
+msgstr "Submission Accepted (Without Review)"
+
+msgid "mailable.decision.skipReview.notifyAuthor.description"
+msgstr ""
+"This email notifies the author that their submission is being sent directly "
+"to the copyediting stage and will not be peer reviewed."
+
+msgid "mailable.decision.recommendation.notifyEditors.name"
+msgstr "Recommendation Made"
+
+msgid "mailable.decision.recommendation.notifyEditors.description"
+msgstr ""
+"This message notifies a senior Editor or Section Editor that an editorial "
+"recommendation has been made regarding one of their assigned submissions. "
+"This message is used when an editor is only allowed to recommend an "
+"editorial decision and requires an authorized editor to record editorial "
+"decisions. This option can be selected when assigning participants to a "
+"submission."
+
+msgid "mailable.reviewConfirm.name"
+msgstr "Review Confirm"
+
+msgid "mailable.reviewConfirm.description"
+msgstr ""
+"ایمیلی از طرف داور به سردبیر یا دبیر بخشبرای اطلاع از پذیرش انجام داوری"
+
+msgid "mailable.reviewDecline.name"
+msgstr "Review Decline"
+
+msgid "mailable.reviewDecline.description"
+msgstr ""
+"ایمیلی از طرف داور به سردبیر یا دبیر بخش برای اطلاع از عدم پذیرش انجام داوری"
+
+msgid "mailable.reviewRemind.name"
+msgstr "Review Reminder"
+
+msgid "mailable.reviewRemind.description"
+msgstr ""
+"This email is sent by an Editor to remind a reviewer that their review is "
+"due."
+
+msgid "mailable.reviewRemindAuto.name"
+msgstr "Review Reminder (Automated)"
+
+#, fuzzy
+msgid "mailable.reviewRemindAuto.description"
+msgstr ""
+"This email is automatically sent when a reviewer's due date elapses (see "
+"Review Options under Journal Setup, Step 2) and one-click reviewer access is"
+" disabled. Scheduled tasks must be enabled and configured (see the site "
+"configuration file)."
+
+msgid "mailable.reviewAcknowledgement.name"
+msgstr "Review Acknowledgement"
+
+msgid "mailable.reviewAcknowledgement.description"
+msgstr ""
+"This email is sent by an editor to a reviewer to confirm that their review "
+"has been received and to thank the reviewer for their contributions."
+
+msgid "mailable.reviewResponseOverdueAuto.name"
+msgstr "Review Response Overdue (Automated)"
+
+#, fuzzy
+msgid "mailable.reviewResponseOverdueAuto.description"
+msgstr "ایمیلی از طرف دبیر یا دبیر بخش به داور برای درخواست انجام داوری"
+
+msgid "mailable.reviewRequest.name"
+msgstr "Review Request"
+
+#, fuzzy
+msgid "mailable.reviewRequest.description"
+msgstr ""
+"This email from the Section Editor to a Reviewer requests that the reviewer "
+"accept or decline the task of reviewing a submission. It provides "
+"information about the submission such as the title and abstract, a review "
+"due date, and how to access the submission itself. This message is used when"
+" the Standard Review Process is selected in Journal Setup, Step 2."
+
+msgid "mailable.reviewRequestSubsequent.name"
+msgstr "Review Request Subsequent"
+
+#, fuzzy
+msgid "mailable.reviewRequestSubsequent.description"
+msgstr "ایمیلی از طرف دبیر یا دبیر بخش به داور برای درخواست انجام داوری"
+
+msgid "plugins.importexport.common.error.currentPublicationNullOrMissing"
+msgstr "The submission's current publication is missing"
+
+msgid "plugins.importexport.common.error.submissionChildFailed"
+msgstr "The submission's child {$child} failed to be processed"
+
+msgid "mailable.editorialReminder.name"
+msgstr "Editorial Reminder"
+
+msgid "mailable.editorialReminder.description"
+msgstr "An automated email sent to editors with outstanding tasks"
+
+msgid "mailable.passwordResetRequested.name"
+msgstr "Password Reset Confirm"
+
+msgid "mailable.passwordResetRequested.description"
+msgstr ""
+"This email is sent to a registered user when they indicate that they have "
+"forgotten their password or are unable to login. It provides a URL they can "
+"follow to reset their password."
+
+msgid "mailable.userRegister.name"
+msgstr "User Created"
+
+#, fuzzy
+msgid "mailable.userRegister.description"
+msgstr ""
+"This email is sent to a newly registered user to welcome them to the system "
+"and provide them with a record of their username and password."
+
+msgid "mailable.reviewerRegister.name"
+msgstr "Reviewer Register"
+
+msgid "mailable.reviewerRegister.description"
+msgstr ""
+"This email is sent to a newly registered reviewer to welcome them to the "
+"system and provide them with a record of their username and password."
+
+msgid "mailable.submissionSavedForLater.name"
+msgstr "Submission Saved for Later"
+
+msgid "mailable.submissionSavedForLater.description"
+msgstr ""
+"An automated email sent to authors when they save their submission to "
+"complete later"
+
+msgid "mailable.submissionAck.name"
+msgstr "Submission Confirmation"
+
+#, fuzzy
+msgid "mailable.submissionAck.description"
+msgstr ""
+"در صورت فعال سازی. این ایمیل به صورت خودکار به نوسنده مقاله پس از تکمیل "
+"عملیات ارسال مقاله، فرستاده خواهد شد."
+
+msgid "mailable.submissionAckNotAuthor.name"
+msgstr "Submission Confirmation (Other Authors)"
+
+#, fuzzy
+msgid "mailable.submissionAckNotAuthor.description"
+msgstr ""
+"در صورت فعال سازی. این ایمیل به صورت خودکار به نوسنده مقاله پس از تکمیل "
+"عملیات ارسال مقاله، فرستاده خواهد شد."
+
+msgid "mailable.discussionSubmission.name"
+msgstr "Discussion (Submission)"
+
+msgid "mailable.discussionSubmission.description"
+msgstr ""
+"This email is sent when a discussion is created or replied to in the "
+"submission stage."
+
+msgid "mailable.discussionReview.name"
+msgstr "Discussion (Review)"
+
+msgid "mailable.discussionReview.description"
+msgstr ""
+"This email is sent when a discussion is created or replied to in the review "
+"stage."
+
+msgid "mailable.discussionCopyediting.name"
+msgstr "Discussion (Copyediting)"
+
+msgid "mailable.discussionCopyediting.description"
+msgstr ""
+"This email is sent when a discussion is created or replied to in the "
+"copyediting stage."
+
+msgid "mailable.discussionProduction.name"
+msgstr "Discussion (Production)"
+
+msgid "mailable.discussionProduction.description"
+msgstr ""
+"This email is sent when a discussion is created or replied to in the "
+"production stage."
+
+msgid "mailable.revisedVersionNotify.name"
+msgstr "Revised Version Notification"
+
+msgid "mailable.revisedVersionNotify.description"
+msgstr ""
+"ایمیلی که خودکار پس از آپلود نسخه اصلاحی توسط نویسنده  برای دبیر ارسال می "
+"شود"
+
+msgid "mailable.announcementNotify.name"
+msgstr "New Announcement"
+
+msgid "mailable.announcementNotify.description"
+msgstr "This email is sent when a new announcement is created."
+
+msgid "mailable.statisticsReportNotify.name"
+msgstr "Statistics Report Notification"
+
+msgid "mailable.editReviewNotify.name"
+msgstr "Edit Review Notification"
+
+msgid "mailable.editReviewNotify.description"
+msgstr ""
+"This email automatically notifies the reviewer when the details of their "
+"review assignment have been changed."
+
+msgid "mailable.reviewCompleteNotifyEditors.name"
+msgstr "Reviewer Commented Notify Editors"
+
+msgid "mailable.reviewCompleteNotifyEditors.description"
+msgstr ""
+"This email is automatically sent to assigned editors when reviewer makes "
+"review recommendation"
+
+msgid "manager.people.authSource"
+msgstr "Authentication source"
+
+msgid "mailable.decision.backToReview.notifyAuthor.name"
+msgstr "Submission Sent Back to Review"
+
+msgid "mailable.decision.backToReview.notifyAuthor.description"
+msgstr ""
+"This email notifies the author that their submission has been sent back to "
+"the review stage."
+
+msgid "mailable.decision.backToSubmission.notifyAuthor.name"
+msgstr "Submission Sent Back to Submission"
+
+msgid "mailable.decision.backToSubmission.notifyAuthor.description"
+msgstr ""
+"This email notifies the author that their submission has been sent back to "
+"the submission stage."
+
+msgid "manager.manageEmails"
+msgstr "Manage Emails"
+
+msgid "manager.manageEmailTemplates.description"
+msgstr ""
+"<p><a href=\"{$url}\">Add and edit templates</a> for all of the emails sent "
+"by the system.</p>"
+
+msgid "manager.mailables.addTemplates"
+msgstr ""
+"Add and edit templates that you would like to make available to the user "
+"when they are sending this email. The default will be loaded automatically, "
+"and the user will be able to quickly load any other templates you add here."
+
+msgid "manager.mailables.templates"
+msgstr "Templates"
+
+msgid "manager.mailables.editTemplate"
+msgstr "Edit Template"
+
+msgid "manager.mailables.removeTemplate"
+msgstr "Remove Template"
+
+msgid "manager.mailables.removeTemplate.confirm"
+msgstr ""
+"Are you sure you want to delete the template <strong>{$template}</strong>?"
+
+msgid "manager.mailables.resetTemplate"
+msgstr "Reset Template"
+
+msgid "manager.mailables.resetTemplate.confirm"
+msgstr ""
+"Are you sure you want to reset the subject and body to their defaults for "
+"the template <strong>{$template}</strong>?"
+
+msgid "manager.mailables.search"
+msgstr "Search by name or description"
+
+msgid "manager.emailTemplate.name.description"
+msgstr "Enter a brief name to help you find this template."
+
+msgid "manager.newSubmission"
+msgstr "New Submission"
+
+msgid "manager.newSubmission.description"
+msgstr ""
+"Configure the email notifications to send when a new submission is made."
+
+msgid "manager.submissionAck.description"
+msgstr "Who should receive an email when a new submission is completed."
+
+msgid "manager.submissionAck.off"
+msgstr "Do not send an email."
+
+msgid "manager.submissionAck.submittingAuthor"
+msgstr "Send an email to the submitting author only."
+
+msgid "manager.submissionAck.allAuthors"
+msgstr "Send an email to all authors."
+
+msgid "manager.editorialDecisions"
+msgstr "Editorial Decisions"
+
+msgid "manager.editorialDecisions.description"
+msgstr ""
+"Configure the email notifications to send to authors when an editorial "
+"decision is recorded."
+
+msgid "manager.forEditors"
+msgstr "For Editors"
+
+msgid "manager.forEditors.description"
+msgstr "Configure the email notifications to send to editors."
+
+msgid "manager.editorialStatistics"
+msgstr "Editorial statistics"
+
+msgid "manager.editorialStatistics.description"
+msgstr ""
+"Whether or not to send a monthly email to editors with the editorial "
+"statistics of the journal, such as accept and decline rates. Editors can "
+"unsubscribe from this email from their user profile."
+
+msgid "manager.editorialStatistics.on"
+msgstr "Send a monthly email to editors."
+
+msgid "manager.editorialStatistics.off"
+msgstr "Do not send the email to editors."
+
+msgid "manager.submitWithCategories.description"
+msgstr ""
+"Should the submitting author be asked to select a category when they make a "
+"new submission?"
+
+msgid "manager.submitWithCategories.yes"
+msgstr "Yes, add a categories field to the submission wizard."
+
+msgid "manager.submitWithCategories.no"
+msgstr "No, do not show authors this field."
+
+msgid "mailable.copyeditRequest.name"
+msgstr "Request Copyedit"
+
+msgid "mailable.editorAssign.name"
+msgstr "Editor Assigned"
+
+msgid "mailable.layoutRequest.name"
+msgstr "Ready for Production"
+
+msgid "mailable.system"
+msgstr "System"
+
+msgid "mailable.versionCreated.name"
+msgstr "Version Created"
+
+msgid "mailable.reviewComplete.name"
+msgstr "Review Completed"
+
+msgid "mailable.reviewEdit.name"
+msgstr "Review Edited"
+
+msgid "mailable.submissionAckOtherAuthors.name"
+msgstr "Submission Acknowledgement to Other Authors"
+
+msgid "mailable.editorAssigned.name"
+msgstr "Editor Assigned (Auto)"
+
+msgid "mailable.editorAssigned.description"
+msgstr ""
+"This email is sent to an editor when they are automatically assigned to a "
+"submission."
+
+msgid "mailable.editorAssignedManual.name"
+msgstr "Assign Editor"
+
+msgid "mailable.submissionNeedsEditor.name"
+msgstr "Submission Needs Editor"
+
+msgid "manager.setup.notifyUsers.queued"
+msgstr ""
+"Emails are successfully queued to be sent at the earliest convenience."
+
+msgid "plugins.importexport.native.error.submissionFileWithoutRevision"
+msgstr ""
+"The submission file {$id} was skipped because it does not have a valid "
+"revision."
+
+msgid "plugins.importexport.native.error.submissionFileRevisionMissing"
+msgstr ""
+"The revision {$revision} of the submission file {$id} was skipped because "
+"the file was not found at the path \"{$path}\"."
+
+msgid "plugins.importexport.common.error.publicationCoverImageMissing"
+msgstr ""
+"The cover image of the publication {$id} was not exported, its file was not "
+"found at the path \"{$path}\"."
+
+msgid "emailTemplate.variable.activateUrl"
+msgstr "The link to validate an email account"
+
+#~ msgid "manager.masthead.title"
+#~ msgstr "اطلاعات کلی مجله"
+
+#~ msgid "manager.setup.citations"
+#~ msgstr "ارجاعات"
+
+#~ msgid "manager.setup.citationAssistant"
+#~ msgstr "دستیار نشانه‌گذاری ارجاعات"
+
+#~ msgid "manager.setup.citationFilterParser"
+#~ msgstr "استخراج ارجاعات"
+
+#~ msgid "manager.setup.citationFilterParserDescription"
+#~ msgstr ""
+#~ "<p>  برای یافتن ارجاعات در پایگاه داده، ارجاعات ابتدا باید به‌صورت قابل "
+#~ "خواندن برای ماشین در آیند: عنوان، ناشر، تاریخ نشر، و غیره همگی باید از متن "
+#~ "ارجاعی اصلی که نویسنده ارائه کرده است استخراج شود. اتصالات به سرویس‌های "
+#~ "خارجی می‌تواند در این روند کمک کنند. با کلیک بر روی افزودن المان می‌توان یک "
+#~ "یا چند اتصال اضافه کرد. بعضی از این اتصالات ممکن است نیاز به تنظیماتی داشته "
+#~ "باشند که در این صورت از شما خواسته می‌شود.  </p>  <p>  برای ویرایش یا حذف یک"
+#~ " اتصال موجود بر روی آیکون چرخ‌دنده کلیک کنید.  </p>"
+
+#~ msgid "manager.setup.citationFilterLookup"
+#~ msgstr "بررسی ارجاعات"
+
+#~ msgid "manager.setup.citationFilterLookupDescription"
+#~ msgstr ""
+#~ "<p>  همچنین می‌بایست اتصال به پایگاه داده‌های خارجی را فعال و تنظیم کنید. "
+#~ "بدین وسیله اشکالات موجود در ارجاعات نویسنده را می‌توانید پیگیری کنید و یا "
+#~ "اطلاعات بیشتری را به آن‌ها اضافه کنید. مانند DOI, PubMed ID  </p>  "
+#~ "<p>اتصالاتی به چندین پایگاه داده‌های خارجی فراهم شده است که در آن‌ها می‌توان"
+#~ " به دنبال ارجاعات گشت. بعضی از آن‌ها نیاز به ثبت‌نام یا تنظیمات برای ورود "
+#~ "دارند. برای اطلاعات بیشتر به سایت این پایگاه داده‌های خارجی مراجعه کنید. با "
+#~ "کلیک بر روی «افزودن المان» می‌توانید یک یا چند پایگاه داده را اضافه کنید.  "
+#~ "</p>  برای ویرایش یا حذف یک اتصال موجود بر روی آیکون چرخ‌دنده کلیک کنید.  "
+#~ "</p>  <p>  برای اینکه روند بررسی ارجاع به موقع کار خود را تمام کند تنظیم   "
+#~ "<tt>citation_checking_max_processes</tt>  در فایل تنظیمات باید به طرز مناسبی"
+#~ " مقداردهی شود. لطفاً به راهنمایی‌های  <tt>config.inc.php</tt>  مراجعه کنید."
+
+#~ msgid "manager.setup.filter.grid.errorDeletingFilter"
+#~ msgstr ""
+#~ "هنگام حذف این فیلتر خطایی رخ داد. لطفاً این را به عنوان یک باگ گزارش کنید"
+
+#~ msgid "manager.setup.filter.grid.filterDisplayName"
+#~ msgstr "اتصال گر"
+
+#~ msgid "manager.setup.filter.grid.filterSettings"
+#~ msgstr "اطلاعات ثبت‌نام و تنظیمات اتصال گر"
+
+#~ msgid "manager.setup.filter.grid.filterTemplateRequired"
+#~ msgstr "لطفاً یکی از تبدیلات را از منو انتخاب کنید"
+
+#~ msgid "manager.setup.filter.grid.confirmDelete"
+#~ msgstr "آیا واقعاً می‌خواهید {$filterName} را حذف کنید"
+
+#~ msgid "manager.setup.filter.lookup.grid.descriptionConfirm"
+#~ msgstr ""
+#~ "شما پایگاه داده {$filterDisplayName} را برای افزودن انتخاب کرده‌اید. لطفاً "
+#~ "بر روی «تأیید» کلیک کنید تا تأیید شود"
+
+#~ msgid "manager.setup.filter.lookup.grid.descriptionTemplate"
+#~ msgstr "لطفاً یک پایگاه اطلاعاتی برای جستجو انتخاب کنید"
+
+#~ msgid "manager.setup.filter.lookup.grid.description.iSBNdb"
+#~ msgstr ""
+#~ "<p>  این فیلتر به پایگاه داده کتاب و شابک  <a href=\"http://isbndb.com/\" "
+#~ "target=\"_blank\">ISBNdb.com</a>  متصل می‌شود  </p><p>  برای استفاده از این "
+#~ "امکان داشتن کلید ISBNdb الزامی است. برای اطلاع از نحوه تولید یک کلید به  <a "
+#~ "href=\"http://isbndb.com/api/v1/docs/keys\" target=\"_blank\">مستندات این "
+#~ "پایگاه داده</a>  مراجعه کنید</p>"
+
+#~ msgid "manager.setup.filter.lookup.grid.description.crossref"
+#~ msgstr ""
+#~ "<p>  این فیلتر به پایگاه داده ارجاع Crossref (با استفاده از   <a "
+#~ "href=\"http://www.crossref.org/02publishers/openurl_info.html\" "
+#~ "target=\"_blank\">OpenURL Query Interface</a>  ) متصل می‌شود.  </p>  <p>  "
+#~ "برای استفاده از این فیلتر شما می‌توانید از حساب کاربری خود در سیستم Crossref"
+#~ " استفاده کنید و یا با یک ایمیل معتبر در Crossref به آدرس   <a "
+#~ "href=\"http://www.crossref.org/requestaccount/\" target=\"_blank\"> "
+#~ "http://www.crossref.org/requestaccount</a>.</p>  ثبت‌نام کنید  </p>"
+
+#~ msgid "manager.setup.filter.lookup.grid.description.pubMed"
+#~ msgstr ""
+#~ "<p>  این فیلتر به پایگاه داده\t<a "
+#~ "href=\"http://www.ncbi.nlm.nih.gov/gquery/gquery.fcgi\" target=\"_blank\"> "
+#~ "PubMed Entrez</a>  متصل می‌شود.  </p>  <p>  ایمیل ثبت‌نام الزامی نیست ولی "
+#~ "ممکن است در صورت برخورد به اشکال در اتصال لازم شود. لطفاً به قسمت   <a "
+#~ "href=\"http://www.be-"
+#~ "md.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=helpeutils&part=chapter2#chapter2.Usage_Guidelines_and_Requiremen\""
+#~ " target=\"_blank\">  راهنمای استفاده و ملزومات  </a>  در مستندات Entrez "
+#~ "مراجعه کنید.  </p>"
+
+#~ msgid "manager.setup.filter.lookup.grid.description.worldCat"
+#~ msgstr ""
+#~ "این فیلتر به سرویس‌ها OCLC شامل:<a "
+#~ "href=\"http://www.worldcat.org/affiliate/webservices/xisbn/app.jsp\" "
+#~ "target=\"_blank\">xISBN</a>   و   <a href=\"http://www.worldcat.org/\" "
+#~ "target=\"_blank\">Worldcat</a>  متصل می‌شود  </p>  <p>  اگر شما یک   <a "
+#~ "href=\"http://oclc.org/developer/develop/web-services.html\" "
+#~ "target=\"_blank\">  کلید API  </a>  Worldcat  دارید در این صورت می‌توانید با"
+#~ " وارد کردن کلید در قسمت زیر وارد Worldcat شوید.  </p>"
+
+#~ msgid "manager.setup.filter.lookup.grid.loadMessage"
+#~ msgstr "لطفاً تا زمان بارگیری جدول تنظیمات پایگاه ارجاعات صبر کنید..."
+
+#~ msgid "manager.setup.filter.lookup.grid.title"
+#~ msgstr "اتصالات پایگاه ارجاعات"
+
+#~ msgid "manager.setup.filter.noMoreTemplates"
+#~ msgstr ""
+#~ "تمامی تبدیلات اضافه شده‌اند. لطفاً بر روی لغو کلیک کنید تا به صفحه تنظیمات "
+#~ "برگردید."
+
+#~ msgid "manager.setup.filter.parser.grid.descriptionConfirm"
+#~ msgstr ""
+#~ "شما مفسر  {$filterDisplayName}  را برای افزودن انتخاب کرده‌اید. لطفاً بر روی"
+#~ " «تأیید» کلیک کنید."
+
+#~ msgid "manager.setup.filter.parser.grid.descriptionTemplate"
+#~ msgstr "لطفاً یک مفسر ارجاعات را انتخاب کنید."
+
+#~ msgid "manager.setup.filter.parser.grid.description.freeCite"
+#~ msgstr ""
+#~ "<p>  این فیلتر استخراج، به سرویس وب   <a "
+#~ "href=\"http://freecite.library.brown.edu/\" target=\"_blank\">FreeCite</a>  "
+#~ "متصل می‌شود  .</p>"
+
+#~ msgid "manager.setup.filter.parser.grid.description.paraCite"
+#~ msgstr ""
+#~ "<p>  این فیلتر استخراج، از ماژول‌های پرل (Perl)  <a "
+#~ "href=\"http://paracite.eprints.org/developers/\" "
+#~ "target=\"_blank\">ParaTools</a>  برای تأمین قابلیت تفسیر ارجاعات   <a "
+#~ "href=\"http://paracite.eprints.org\" target=\"_blank\">ParaCite</a>  استفاده"
+#~ " می‌کند. بدین منظور باید پرل نصب باشد. همچنین ماژول‌های  CPAN شامل  <a "
+#~ "href=\"http://search.cpan.org/~mjewell/Biblio-Citation-Parser-1.10/\" "
+#~ "target=\"_blank\">Biblio::Citation::Parser</a>  و  <a "
+#~ "href=\"http://search.cpan.org/~sburke/Text-Unidecode-0.04/\" "
+#~ "target=\"_blank\">Text::Unidecode</a>  نیز لازم هستند. همچنین لازم است دستور"
+#~ "  <tt>perl</tt>  در فایل تنظیمات را تنظیم کنید. این دستور را می‌توان در "
+#~ "دستورات خارجی   <tt>config.inc.php</tt>  بیابید.  </p>  <p>  همچنین "
+#~ "می‌توانید انتخاب کنید که از کدام ماژول مفسر  ParaTools  استفاده شود. "
+#~ "گزینه‌های در دسترس عبارت‌اند از:   استاندارد، <a "
+#~ "href=\"http://search.cpan.org/~mjewell/Biblio-Citation-"
+#~ "Parser-1.10/lib/Biblio/Citation/Parser/Jiao.pm\" target=\"_blank\">Jiao</a> "
+#~ "و <a href=\"http://search.cpan.org/~mjewell/Biblio-Citation-"
+#~ "Parser-1.10/lib/Biblio/Citation/Parser/Citebase.pm\" "
+#~ "target=\"_blank\">Citebase</a></p>"
+
+#~ msgid "manager.setup.filter.parser.grid.description.parsCit"
+#~ msgstr ""
+#~ "<p>  این فیلتر استخراج، به سرویس وب   <a "
+#~ "href=\"http://aye.comp.nus.edu.sg/parsCit/\" target=\"_blank\">ParsCit</a>  "
+#~ "متصل می‌شود.  </p>"
+
+#~ msgid "manager.setup.filter.parser.grid.description.regEx"
+#~ msgstr ""
+#~ "فیلتر   RegEx   از یک سری عبارات منظم برای تفسیر ارجاعات استفاده می‌کند."
+
+#~ msgid "manager.setup.filter.parser.grid.loadMessage"
+#~ msgstr "لطفاً تا زمان بارگیری جدول تنظیمات مفسر ارجاعات صبر کنید..."
+
+#~ msgid "manager.setup.filter.parser.grid.title"
+#~ msgstr "سرویس‌های استخراج ارجاعات"
+
+#~ msgid "manager.setup.filter.pleaseSelect"
+#~ msgstr "لطفاً انتخاب کنید ..."
+
+#~ msgid "manager.setup.reviewOptions.reviewTime"
+#~ msgstr "مهلت پیش‌فرض انجام داوری"
+
+#~ msgid "manager.setup.sortableByComponent"
+#~ msgstr "قابل مرتب‌سازی بر اساس اجزاء"
+
+#~ msgid "manager.setup.genres.sortable"
+#~ msgstr "اجازه به فایل‌های این نوع برای دسته‌بندی برحسب فصل"
+
+#, fuzzy
+#~ msgid "emails.reviewRemind.body"
+#~ msgstr "ایمیلی از طرف دبیر یا دبیر بخش به داور برای یادآوری انجام داوری"
