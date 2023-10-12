@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-19T10:49:46+00:00\n"
-"PO-Revision-Date: 2021-08-19 04:05+0000\n"
+"PO-Revision-Date: 2023-10-12 10:50+0330\n"
 "Last-Translator: Rahman Ramsi <rahmanramsi19@gmail.com>\n"
-"Language-Team: Persian <http://translate.pkp.sfu.ca/projects/pkp-lib/common/fa_IR/>\n"
+"Language-Team: Persian <http://translate.pkp.sfu.ca/projects/pkp-lib/common/"
+"fa_IR/>\n"
 "Language: fa_IR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 msgid "common.publicKnowledgeProject"
 msgstr "پروژه دانش عمومی"
@@ -102,8 +103,7 @@ msgid "common.grid"
 msgstr "شبکه"
 
 msgid "common.confirmDelete"
-msgstr ""
-"آیا مطمئنید که می‌خواهید این مورد را حذف کنید؟ این عمل بازگشت ناپذیر است"
+msgstr "آیا مطمئنید که می‌خواهید این مورد را حذف کنید؟ این عمل بازگشت ناپذیر است"
 
 msgid "common.abstract"
 msgstr "چکیده"
@@ -130,22 +130,22 @@ msgid "common.add"
 msgstr "افزودن"
 
 msgid "common.addCCBCC"
-msgstr "Add CC/BCC"
+msgstr "CC/BCC را اضافه کنید"
 
 msgid "common.addFiles"
-msgstr "Add Files"
+msgstr "فایل ها را اضافه کنید"
 
 msgid "common.addSelf"
 msgstr "مرا اضافه کن"
 
 msgid "common.attachedFiles"
-msgstr "Attached Files"
+msgstr "فایل های پیوست شده"
 
 msgid "common.attachFiles"
-msgstr "Attach Files"
+msgstr "فایل ها را ضمیمه کنید"
 
 msgid "common.attachSelected"
-msgstr "Attach Selected"
+msgstr "انتخاب شده را ضمیمه کنید"
 
 msgid "common.name"
 msgstr "نام"
@@ -167,9 +167,9 @@ msgstr "متن جایگزین"
 
 msgid "common.altTextInstructions"
 msgstr ""
-"این تصویر را برای بازدیدکنندگانی که سایت را در یک مرورگر فقط متن یا با "
-"دستگاه های کمکی مشاهده می کنند ، توصیف کنید. مثال: \\ \"سردبیر ما در کنفرانس"
-" PKP صحبت می کند. \\"
+"این تصویر را برای بازدیدکنندگانی که سایت را در یک مرورگر فقط متن یا با دستگاه "
+"های کمکی مشاهده می کنند ، توصیف کنید. مثال: \\ \"سردبیر ما در کنفرانس PKP صحبت "
+"می کند. \\"
 
 msgid "common.and"
 msgstr "و"
@@ -215,23 +215,21 @@ msgstr "برای جلوگیری از ارسال هرزنامه بایستی مر
 
 msgid "common.ccLicense"
 msgstr ""
-"<br /><br />  <a target=\"_new\" rel=\"license\" "
-"href=\"https://creativecommons.org/licenses/by-nc/3.0/\">  <img "
-"alt=\"Creative Commons License\" style=\"border-width:0\" "
-"src=\"http://i.creativecommons.org/l/by-nc/3.0/80x15.png\"/>  </a>  <br/>  "
-"کار حاضر تحت مجوز   <a rel=\"license\" target=\"_new\" "
-"href=\"https://creativecommons.org/licenses/by-nc/3.0/\">  Creative Commons "
-"Attribution 3.0  </a>  می‌باشد."
+"<br /><br />  <a target=\"_new\" rel=\"license\" href=\"https://"
+"creativecommons.org/licenses/by-nc/3.0/\">  <img alt=\"Creative Commons "
+"License\" style=\"border-width:0\" src=\"http://i.creativecommons.org/l/by-"
+"nc/3.0/80x15.png\"/>  </a>  <br/>  کار حاضر تحت مجوز   <a rel=\"license\" "
+"target=\"_new\" href=\"https://creativecommons.org/licenses/by-nc/3.0/\">  "
+"Creative Commons Attribution 3.0  </a>  می‌باشد."
 
 msgid "common.ccLicense.rt"
 msgstr ""
-"<div class=\"rtBlock\">  <br />  <a rel=\"license\" "
-"href=\"https://creativecommons.org/licenses/by-nc/3.0/\" "
-"target=\"_new\"><img alt=\"Creative Commons License\" style=\"border-"
-"width:0\" src=\"http://i.creativecommons.org/l/by-nc/3.0/80x15.png\" /></a>"
-"  <br />  کار حاضر تحت مجوز   <a rel=\"license\" target=\"_new\" "
-"href=\"https://creativecommons.org/licenses/by-nc/3.0/\">  Creative Commons "
-"Attribution 3.0  </a>  می‌باشد."
+"<div class=\"rtBlock\">  <br />  <a rel=\"license\" href=\"https://"
+"creativecommons.org/licenses/by-nc/3.0/\" target=\"_new\"><img alt=\"Creative "
+"Commons License\" style=\"border-width:0\" src=\"http://i.creativecommons.org/"
+"l/by-nc/3.0/80x15.png\" /></a>  <br />  کار حاضر تحت مجوز   <a rel=\"license\" "
+"target=\"_new\" href=\"https://creativecommons.org/licenses/by-nc/3.0/\">  "
+"Creative Commons Attribution 3.0  </a>  می‌باشد."
 
 msgid "common.changesSaved"
 msgstr "تغییرات ذخیره شد"
@@ -327,7 +325,7 @@ msgid "common.deleteSelection"
 msgstr "حذف انتخاب شده‌ها"
 
 msgid "common.deselect"
-msgstr "Deselect"
+msgstr "لغو انتخاب"
 
 msgid "common.designation"
 msgstr "تعیین"
@@ -336,19 +334,19 @@ msgid "common.description"
 msgstr "توضیح"
 
 msgid "common.details"
-msgstr "Details"
+msgstr "جزئیات"
 
 msgid "common.dimensionsInches"
-msgstr "{$width}&Prime;&times;{$height}&Prime; at {$dpi} DPI/PPI"
+msgstr "{$width}&Prime;&times;{$height}&Prime; در {$dpi} DPI/PPI"
 
 msgid "common.dimensionsPixels"
 msgstr "{$width}&times;{$height} پیکسل"
 
 msgid "common.discardChanges"
-msgstr "No, discard unsaved changes"
+msgstr "نه، تغییرات ذخیره نشده را کنار بگذارید"
 
 msgid "common.disconnected"
-msgstr "Disconnected"
+msgstr "قطع شده"
 
 msgid "common.disable"
 msgstr "غیرفعال کردن"
@@ -369,22 +367,22 @@ msgid "common.downloadPdf"
 msgstr "دانلود PDF"
 
 msgid "common.downloadReport"
-msgstr "Download Report"
+msgstr "دانلود گزارش"
 
 msgid "common.dragAndDropHere"
-msgstr "Drag and drop files here."
+msgstr "فایل ها را در اینجا بکشید و رها کنید."
 
 msgid "common.orUploadFile"
-msgstr "Or upload a file"
+msgstr "یا یک فایل آپلود کنید"
 
 msgid "common.edit"
 msgstr "ویرایش"
 
 msgid "common.editItem"
-msgstr "Edit {$name}"
+msgstr "ویرایش {$name}"
 
 msgid "common.emailTemplates"
-msgstr "Email Templates"
+msgstr "قالب های ایمیل"
 
 msgid "common.enable"
 msgstr "فعال کردن"
@@ -400,8 +398,8 @@ msgstr "یک خطای اتصال پایگاه داده ناشناخته رخ د�
 
 msgid "common.error.framesRequired"
 msgstr ""
-"این صفحه نیاز به فریم دارد. برای مشاهده نسخه بدون فریم  <a href=\"{$url}\">"
-"  اینجا  </a>  را کلیک کنید."
+"این صفحه نیاز به فریم دارد. برای مشاهده نسخه بدون فریم  <a href=\"{$url}\">  "
+"اینجا  </a>  را کلیک کنید."
 
 msgid "common.event"
 msgstr "رویداد"
@@ -441,27 +439,27 @@ msgstr "نوع فایل"
 
 msgid "common.fileUploaderError"
 msgstr ""
-"سامانه آپلود فایل در حال بارگذاری است. در صورت عدم نمایش صحیح، احتمال آن "
-"می‌رود که این سامانه در مرورگر شما پشتیبانی نمی‌شود. برای حل این مشکل با "
-"مدیر سایت تماس حاصل فرمایید."
+"سامانه آپلود فایل در حال بارگذاری است. در صورت عدم نمایش صحیح، احتمال آن می‌رود "
+"که این سامانه در مرورگر شما پشتیبانی نمی‌شود. برای حل این مشکل با مدیر سایت "
+"تماس حاصل فرمایید."
 
 msgid "common.filter"
 msgstr "پالایش"
 
 msgid "common.filterAdd"
-msgstr "Add filter: {$filterTitle}"
+msgstr "افزودن فیلتر: {$filterTitle}"
 
 msgid "common.filterRemove"
-msgstr "Clear filter: {$filterTitle}"
+msgstr "پاک کردن فیلتر: {$filterTitle}"
 
 msgid "common.findTemplate"
-msgstr "Find Template"
+msgstr "الگو را پیدا کنید"
 
 msgid "common.formatting"
-msgstr "Formatting"
+msgstr "قالب بندی"
 
 msgid "common.geographic"
-msgstr "Geographic"
+msgstr "جغرافیایی"
 
 msgid "common.go"
 msgstr "برو"
@@ -491,13 +489,13 @@ msgid "common.inProgress"
 msgstr "در حال پیشروی"
 
 msgid "common.insert"
-msgstr "Insert"
+msgstr "درج"
 
 msgid "common.insertContent"
-msgstr "Insert Content"
+msgstr "درج محتوا"
 
 msgid "common.insertContentSearch"
-msgstr "Find content to insert"
+msgstr "محتوایی را برای درج پیدا کنید"
 
 msgid "common.itemsPerPage"
 msgstr "تعداد موارد در هر صفحه"
@@ -506,7 +504,7 @@ msgid "common.keywords"
 msgstr "کلمات کلیدی"
 
 msgid "common.label"
-msgstr "Label"
+msgstr "برچسب"
 
 msgid "common.language"
 msgstr "زبان"
@@ -515,7 +513,7 @@ msgid "common.languages"
 msgstr "زبان‌ها"
 
 msgid "common.lastSaved"
-msgstr "Last saved {$when}"
+msgstr "آخرین ذخیره {$when}"
 
 msgid "common.lastActivity"
 msgstr "آخرین فعالیت ثبت شده در {$date}."
@@ -524,13 +522,13 @@ msgid "common.less"
 msgstr "کمتر"
 
 msgid "common.lessThan"
-msgstr "{$value} or less"
+msgstr "{$value} یا کمتر"
 
 msgid "common.lessThanOnly"
-msgstr "Less than"
+msgstr "کمتر از"
 
 msgid "common.keepWorking"
-msgstr "Keep Working"
+msgstr "به کار ادامه دهید"
 
 msgid "common.commaListSeparator"
 msgstr ", "
@@ -560,10 +558,10 @@ msgid "common.more"
 msgstr "بیشتر"
 
 msgid "common.moreThan"
-msgstr "{$value} or more"
+msgstr "{$value} یا بیشتر"
 
 msgid "common.moreThanOnly"
-msgstr "More than"
+msgstr "بیشتر از"
 
 msgid "common.noneAssigned"
 msgstr "هیچ موردی انتساب داده نشده"
@@ -572,16 +570,16 @@ msgid "common.none"
 msgstr "هیچکدام"
 
 msgid "common.noneSelected"
-msgstr "None selected"
+msgstr "هیچ کدام انتخاب نشده است"
 
 msgid "common.noneProvided"
-msgstr "None provided"
+msgstr "هیچ کدام ارائه نشده است"
 
 msgid "common.no"
 msgstr "خیر"
 
 msgid "common.noItemsFound"
-msgstr "No items found."
+msgstr "موردی یافت نشد."
 
 msgid "common.noComments"
 msgstr "بدون نظر"
@@ -599,8 +597,7 @@ msgid "common.note"
 msgstr "یادداشت"
 
 msgid "common.noTemporaryFile"
-msgstr ""
-"The file you uploaded could not be found. Please try to upload it again."
+msgstr "فایلی که آپلود کردید یافت نشد. لطفا سعی کنید دوباره آن را آپلود کنید."
 
 msgid "common.notes"
 msgstr "یادداشت‌ها"
@@ -620,7 +617,7 @@ msgid "common.noMatches"
 msgstr "بدون تطبیق"
 
 msgid "common.numberedMore"
-msgstr "{$number} more"
+msgstr "{$number} بیشتر"
 
 msgid "common.off"
 msgstr "خاموش"
@@ -659,19 +656,19 @@ msgid "common.override"
 msgstr "نادیده گرفتن"
 
 msgid "common.pagination"
-msgstr "{$start}-{$end} of {$total}"
+msgstr "{$start}-{$end} از {$total}"
 
 msgid "common.pagination.label"
-msgstr "View additional pages"
+msgstr "مشاهده صفحات اضافی"
 
 msgid "common.pagination.goToPage"
-msgstr "Go to {$page}"
+msgstr "رفتن به {$page}"
 
 msgid "common.pagination.next"
-msgstr "Next page"
+msgstr "صفحه بعد"
 
 msgid "common.pagination.previous"
-msgstr "Previous page"
+msgstr "صفحه قبل"
 
 msgid "common.pageNumber"
 msgstr "صفحه {$pageNumber}"
@@ -719,7 +716,7 @@ msgid "common.readMoreWithTitle"
 msgstr "مطالعه بیشتر درباره {$title}"
 
 msgid "common.reconnecting"
-msgstr "Reconnecting"
+msgstr "درحال اتصال مجدد"
 
 msgid "common.record"
 msgstr "ذخیره"
@@ -746,7 +743,7 @@ msgid "common.remove"
 msgstr "حذف"
 
 msgid "common.removeItem"
-msgstr "Remove {$item}"
+msgstr "حذف {$item}"
 
 msgid "common.removeSelection"
 msgstr "حذف انتخاب  شده‌ها"
@@ -767,10 +764,10 @@ msgid "common.reset"
 msgstr "تنظیم مجدد"
 
 msgid "common.reviewRoundNumber"
-msgstr "Round {$round}"
+msgstr "دور {$round}"
 
 msgid "common.role"
-msgstr "Role"
+msgstr "نقش"
 
 msgid "common.saveAndContinue"
 msgstr "ذخیره و ادامه"
@@ -788,16 +785,16 @@ msgid "common.search"
 msgstr "جستجو"
 
 msgid "common.searchPhrase"
-msgstr "Search Phrase"
+msgstr "عبارت جستجو"
 
 msgid "common.searching"
-msgstr "Searching"
+msgstr "جستجو"
 
 msgid "common.searchQuery"
 msgstr "عبارت مورد جستجو"
 
 msgid "common.clearSearch"
-msgstr "Clear search phrase"
+msgstr "عبارت جستجو را پاک کنید"
 
 msgid "common.second"
 msgstr "ثانیه(ها)"
@@ -806,7 +803,7 @@ msgid "common.selectAll"
 msgstr "انتخاب همه"
 
 msgid "common.selectedPrefix"
-msgstr "Selected:"
+msgstr "انتخاب شده:"
 
 msgid "common.selectNone"
 msgstr "انتخاب هیچکدام"
@@ -815,16 +812,16 @@ msgid "common.select"
 msgstr "انتخاب"
 
 msgid "common.selectWithName"
-msgstr "Select {$name}"
+msgstr "انتخاب {$name}"
 
 msgid "common.sendEmail"
 msgstr "ارسال ایمیل"
 
 msgid "common.showAllSteps"
-msgstr "Show all steps"
+msgstr "نمایش تمام مراحل"
 
 msgid "common.showingSteps"
-msgstr "{$current}/{$total} steps"
+msgstr "{$current}/{$total} مرحله"
 
 msgid "common.size"
 msgstr "اندازه"
@@ -842,7 +839,7 @@ msgid "common.subjects"
 msgstr "موضوعات"
 
 msgid "common.submenu"
-msgstr "Submenu"
+msgstr "منوی فرعی"
 
 msgid "common.subtitle"
 msgstr "زیر عنوان"
@@ -851,10 +848,10 @@ msgid "common.suggest"
 msgstr "پیشنهاد دادن"
 
 msgid "common.switchTo"
-msgstr "Switch to"
+msgstr "تغییر به"
 
 msgid "common.switchToNamedItem"
-msgstr "Switch to {$name}"
+msgstr "تغییر به {$name}"
 
 msgid "common.title"
 msgstr "عنوان"
@@ -872,10 +869,10 @@ msgid "common.type"
 msgstr "نوع"
 
 msgid "common.uploadedBy"
-msgstr "Uploaded by {$name}"
+msgstr "بارگذاری شده توسط {$name}"
 
 msgid "common.uploadedByAndWhen"
-msgstr "Uploaded by {$name} on {$date}"
+msgstr "بارگذاری شده توسط {$name} در {$date}"
 
 msgid "common.component"
 msgstr "اجزاء"
@@ -885,21 +882,21 @@ msgstr "آغاز نشده است"
 
 msgid "common.unknownError"
 msgstr ""
-"خطای غیرمنتظره‌ای رخ داده است. لطفاً صفحه را از اول بارگذاری کرده و دوباره "
-"تلاش کنید"
+"خطای غیرمنتظره‌ای رخ داده است. لطفاً صفحه را از اول بارگذاری کرده و دوباره تلاش "
+"کنید"
 
 msgid "common.unread"
 msgstr "خوانده نشده"
 
 msgid "common.unsavedChanges"
-msgstr "Unsaved Changes"
+msgstr "تغییرات ذخیره نشده"
 
 msgid "common.unsavedChangesMessage"
 msgstr ""
-"We found unsaved changes from {$when}. This can happen if you lose "
-"connection to the server while working. Restoring those changes may "
-"overwrite any changes you have made since then. Would you like to restore "
-"those changes now?"
+"ما تغییرات ذخیره نشده را از {$when} پیدا کردیم. اگر در حین کار اتصال به سرور "
+"را قطع کنید، ممکن است این اتفاق بیفتد. بازگرداندن آن تغییرات ممکن است تغییراتی "
+"را که از آن زمان تا کنون انجام داده اید، بازنویسی کند. آیا می‌خواهید اکنون آن "
+"تغییرات را بازیابی کنید؟"
 
 msgid "common.untitled"
 msgstr "بدون عنوان"
@@ -927,13 +924,13 @@ msgid "common.upload.addFile"
 msgstr "آپلود فایل"
 
 msgid "common.upload.addFile.description"
-msgstr "Upload a file from your computer."
+msgstr "یک فایل را از رایانه خود آپلود کنید."
 
 msgid "common.upload.restore"
-msgstr "Restore Original"
+msgstr "بازیابی اصلی"
 
 msgid "common.upload.thumbnailPreview"
-msgstr "Preview of the currently selected image."
+msgstr "پیش نمایش تصویر انتخاب شده فعلی."
 
 msgid "common.upload.changeFile"
 msgstr "تغییر فایل"
@@ -948,16 +945,16 @@ msgid "common.user"
 msgstr "کاربر"
 
 msgid "common.user.nonexistent"
-msgstr "[Nonexistent user]"
+msgstr "[کاربر ناموجود]"
 
 msgid "common.view"
 msgstr "مشاهده"
 
 msgid "common.viewError"
-msgstr "View Error"
+msgstr "نمایش خطا"
 
 msgid "common.viewWithName"
-msgstr "View {$name}"
+msgstr "مشاهده {$name}"
 
 msgid "common.viewProfile"
 msgstr "مشاهده پروفایل"
@@ -987,7 +984,7 @@ msgid "common.count"
 msgstr "تعداد"
 
 msgid "common.publicAccess"
-msgstr "Public Access"
+msgstr "دسترسی عمومی"
 
 msgid "debug.databaseQueries"
 msgstr "تعداد query در بانک اطلاعاتی"
@@ -1023,30 +1020,30 @@ msgid "email.addAttachment"
 msgstr "افزودن پیوست"
 
 msgid "email.addAttachment.submissionFiles.attach"
-msgstr "Attach Submission Files"
+msgstr "فایل های ارسالی را پیوست کنید"
 
 msgid "email.addAttachment.submissionFiles.submissionDescription"
-msgstr "Attach files uploaded by the author in the submission stage."
+msgstr "فایل های بارگذاری شده توسط نویسنده را در مرحله ارسال پیوست کنید."
 
 msgid "email.addAttachment.submissionFiles.reviewDescription"
 msgstr ""
-"Attach files uploaded during the submission workflow, such as revisions or "
-"files to be reviewed."
+"فایل‌های آپلود شده در جریان کار ارسال، مانند ویرایش‌ها یا فایل‌هایی که باید بررسی "
+"شوند، پیوست کنید."
 
 msgid "email.addAttachment.libraryFiles"
-msgstr "Library Files"
+msgstr "فایل های کتابخانه"
 
 msgid "email.addAttachment.libraryFiles.attach"
-msgstr "Attach Library Files"
+msgstr "فایل های کتابخانه را پیوست کنید"
 
 msgid "email.addAttachment.libraryFiles.description"
-msgstr "Attach files from the Submission and Publisher Libraries."
+msgstr "فایل‌ها را از کتابخانه‌های ارسالی و ناشر پیوست کنید."
 
 msgid "email.addAttachment.reviewFiles.attach"
-msgstr "Attach Review Files"
+msgstr "فایل های بررسی را پیوست کنید"
 
 msgid "email.addAttachment.reviewFiles.description"
-msgstr "Attach files that were uploaded by reviewers"
+msgstr "فایل هایی را که توسط بازبینان آپلود شده اند، پیوست کنید"
 
 msgid "email.addBccRecipient"
 msgstr "افزودن مخاطب (محرمانه)"
@@ -1061,7 +1058,7 @@ msgid "email.attachments"
 msgstr "پیوست‌ها"
 
 msgid "email.attachmentNotFound"
-msgstr "The file {$fileName} could not be attached."
+msgstr "فایل {$fileName} پیوست نشد."
 
 msgid "email.bcc"
 msgstr "مخاطب (محرمانه)"
@@ -1077,8 +1074,8 @@ msgstr "مخاطب"
 
 msgid "email.confirmSwitchLocale"
 msgstr ""
-"Are you sure you want to change to {$localeName} to compose this email? Any "
-"changes you have made to the subject and body of the email will be lost."
+"آیا مطمئن هستید که می خواهید برای نوشتن این ایمیل به {$localeName} تغییر دهید؟ "
+"هر تغییری که در موضوع و متن ایمیل ایجاد کرده باشید از بین خواهد رفت."
 
 msgid "email.compose"
 msgstr "ارسال ایمیل"
@@ -1092,8 +1089,8 @@ msgstr ""
 
 msgid "email.compose.error"
 msgstr ""
-"There was a problem sending an email message. Please try again later, or "
-"contact your system administrator."
+"مشکلی در ارسال پیام ایمیل وجود داشت. لطفاً بعداً دوباره امتحان کنید یا با سرپرست "
+"سیستم خود تماس بگیرید."
 
 msgid "email.email"
 msgstr "ایمیل"
@@ -1151,68 +1148,68 @@ msgstr "تأیید"
 
 msgid "form.dataHasChanged"
 msgstr ""
-"داده‌های موجود در این فرم تغییر داده شده‌اند. آیا مطمئنید که می‌خواهید بدون "
-"ذخیره آن‌ها ادامه دهید؟"
+"داده‌های موجود در این فرم تغییر داده شده‌اند. آیا مطمئنید که می‌خواهید بدون ذخیره "
+"آن‌ها ادامه دهید؟"
 
 msgid "form.disallowedLocales"
-msgstr "Only the following languages are allowed: {$languages}."
+msgstr "فقط زبان‌های زیر مجاز هستند: {$languages}."
 
 msgid "form.disallowedProp"
-msgstr "This property is not allowed."
+msgstr "این ویژگی مجاز نیست."
 
 msgid "form.dropzone.dictDefaultMessage"
-msgstr "Drop files here to upload"
+msgstr "فایل را اینجا رها کنید تا آپلود شود"
 
 msgid "form.dropzone.dictFallbackMessage"
-msgstr "Your browser does not support drag'n'drop file uploads."
+msgstr "مرورگر شما از بارگذاری فایل با کشیدن و رها کردن پشتیبانی نمی کند."
 
 msgid "form.dropzone.dictFallbackText"
-msgstr "Please use the fallback form below to upload your files."
+msgstr "لطفا از فرم بازگشتی زیر برای آپلود فایل های خود استفاده کنید."
 
 msgid "form.dropzone.dictFileTooBig"
 msgstr ""
-"File is too big ({{filesize}}mb). Files larger than {{maxFilesize}}mb can "
-"not be uploaded."
+"فایل خیلی بزرگ است ({{filesize}}مگابایت). فایل های بزرگتر از {{maxFilesize}} "
+"مگابایت را نمی توان آپلود کرد."
 
 msgid "form.dropzone.dictInvalidFileType"
-msgstr "Files of this type can not be uploaded."
+msgstr "فایل هایی از این نوع را نمی توان آپلود کرد."
 
 msgid "form.dropzone.dictResponseError"
 msgstr ""
-"Server responded with {{statusCode}} code. Please contact the system "
-"administrator if this problem persists."
+"سرور با کد {{statusCode}} پاسخ داد. لطفاً در صورت ادامه این مشکل با مدیر سیستم "
+"تماس بگیرید."
 
 msgid "form.dropzone.dictCancelUpload"
-msgstr "Cancel upload"
+msgstr "لغو آپلود"
 
 msgid "form.dropzone.dictUploadCanceled"
-msgstr "Upload canceled"
+msgstr "آپلود لغو شد"
 
 msgid "form.dropzone.dictCancelUploadConfirmation"
-msgstr "Are you sure you want to cancel this upload?"
+msgstr "آیا مطمئنید که می خواهید این آپلود را لغو کنید؟"
 
 msgid "form.dropzone.dictRemoveFile"
-msgstr "Remove file"
+msgstr "حذف فایل"
 
 msgid "form.dropzone.dictMaxFilesExceeded"
-msgstr "You can not upload any more files."
+msgstr "شما نمی توانید هیچ فایل دیگری را آپلود کنید."
 
 msgid "form.errorA11y"
-msgstr "Go to {$fieldLabel}: {$errorMessage}"
+msgstr "به {$fieldLabel} بروید: {$errorMessage}"
 
 msgid "form.errorGoTo"
-msgstr "Jump to next error"
+msgstr "پرش به خطای بعدی"
 
 msgid "form.errorOne"
-msgstr "Please correct one error."
+msgstr "لطفا یک خطا را اصلاح کنید."
 
 msgid "form.errorMany"
-msgstr "Please correct {$count} errors."
+msgstr "لطفاً خطاهای {$count} را تصحیح کنید."
 
 msgid "form.errors"
 msgstr ""
-"The form was not saved because {$count} error(s) were encountered. Please "
-"correct these errors and try again."
+"فرم ذخیره نشد زیرا با {$count} خطا مواجه شد. لطفاً این خطاها را اصلاح کنید و "
+"دوباره امتحان کنید."
 
 msgid "form.errorsOccurred"
 msgstr "هنگام پردازش فرم خطاهایی رخ داد"
@@ -1238,8 +1235,8 @@ msgstr "داده‌های فرم به صورت صحیحی وارد نشده اس
 
 msgid "form.csrfInvalid"
 msgstr ""
-"The form could not be submitted. You may have been logged out. Please reload"
-" the page and try again."
+"فرم ارسال نشد. ممکن است از سیستم خارج شده باشید. لطفا صفحه را مجددا بارگذاری "
+"کنید و دوباره تلاش کنید."
 
 msgid "form.fileRequired"
 msgstr "آپلود کردن فایل الزامی است."
@@ -1248,10 +1245,10 @@ msgid "form.required"
 msgstr "(* الزامی)"
 
 msgid "form.requirePrimaryLocale"
-msgstr "You must complete this field in {$language}."
+msgstr "شما باید این فیلد را در {$language} تکمیل کنید."
 
 msgid "form.requireId"
-msgstr "You must provide a valid ID."
+msgstr "شما باید یک شناسه معتبر ارائه دهید."
 
 msgid "form.resubmit"
 msgstr "ارائه مجدد"
@@ -1269,14 +1266,13 @@ msgid "form.submit"
 msgstr "ثبت"
 
 msgid "form.invalidImage"
-msgstr ""
-"تصویر آپلود شده معتبر نیست. فرمت‌های معتبر شامل jpg، png و gif می‌باشد."
+msgstr "تصویر آپلود شده معتبر نیست. فرمت‌های معتبر شامل jpg، png و gif می‌باشد."
 
 msgid "form.multilingualLabel"
-msgstr "{$label} in {$localeName}"
+msgstr "{$label} در {$localeName}"
 
 msgid "form.multilingualProgress"
-msgstr "{$count}/{$total} languages completed"
+msgstr "{$count}/{$total} زبان تکمیل شد"
 
 msgid "help.help"
 msgstr "راهنما"
@@ -1369,10 +1365,10 @@ msgid "stageParticipants.history.messageSent"
 msgstr "اطلاع‌رسانی ها به کاربر ارسال شود"
 
 msgid "stageParticipants.notify.startDiscussion"
-msgstr "Start Discussion"
+msgstr "شروع بحث"
 
 msgid "stageParticipants.notify.startDiscussion.description"
-msgstr "Begin a discussion between yourself and {$userFullName}."
+msgstr "بحثی را بین خود و {$userFullName} شروع کنید."
 
 msgid "stageParticipants.notify.chooseMessage"
 msgstr "انتخاب پیام های آماده"
@@ -1382,32 +1378,31 @@ msgstr "پیام"
 
 msgid "stageParticipants.notify.warning"
 msgstr ""
-"مطمئن شوید که پیام را وارد کرده باشید و حداقل یک دریافت کننده را انتخاب "
-"نموده باشید."
+"مطمئن شوید که پیام را وارد کرده باشید و حداقل یک دریافت کننده را انتخاب نموده "
+"باشید."
 
 msgid "stageParticipants.options"
 msgstr "مجوزهای انتساب"
 
 msgid "stageParticipants.recommendOnly"
 msgstr ""
-"این همکار فقط اجازه توصیه یک تصمیم را دارد. برای اتخاذ تصمیم نهایی نقشی با "
-"سطح دسترسی دبیر نیاز است."
+"این همکار فقط اجازه توصیه یک تصمیم را دارد. برای اتخاذ تصمیم نهایی نقشی با سطح "
+"دسترسی دبیر نیاز است."
 
 msgid "stageParticipants.submissionEditMetadataOptions"
-msgstr "Permissions"
+msgstr "مجوزها"
 
 msgid "stageParticipants.canChangeMetadata"
 msgstr ""
-"Allow this person to make changes to the publication, such as the title, "
-"abstract, metadata and other publication details. You may wish to revoke "
-"this privilege if the submission has received a final check and is ready for"
-" publication."
+"به این شخص اجازه دهید تا تغییراتی مانند عنوان، چکیده، فراداده و سایر جزئیات "
+"انتشار در نشریه ایجاد کند. در صورتی که ارسالی چک نهایی را دریافت کرده و آماده "
+"انتشار باشد، ممکن است بخواهید این امتیاز را لغو کنید."
 
 msgid "stageParticipants.selectedUser"
-msgstr "Participant"
+msgstr "شرکت کننده"
 
 msgid "stageParticipants.noOptionsToHandle"
-msgstr "No changes can be made to this participant"
+msgstr "هیچ تغییری در این شرکت کننده نمی تواند ایجاد شود"
 
 msgid "locale.primary"
 msgstr "زبان اصلی"
@@ -1446,7 +1441,7 @@ msgid "navigation.browse"
 msgstr "پیمایش"
 
 msgid "navigation.backTo"
-msgstr "⟵ Back to {$page}"
+msgstr "⟵ بازگشت به {$page}"
 
 msgid "navigation.browseByAuthor"
 msgstr "مرور بر اساس نویسنده"
@@ -1509,10 +1504,10 @@ msgid "navigation.sitemap"
 msgstr "نقشه سایت"
 
 msgid "navigation.skip.description"
-msgstr "Jump to content links"
+msgstr "پرش به پیوندهای محتوا"
 
 msgid "navigation.skip.announcements"
-msgstr "Skip to announcements"
+msgstr "پرش به اطلاعیه ها"
 
 msgid "navigation.skip.main"
 msgstr "رفتن به محتوای اصلی"
@@ -1545,7 +1540,7 @@ msgid "navigation.viewFrontend"
 msgstr "مشاهده سایت"
 
 msgid "institution.institutions"
-msgstr "Institutions"
+msgstr "موسسات"
 
 msgid "notification.addedAuditor"
 msgstr "حسابرس افزوده شد"
@@ -1618,9 +1613,9 @@ msgstr "تنظیمات اطلاع‌رسانی"
 
 msgid "notification.settingsDescription"
 msgstr ""
-"لطفاً رویدادی از سیستم را که مایلید در مورد آن به شما اطلاع‌رسانی شود انتخاب"
-" نمایید. عدم انتخاب یک رویداد سبب می‌گردد که اطلاع‌رسانی آن در فیلد "
-"اطلاع‌رسانی شما ظاهر نشود."
+"لطفاً رویدادی از سیستم را که مایلید در مورد آن به شما اطلاع‌رسانی شود انتخاب "
+"نمایید. عدم انتخاب یک رویداد سبب می‌گردد که اطلاع‌رسانی آن در فیلد اطلاع‌رسانی "
+"شما ظاهر نشود."
 
 msgid "notification.reminderError"
 msgstr ""
@@ -1715,10 +1710,10 @@ msgid "search.searchResults"
 msgstr "نتایج جستجو"
 
 msgid "search.searchResults.foundSingle"
-msgstr "Found one item."
+msgstr "یک مورد پیدا شد"
 
 msgid "search.searchResults.foundPlural"
-msgstr "Found {$count} items."
+msgstr "{$count} مورد پیدا شد."
 
 msgid "search.subject"
 msgstr "کلید واژه"
@@ -1761,18 +1756,18 @@ msgid "dashboard.myQueue"
 msgstr "وظایف من"
 
 msgid "review.anonymousPeerReview.title"
-msgstr "How to ensure all files are anonymized"
+msgstr "چگونه مطمئن شویم که همه فایل ها ناشناس هستند"
 
 #, fuzzy
 msgid "review.anonymousPeerReview"
 msgstr ""
-"<p>برای دستیابی به اهداف سیاست‌های داوری محرمانه، باید تمامی تلاش‌ها برای "
-"عدم آگاهی نویسنده و داور از هویت همدیگر انجام گیرد. که نیازمند بررسی موارد "
-"زیر توسط سردبیر، ویراستیار و داور است:</p>\t <ul>\t   <li>نام نویسنده از "
-"داخل مقاله (قسمت نویسنده و پاورقی) و همچنین از نام فایل حذف شود.</li>\t   "
-"<li>در فایل‌های Microsoft Word نام نویسنده از خصوصیات و فراداده‌های فایل حذف"
-" گردد.</li>\t   <li>در مورد فایل‌های PDF نیز نام نویسنده از خصوصیات و "
-"فراداده‌های فایل حذف گردد.</li>\t </ul>"
+"<p>برای دستیابی به اهداف سیاست‌های داوری محرمانه، باید تمامی تلاش‌ها برای عدم "
+"آگاهی نویسنده و داور از هویت همدیگر انجام گیرد. که نیازمند بررسی موارد زیر "
+"توسط سردبیر، ویراستیار و داور است:</p>\t <ul>\t   <li>نام نویسنده از داخل "
+"مقاله (قسمت نویسنده و پاورقی) و همچنین از نام فایل حذف شود.</li>\t   <li>در "
+"فایل‌های Microsoft Word نام نویسنده از خصوصیات و فراداده‌های فایل حذف گردد.</"
+"li>\t   <li>در مورد فایل‌های PDF نیز نام نویسنده از خصوصیات و فراداده‌های فایل "
+"حذف گردد.</li>\t </ul>"
 
 msgid "reviewer.submission.reviewSchedule"
 msgstr "زمان‌بندی داوری"
@@ -1799,26 +1794,26 @@ msgstr ""
 
 msgid "notification.addedReviewerNoEmail"
 msgstr ""
-"{$reviewerName} برای داوری این مقاله ارسالی، انتساب داده شد و ایمیل "
-"اطلاع‌رسانی ارسال نشد."
+"{$reviewerName} برای داوری این مقاله ارسالی، انتساب داده شد و ایمیل اطلاع‌رسانی "
+"ارسال نشد."
 
 msgid "notification.removedReviewer"
 msgstr "داور حذف شد"
 
 msgid "notification.cancelledReviewer"
-msgstr "Reviewer cancelled."
+msgstr "داوری کننده لغو شد."
 
 msgid "notification.reinstatedReviewer"
-msgstr "Reviewer reinstated."
+msgstr "داوری کننده بازگردانده شد."
 
 msgid "notification.reviewerResendRequest"
-msgstr "Request to reconsider the review assignment was sent."
+msgstr "درخواست تجدید نظر بررسی ارسال شد."
 
 msgid "notification.addedStageParticipant"
 msgstr "کاربر به عنوان همکار به این مرحله افزوده شد"
 
 msgid "notification.editStageParticipant"
-msgstr "The stage assignment has been changed."
+msgstr "انتساب مرحله تغییر کرد"
 
 msgid "notification.type.newAnnouncement"
 msgstr "یک اطلاعیه جدید ایجاد شده است"
@@ -1827,7 +1822,7 @@ msgid "notification.type.reviewAssignment"
 msgstr "در انتظار داوری"
 
 msgid "notification.type.reviewAssignmentUpdated"
-msgstr "Review assignment updated."
+msgstr "انتساب داوری بروزرسانی شد"
 
 msgid "notification.type.auditorRequest"
 msgstr "درخواست حسابرسی برای \"{$file}\""
@@ -1851,16 +1846,16 @@ msgid "notification.signedFile"
 msgstr "فایل در نظر گرفته شد."
 
 msgid "timeZone"
-msgstr "Time zone"
+msgstr "منطقه زمانی"
 
 msgid "user.email"
-msgstr "Email address"
+msgstr "آدرس ایمیل"
 
 msgid "user.authorization.submissionFile"
 msgstr "این کاربر اجازه دسترسی به این فایل‌ها را ندارد."
 
 msgid "user.authorization.invalidPublication"
-msgstr "Invalid publication."
+msgstr "نشریه نامعتبر"
 
 msgid "user.authorization.invalidSubmission"
 msgstr "مقاله ارسالی نامعتبر"
@@ -1869,16 +1864,16 @@ msgid "user.authorization.invalidRepresentation"
 msgstr "ارائه نامعتبر"
 
 msgid "user.authorization.invalidReviewRound"
-msgstr "Invalid review round."
+msgstr "دور داوری نامعتبر است."
 
 msgid "user.authorization.invalidQuery"
-msgstr "Invalid discussion."
+msgstr "بحث نامعتبر است."
 
 msgid "user.authorization.unauthorizedNote"
-msgstr "You do not have access to this discussion message."
+msgstr "شما به این پیام گفتگو دسترسی ندارید."
 
 msgid "user.authorization.unauthorizedReviewAssignment"
-msgstr "You do not have access to this review assignment."
+msgstr "شما به این انتساب داوری دسترسی ندارید."
 
 msgid "user.authorization.authorRoleMissing"
 msgstr ""
@@ -1887,11 +1882,11 @@ msgstr ""
 
 msgid "user.authorization.submissionAuthor"
 msgstr ""
-"این کاربر نویسنده این مقاله نیست. لطفاً مطمئن شویدکه با حساب کاربری صحیحی "
-"وارد شده اید."
+"این کاربر نویسنده این مقاله نیست. لطفاً مطمئن شویدکه با حساب کاربری صحیحی وارد "
+"شده اید."
 
 msgid "user.register.form.privacyConsentLabel"
-msgstr "Privacy Options"
+msgstr "گزینه های حریم خصوصی"
 
 msgid "notification.type.queryActivity"
 msgstr "روند تصمیم گیری"
@@ -1913,11 +1908,11 @@ msgstr "خلاصه گزارش آماری"
 
 msgid "notification.type.editorialReport.contents"
 msgstr ""
-"This is a kind reminder for you to check your journal's health through the "
-"editorial report."
+"این یک نوع یادآوری برای شماست تا سلامت مجله خود را از طریق گزارش سرمقاله بررسی "
+"کنید."
 
 msgid "notification.type.editorialReminder"
-msgstr "Weekly email of outstanding tasks"
+msgstr "ایمیل هفتگی وظایف برجسته"
 
 msgid "semicolon"
 msgstr "{$label}:"
@@ -1941,276 +1936,273 @@ msgid "notification.removedNavigationMenu"
 msgstr "منوی گشت‌وگذار با موفقیت حذف شد"
 
 msgid "notification.unsubscribeNotifications.success"
-msgstr "You have been unsubscribed"
+msgstr "اشتراک شما لغو شده است"
 
 msgid "notification.unsubscribeNotifications.error"
-msgstr "We could not unsubscribe you"
+msgstr "ما نتوانستیم اشتراک شما را لغو کنیم"
 
 msgid "notification.unsubscribeNotifications.pageMessage"
 msgstr ""
-"Select the emails that you no longer wish to receive at {$email} from "
-"{$contextName}."
+"ایمیل‌هایی را که دیگر نمی‌خواهید در {$email} از {$contextName} دریافت کنید، "
+"انتخاب کنید."
 
 msgid "notification.unsubscribeNotifications.resubscribe"
 msgstr ""
-"You can resubscribe to email notifications at any time from your <a "
-"href=\"{$profileNotificationUrl}\">user profile</a>."
+"می‌توانید در هر زمان از <a href=\"{$profileNotificationUrl}\">نمایه کاربر</a> "
+"خود مجدداً در اعلان‌های ایمیل مشترک شوید."
 
 msgid "notification.unsubscribeNotifications.successMessage"
 msgstr ""
-"The email address {$email} has been successfully unsubscribed. We'll no "
-"longer send you those emails. You can resubscribe to email notifications at "
-"any time from your <a href=\"{$profileNotificationUrl}\">user profile</a>."
+"آدرس ایمیل {$email} با موفقیت لغو شد. ما دیگر آن ایمیل ها را برای شما ارسال "
+"نمی کنیم. می‌توانید در هر زمان از <a href=\"{$profileNotificationUrl}\">نمایه "
+"کاربر</a> خود مجدداً در اعلان‌های ایمیل مشترک شوید."
 
 msgid "notification.unsubscribeNotifications.errorMessage"
 msgstr ""
-"There was an unexpected error and we could not unsubscribe the email address"
-" {$email}. You can unsubscribe from all email notifications in your <a "
-"href=\"{$profileNotificationUrl}\">user profile</a> or contact us directly "
-"for help."
+"یک خطای غیرمنتظره روی داد و ما نتوانستیم اشتراک آدرس ایمیل {$email} را لغو "
+"کنیم. می‌توانید اشتراک همه اعلان‌های ایمیل را در <a "
+"href=\"{$profileNotificationUrl}\">نمایه کاربر</a> خود لغو کنید یا برای دریافت "
+"راهنمایی مستقیماً با ما تماس بگیرید."
 
 msgid "notification.unsubscribeNotifications"
-msgstr "Unsubscribe"
+msgstr "لغو اشتراک"
 
 msgid "list.viewMore"
-msgstr "Show more details about {$name}"
+msgstr "نمایش جزئیات بیشتر درباره {$name}"
 
 msgid "list.viewLess"
-msgstr "Hide expanded details about {$name}"
+msgstr "پنهان کردن جزئیات گسترده درباره {$name}"
 
 msgid "list.expandAll"
-msgstr "Expand all"
+msgstr "همه را گسترش دهید"
 
 msgid "list.collapseAll"
-msgstr "Collapse all"
+msgstr "همه را جمع کن"
 
 msgid "validation.invalidOption"
-msgstr "This is not a valid option."
+msgstr "این گزینه معتبری نیست."
 
 msgid "validator.accepted"
-msgstr "Please accept this item."
+msgstr "لطفا این مورد را بپذیرید"
 
 msgid "validator.active_url"
-msgstr "This is not a valid URL."
+msgstr "این یک URL معتبر نیست."
 
 msgid "validator.after"
-msgstr "This date must be after {$date}."
+msgstr "این تاریخ باید بعد از {$date} باشد."
 
 msgid "validator.alpha"
-msgstr "This may only contain letters."
+msgstr "این باید فقط شامل حروف باشد."
 
 msgid "validator.alpha_dash"
-msgstr "This may only contain letters, numbers, dashes and underscores."
+msgstr "این باید فقط شامل حروف، اعداد، خط تیره و زیرخط باشد."
 
 msgid "validator.alpha_dash_period"
-msgstr ""
-"This may only contain letters, numbers, dashes, underscores and periods."
+msgstr "این فقط باید شامل حروف، اعداد، خط تیره، زیرخط و نقطه باشد."
 
 msgid "validator.alpha_num"
-msgstr "This may only contain letters and numbers."
+msgstr "این فقط باید شامل حروف و اعداد باشد."
 
 msgid "validator.array"
-msgstr "This is not a valid array."
+msgstr "این یک آرایه معتبر نیست."
 
 msgid "validator.before"
-msgstr "This date must be before {$date}."
+msgstr "این تاریخ باید قبل از {$date} باشد."
 
 msgid "validator.between.numeric"
-msgstr "This must be between {$min} and {$max}."
+msgstr "این باید بین {$min} و {$max} باشد."
 
 msgid "validator.between.file"
-msgstr "This must be between {$min} and {$max} kilobytes."
+msgstr "این باید بین {$min} و {$max} کیلوبایت باشد."
 
 msgid "validator.between.string"
-msgstr "This must be between {$min} and {$max} characters."
+msgstr "این باید بین {$min} و {$max} نویسه باشد."
 
 msgid "validator.between.array"
-msgstr "This must have between {$min} and {$max} items."
+msgstr "این باید بین {$min} و {$max} مورد داشته باشد."
 
 msgid "validator.boolean"
-msgstr "This field must be true or false."
+msgstr "این فیلد باید درست یا نادرست باشد."
 
 msgid "validator.confirmed"
-msgstr "The confirmation for this field does not match."
+msgstr "تایید این فیلد مطابقت ندارد."
 
 msgid "validator.country"
-msgstr "This is not a valid country."
+msgstr "این کشور معتبر نیست."
 
 msgid "validator.country.regex"
 msgstr ""
-"This is not a valid country. The country must be one of the 2-letter "
-"international codes. See all codes at "
-"https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements."
+"این کشور معتبر نیست. کشور باید یکی از کدهای بین المللی 2 حرفی باشد. همه کدها "
+"را در https://en.wikipedia.org/wiki/"
+"ISO_3166-1_alpha-2#Officially_assigned_code_elements ببینید."
 
 msgid "validator.currency"
-msgstr "This is not a valid currency."
+msgstr "این ارز معتبر نیست."
 
 msgid "validator.date"
-msgstr "This is not a valid date."
+msgstr "این تاریخ معتبر نیست."
 
 msgid "validator.date_format"
-msgstr "This does not match the format {$format}."
+msgstr "این با قالب {$format} مطابقت ندارد."
 
 msgid "validator.different"
-msgstr "The {$attribute} and {$other} must be different."
+msgstr "{$attribute} و {$other} باید متفاوت باشند."
 
 msgid "validator.digits"
-msgstr "This must be {$digits} digits long."
+msgstr "این باید {$digits} رقم باشد."
 
 msgid "validator.digits_between"
-msgstr "This must be between {$min} and {$max} digits."
+msgstr "این رقم باید بین {$min} و {$max} رقم باشد."
 
 msgid "validator.email"
-msgstr "This is not a valid email address."
+msgstr "این یک آدرس ایمیل معتبر نیست."
 
 msgid "validator.exists"
-msgstr "The selected {$attribute} is invalid."
+msgstr "{$attribute} انتخاب شده نامعتبر است."
 
 msgid "validator.filled"
-msgstr "This field is required."
+msgstr "این فیلد الزامی است."
 
 msgid "validator.image"
-msgstr "This must be an image."
+msgstr "این باید یک تصویر باشد."
 
 msgid "validator.in"
-msgstr "The selected {$attribute} is invalid."
+msgstr "{$attribute} انتخاب شده نامعتبر است."
 
 msgid "validator.integer"
-msgstr "This is not a valid integer."
+msgstr "این یک عدد صحیح معتبر نیست."
 
 msgid "validator.ip"
-msgstr "This is not a valid IP address."
+msgstr "این یک آدرس IP معتبر نیست."
 
 msgid "validator.issn"
-msgstr "This is not a valid ISSN."
+msgstr "این یک ISSN معتبر نیست."
 
 msgid "validator.json"
-msgstr "This is not a valid JSON string."
+msgstr "این یک رشته JSON معتبر نیست."
 
 msgid "validator.locale"
-msgstr "This language is not accepted."
+msgstr "این زبان پذیرفته نیست."
 
 msgid "validator.localeExpected"
 msgstr ""
-"This field is multilingual. Separate values must be provided for each "
-"supported language."
+"این رشته چند زبانه است. برای هر زبان پشتیبانی شده باید مقادیر جداگانه ای ارائه "
+"شود."
 
 msgid "validator.localeKey"
 msgstr ""
-"Languages must be specified using the locale code. Examples: en_US, fr_CA, "
+"زبان ها باید با استفاده از کد محلی مشخص شوند. مثال‌ها: en_US، fr_CA، "
 "sr_RS@cyrillic."
 
 msgid "validator.max.numeric"
-msgstr "This may not be greater than {$max}."
+msgstr "این نباید بیشتر از {$max} باشد."
 
 msgid "validator.max.file"
-msgstr "This may not be greater than {$max} kilobytes."
+msgstr "این مقدار نباید از {$max} کیلوبایت بیشتر باشد."
 
 msgid "validator.max.string"
-msgstr "This may not be greater than {$max} characters."
+msgstr "این نباید بیشتر از {$max} نویسه باشد."
 
 msgid "validator.max.array"
-msgstr "This may not have more than {$max} items."
+msgstr "این نباید بیش از {$max} مورد داشته باشد."
 
 msgid "validator.mimes"
-msgstr "This must be a file of type {$values}."
+msgstr "این فایل باید از نوع {$values} باشد."
 
 msgid "validator.min.numeric"
-msgstr "This must be at least {$min}."
+msgstr "این باید حداقل {$min} باشد."
 
 msgid "validator.min.file"
-msgstr "This must be at least {$min} kilobytes."
+msgstr "این باید حداقل {$min} کیلوبایت باشد."
 
 msgid "validator.min.string"
-msgstr "This must be at least {$min} characters."
+msgstr "این باید حداقل {$min} نویسه باشد."
 
 msgid "validator.min.array"
-msgstr "This must have at least {$min} items."
+msgstr "این باید حداقل {$min} مورد داشته باشد."
 
 msgid "validator.not_in"
-msgstr "The selected {$attribute} is invalid."
+msgstr "{$attribute} انتخاب شده نامعتبر است."
 
 msgid "validator.numeric"
-msgstr "This is not a valid number."
+msgstr "این یک عدد معتبر نیست."
 
 msgid "validator.orcid"
-msgstr "This is not a valid ORCID."
+msgstr "این یک ORCID معتبر نیست."
 
 msgid "validator.present"
-msgstr "The {$attribute} field must be present."
+msgstr "فیلد {$attribute} باید وجود داشته باشد."
 
 msgid "validator.regex"
-msgstr "This is not formatted correctly."
+msgstr "این به درستی قالب بندی نشده است."
 
 msgid "validator.required"
-msgstr "This field is required."
+msgstr "این فیلد الزامی است."
 
 msgid "validator.required_if"
-msgstr "This field is required when {$other} is {$value}."
+msgstr "زمانی که {$other} {$value} باشد، این فیلد ضروری است."
 
 msgid "validator.required_unless"
-msgstr "This field is required unless {$other} is in {$values}."
+msgstr "این فیلد الزامی است مگر اینکه {$other} در {$values} باشد."
 
 msgid "validator.required_with"
-msgstr "This field is required when {$values} is present."
+msgstr "زمانی که {$values} وجود دارد این فیلد ضروری است."
 
 msgid "validator.required_with_all"
-msgstr "This field is required when {$values} is present."
+msgstr "زمانی که {$values} وجود دارد این فیلد ضروری است."
 
 msgid "validator.required_without"
-msgstr "This field is required when {$values} is not present."
+msgstr "زمانی که {$values} موجود نباشد این فیلد ضروری است."
 
 msgid "validator.required_without_all"
-msgstr "This field is required when none of {$values} are present."
+msgstr "وقتی هیچ یک از {$values} وجود ندارد، این فیلد ضروری است."
 
 msgid "validator.same"
-msgstr "The {$attribute} and {$other} must match."
+msgstr "{$attribute} و {$other} باید مطابقت داشته باشند."
 
 msgid "validator.size.numeric"
-msgstr "This must be {$size}."
+msgstr "این باید {$size} باشد."
 
 msgid "validator.size.file"
-msgstr "This must be {$size} kilobytes."
+msgstr "این باید {$size} کیلوبایت باشد."
 
 msgid "validator.size.string"
-msgstr "This must be {$size} characters."
+msgstr "این باید {$size} نویسه باشد."
 
 msgid "validator.size.array"
-msgstr "This must contain {$size} items."
+msgstr "این باید حاوی {$size} مورد باشد."
 
 msgid "validator.string"
-msgstr "This is not a valid string."
+msgstr "این یک رشته معتبر نیست."
 
 msgid "validator.timezone"
-msgstr "This is not a valid time zone."
+msgstr "این منطقه زمانی معتبر نیست."
 
 msgid "validator.unique"
-msgstr "The {$attribute} has already been taken."
+msgstr "{$attribute} قبلاً گرفته شده است."
 
 msgid "validator.url"
-msgstr "This is not a valid URL."
+msgstr "این یک URL معتبر نیست."
 
 msgid "validator.no_new_line"
-msgstr "No new line allowed."
+msgstr "خط جدید مجاز نیست"
 
 msgid "validator.allowable_title_html_tags"
-msgstr "Only [{$tags}] html tags are allowed."
+msgstr "فقط [{$tags}] برچسب‌های html مجاز هستند."
 
 msgid "filter.input.error.notSupported"
 msgstr ""
-"Filter ({$displayName}) supports input {$inputTypeName} - {$typeofInput} "
-"given"
+"فیلتر ({$displayName}) از ورودی {$inputTypeName} پشتیبانی می کند - "
+"{$typeofInput} داده شده است"
 
 msgid "filter.error.missingRequirements"
-msgstr ""
-"Trying to run a transformation that is not supported in your installation "
-"environment."
+msgstr "تلاش برای اجرای تبدیلی که در محیط نصب شما پشتیبانی نمی شود."
 
 msgid "filter.import.error.couldNotImportNode"
-msgstr "Could not import XML Node"
+msgstr "XML Node وارد نشد"
 
 msgid "plugins.importexport.common.error.unknownCommand"
-msgstr "Unknown command {$command}"
+msgstr "دستور ناشناس {$command}"
 
 msgid "common.withForwardSlash"
 msgstr "{$item}/{$afterSlash}"
@@ -2240,8 +2232,8 @@ msgstr "نویسنده ویرایش شد"
 
 #~ msgid "common.captchaField.description"
 #~ msgstr ""
-#~ "لطفاً حروف موجود در تصویر فوق را به ترتیبی که می‌بینید وارد کنید. به بزرگی و"
-#~ " کوچکی حروف توجه کنید."
+#~ "لطفاً حروف موجود در تصویر فوق را به ترتیبی که می‌بینید وارد کنید. به بزرگی و "
+#~ "کوچکی حروف توجه کنید."
 
 #~ msgid "common.captchaField"
 #~ msgstr "اعتبار سنجی"

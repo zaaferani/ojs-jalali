@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-19T10:49:46+00:00\n"
-"PO-Revision-Date: 2020-09-25 17:49+0000\n"
+"PO-Revision-Date: 2023-10-12 11:07+0330\n"
 "Last-Translator: Hamid Sadeghieh <sadeghieh@gmail.com>\n"
-"Language-Team: Persian <http://translate.pkp.sfu.ca/projects/pkp-lib/editor/fa_IR/>\n"
+"Language-Team: Persian <http://translate.pkp.sfu.ca/projects/pkp-lib/editor/"
+"fa_IR/>\n"
 "Language: fa_IR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 msgid "editor.submissionArchive.confirmDelete"
 msgstr "آیا می‌خواهید برای همیشه این مقاله ارسالی را حذف کنید؟"
@@ -24,78 +25,70 @@ msgid "editor.submissionLibrary"
 msgstr "مجموعه مقالات ارسالی"
 
 msgid "editor.submission.workflowDecision.submission"
-msgstr "Decision recorded"
+msgstr "تصمیم ثبت شد"
 
 msgid "editor.submission.workflowDecision.submission.declined"
-msgstr "Submission declined."
+msgstr "ارسال رد شد."
 
 msgid "editor.submission.workflowDecision.submission.accepted"
-msgstr "Submission accepted."
+msgstr "ارسال پذیرفته شد"
 
 msgid "editor.submission.workflowDecision.submission.published"
-msgstr "Submission published."
+msgstr "ارسال منتشر شد."
 
 msgid "editor.submission.workflowDecision.submission.reviewRound"
-msgstr "Sent for a new round of reviews."
+msgstr "برای دور جدید داوری ارسال شد."
 
 msgid "editor.submission.workflowDecision.submission.production"
-msgstr "Sent to production."
+msgstr "برای تولید ارسال شد."
 
 msgid "editor.submission.workflowDecision.submission.underReview"
-msgstr "Submission accepted for review."
+msgstr "ارسال برای داوری پذیرفته شد."
 
 msgid "editor.submission.workflowDecision.changeDecision"
-msgstr "Change decision"
+msgstr "تغییر تصمیم"
 
 msgid "editor.submission.workflowDecision.disallowedDecision"
-msgstr ""
-"You do not have permission to record this decision on this submission."
+msgstr "شما اجازه ندارید این تصمیم را در مورد این ارسال ثبت کنید."
 
 msgid "editor.submission.workflowDecision.invalidEditor"
 msgstr ""
-"The editor was not recognized and may not have permission to record a "
-"decision on this submission."
+"ویراستار شناخته نشد و ممکن است اجازه ثبت تصمیم در مورد این ارسال را نداشته "
+"باشد."
 
 msgid "editor.submission.workflowDecision.invalidRecipients"
-msgstr "You can not send an email to the following recipients: {$names}."
+msgstr "شما نمی توانید برای گیرندگان زیر ایمیل ارسال کنید: {$names}."
 
 msgid "editor.submission.workflowDecision.invalidReviewRound"
-msgstr "This review round could not be found."
+msgstr "این دور داوری یافت نشد."
 
 msgid "editor.submission.workflowDecision.invalidReviewRoundStage"
-msgstr ""
-"A review round was provided but this decision is not taken during a review "
-"stage."
+msgstr "دور داوری ارائه شد اما این تصمیم در مرحله داوری اتخاذ نمی شود."
 
 msgid "editor.submission.workflowDecision.invalidReviewRoundSubmission"
-msgstr "This review round is not part of this submission."
+msgstr "این دور داوری بخشی از این ارسال نیست."
 
 msgid "editor.submission.workflowDecision.invalidStage"
-msgstr ""
-"The submission is not at the appropriate stage of the workflow to take this "
-"decision."
+msgstr "ارسال در مرحله مناسب گردش کار برای اتخاذ این تصمیم نیست."
 
 msgid "editor.submission.workflowDecision.noUnassignedDecisions"
-msgstr ""
-"You must be assigned to this submission in order to record an editorial "
-"decision."
+msgstr "برای ثبت یک تصمیم سرمقاله باید به این ارسال اختصاص داده شود."
 
 msgid "editor.submission.workflowDecision.requiredReviewRound"
-msgstr "A review round id must be provided in order to take this decision."
+msgstr "برای اتخاذ این تصمیم باید شناسه دور داوری ارائه شود."
 
 msgid "editor.submission.workflowDecision.requiredDecidingEditor"
 msgstr ""
-"A recommendation can not be made unless an editor is assigned to this stage "
-"who can take a final decision."
+"توصیه نمی‌شود مگر اینکه یک ویرایشگر به این مرحله اختصاص داده شود که بتواند "
+"تصمیم نهایی را بگیرد."
 
 msgid "editor.submission.workflowDecision.submissionInvalid"
 msgstr ""
-"A decision could not be taken on this submission. The submission id is "
-"missing or does not match the requested submission."
+"در مورد این ارسال نمی توان تصمیم گرفت. شناسه ارسال وجود ندارد یا با ارسال "
+"درخواستی مطابقت ندارد."
 
 msgid "editor.submission.workflowDecision.typeInvalid"
-msgstr ""
-"This decision could not be found. Please provide a recognized decision type."
+msgstr "این تصمیم یافت نشد. لطفاً یک نوع تصمیم شناخته شده ارائه دهید."
 
 msgid "editor.review.notInitiated"
 msgstr "پروسه داوری هنوز آغاز نشده است."
@@ -162,13 +155,13 @@ msgid "editor.review.unassignReviewer"
 msgstr "لغو انتساب داور"
 
 msgid "editor.review.cancelReviewer"
-msgstr "Cancel Reviewer"
+msgstr "لغو داور"
 
 msgid "editor.review.reinstateReviewer"
-msgstr "Reinstate Reviewer"
+msgstr "داور را بازگردانید"
 
 msgid "editor.review.resendRequestReviewer"
-msgstr "Resend Review Request"
+msgstr "ارسال مجدد درخواست داوری"
 
 msgid "editor.submissionReview.reviewType"
 msgstr "نوع داوری"
@@ -185,11 +178,9 @@ msgstr "عدم ارسال ایمیل به نویسندگان"
 msgid "editor.submissionReview.open"
 msgstr "باز کردن"
 
-#, fuzzy
 msgid "editor.submissionReview.anonymous"
 msgstr "محرمانگی"
 
-#, fuzzy
 msgid "editor.submissionReview.doubleAnonymous"
 msgstr "محرمانگی شدید"
 
@@ -203,7 +194,7 @@ msgid "editor.submissionReview.editReview"
 msgstr "ویرایش داوری"
 
 msgid "editor.review.anonymousReviewer"
-msgstr "Anonymous Reviewer"
+msgstr "داور ناشناس"
 
 msgid "editor.review.personalMessageToReviewer"
 msgstr "ایمیلی که باید برای داور ارسال شود"
@@ -224,10 +215,10 @@ msgid "editor.review.NotifyAuthorResubmit"
 msgstr "درخواست انجام اصلاح از نویسنده که مورد بررسی بیشتر قرار خواهد گرفت."
 
 msgid "editor.review.NotifyAuthorRevisions.recommendation"
-msgstr "Revisions should not be subject to a new round of peer reviews."
+msgstr "بازنگری ها نباید مشمول دور جدیدی از بررسی های همتا شوند."
 
 msgid "editor.review.NotifyAuthorResubmit.recommendation"
-msgstr "Revisions should be subject to a new round of peer reviews."
+msgstr "بازنگری‌ها باید در معرض دور جدیدی از بررسی‌های همتا باشند."
 
 msgid "editor.review.dateAccepted"
 msgstr "تاریخ پذیرش داوری"
@@ -272,16 +263,16 @@ msgid "editor.review.requestAccepted"
 msgstr "درخواست پذیرفته شد."
 
 msgid "editor.review.requestDeclined"
-msgstr "Request Declined"
+msgstr "درخواست رد شد"
 
 msgid "editor.review.requestCancelled"
-msgstr "Request Cancelled"
+msgstr "درخواست لغو شد"
 
 msgid "editor.review.requestDeclined.tooltip"
-msgstr "The reviewer declined this review request."
+msgstr "بازبین این درخواست بررسی را رد کرد."
 
 msgid "editor.review.requestCancelled.tooltip"
-msgstr "The editor cancelled this review request."
+msgstr "ویرایشگر این درخواست بازبینی را لغو کرد."
 
 msgid "editor.review.revertDecision"
 msgstr "تقاضای تجدیدنظر"
@@ -302,24 +293,24 @@ msgid "editor.review.reviewSubmitted"
 msgstr "داوری ارسال شد."
 
 msgid "editor.review.reviewerThanked"
-msgstr "Reviewer Thanked"
+msgstr "داور تشکر کرد"
 
 msgid "editor.review.ReviewerResendRequest"
-msgstr "Request Resent"
+msgstr "درخواست ارسال مجدد"
 
 msgid "editor.review.reviewerComments"
 msgstr "نظرات داور"
 
 msgid "editor.review.rateReviewer"
-msgstr "Reviewer rating"
+msgstr "امتیاز داور"
 
 msgid "editor.review.rateReviewer.description"
 msgstr ""
-"Rate the quality of the review provided. This rating is not shared with the "
-"reviewer."
+"به کیفیت بررسی ارائه شده امتیاز دهید. این رتبه بندی با بازبین به اشتراک "
+"گذاشته نمی شود."
 
 msgid "editor.review.reviewerRating.none"
-msgstr "No rating"
+msgstr "بدون امتیاز"
 
 msgid "editor.review.mustSelect"
 msgstr "باید یک داور انتخاب کنید."
@@ -331,20 +322,20 @@ msgid "editor.review.errorDeletingReviewer"
 msgstr "در حذف داور خطایی رخ داد. لطفاً دوباره تلاش کنید."
 
 msgid "editor.review.errorReinstatingReviewer"
-msgstr "There was an error reinstating the reviewer.  Please try again."
+msgstr "هنگام بازگرداندن داور خطایی روی داد. لطفا دوباره تلاش کنید."
 
 msgid "editor.review.errorResendingReviewerRequest"
 msgstr ""
-"There was an error requesting the reviewer to reconsider the review "
-"invitation.  Please try again."
+"خطایی در درخواست بازبینی کننده برای تجدید نظر در دعوتنامه وجود داشت. لطفا "
+"دوباره تلاش کنید."
 
 msgid "editor.review.userGroupSelect"
 msgstr "کاربری را به عضویت گروه کاربری داور در آورید"
 
 msgid "editor.review.unconsiderReviewText"
 msgstr ""
-"مایلید این داوری را به عنوان داوری بی‌اعتبار علامت‌گذاری کنید؟ تاریخچه داوری"
-" حفظ خواهد شد."
+"مایلید این داوری را به عنوان داوری بی‌اعتبار علامت‌گذاری کنید؟ تاریخچه داوری "
+"حفظ خواهد شد."
 
 msgid "editor.review.unconsiderReview"
 msgstr "نادیده گرفتن این داوری"
@@ -357,11 +348,11 @@ msgstr ""
 
 msgid "editor.discussion.errorAnonymousParticipants"
 msgstr ""
-"A discussion can not be created with the selected participants because it "
-"would impact the anonymity of the review process."
+"نمی توان با شرکت کنندگان منتخب بحثی ایجاد کرد زیرا بر ناشناس بودن روند "
+"بررسی تأثیر می گذارد."
 
 msgid "editor.discussion.errorNotStageParticipant"
-msgstr "A selected participant is not assigned to this stage."
+msgstr "یک شرکت کننده انتخاب شده به این مرحله اختصاص داده نمی شود."
 
 msgid "editor.submission.schedulePublication"
 msgstr "برنامه چاپ"
@@ -407,8 +398,8 @@ msgid "editor.submission.copyedit.manageCopyeditFilesDescription"
 msgstr ""
 "هر فایلی که تاکنون در هر مرحله از ارسال مقاله آپلود شده است می‌تواند به "
 "مرحله ویراستاری اضافه شود. با انجام جستجو و انتخاب از لیست حاصل می‌توان این "
-"کار را انجام داد. می‌توان همچنان از گزینه آپلود برای آپلود فایل در این مرحله"
-" استفاده کرد."
+"کار را انجام داد. می‌توان همچنان از گزینه آپلود برای آپلود فایل در این مرحله "
+"استفاده کرد."
 
 msgid "editor.review"
 msgstr "مرور"
@@ -451,8 +442,8 @@ msgstr "عدم اتخاذ تصمیم داوری"
 
 msgid "editor.submission.newRoundDescription"
 msgstr ""
-"شما در حال ایجاد یک دور داوری جدید برای این مقاله هستید. فایل‌هایی که در دور"
-" داوری قبل مورد استفاده قرار نگرفته‌اند در زیر لیست شده‌اند."
+"شما در حال ایجاد یک دور داوری جدید برای این مقاله هستید. فایل‌هایی که در دور "
+"داوری قبل مورد استفاده قرار نگرفته‌اند در زیر لیست شده‌اند."
 
 msgid "editor.submission.createNewRound"
 msgstr "ایجاد دور جدید داوری"
@@ -509,8 +500,7 @@ msgstr ""
 "آماده به چاپ نیست."
 
 msgid "editor.submission.revertDeclineDescription"
-msgstr ""
-"Are you sure you want to reverse the decision to decline this submission?"
+msgstr "آیا مطمئنید که می‌خواهید تصمیم رد این ارسال را لغو کنید؟"
 
 msgid "editor.publicIdentificationNumericNotAllowed"
 msgstr "شناسه عمومی «{$publicIdentifier}» نباید یک عدد باشد."
@@ -519,94 +509,94 @@ msgid "editor.publicIdentificationPatternNotAllowed"
 msgstr "استفاده از الگوی {$pattern} به عنوان یک شناسه عمومی مجاز نیست."
 
 msgid "reviewer.list.filterRating"
-msgstr "Rated at least"
+msgstr "حداقل رتبه بندی شده"
 
 msgid "reviewer.list.activeReviews"
-msgstr "{$count} active"
+msgstr "{$count} فعال"
 
 msgid "reviewer.list.activeReviewsDescription"
-msgstr "Active reviews currently assigned"
+msgstr "بررسی‌های فعال در حال حاضر اختصاص داده شده است"
 
 msgid "reviewer.list.assignedToLastRound"
-msgstr "This reviewer completed a review in the last round."
+msgstr "این داور در دور آخر یک بررسی را تکمیل کرد."
 
 msgid "reviewer.list.completedReviews"
-msgstr "Reviews completed"
+msgstr "بررسی ها تکمیل شد"
 
 msgid "reviewer.list.declinedReviews"
-msgstr "Review requests declined"
+msgstr "درخواست های بازبینی رد شد"
 
 msgid "reviewer.list.cancelledReviews"
-msgstr "Review requests cancelled"
+msgstr "درخواست های بررسی لغو شد"
 
 msgid "reviewer.list.reviewerRating"
-msgstr "Reviewer rating: {$rating}"
+msgstr "رتبه داوری: {$rating}"
 
 msgid "reviewer.list.daysSinceLastAssignment"
-msgstr "{$days} days ago"
+msgstr "{$days} روز پیش"
 
 msgid "reviewer.list.daySinceLastAssignment"
-msgstr "Yesterday"
+msgstr "دیرور"
 
 msgid "reviewer.list.daysSinceLastAssignmentDescription"
-msgstr "Days since last review assigned"
+msgstr "روزها گذشته از آخرین بررسی اختصاص داده شده"
 
 msgid "reviewer.list.averageCompletion"
-msgstr "Average days to complete review"
+msgstr "میانگین روز برای تکمیل بررسی"
 
 msgid "reviewer.list.neverAssigned"
-msgstr "Never assigned"
+msgstr "هرگز تعیین نشده است"
 
 msgid "reviewer.list.reassign"
-msgstr "Reassign"
+msgstr "تخصیص مجدد"
 
 msgid "reviewer.list.reassign.withName"
-msgstr "Reassign {$name}"
+msgstr "تخصیص مجدد {$name}"
 
 msgid "reviewer.list.currentlyAssigned"
-msgstr "This reviewer has already been assigned to this review round."
+msgstr "این داور قبلاً به این دور داوری منصوب شده است."
 
 msgid "reviewer.list.warnOnAssign"
 msgstr ""
-"This reviewer is locked because they have been assigned a role which allows "
-"them to view the author's identity. Anonymous peer review can not be "
-"guaranteed. Would you like to unlock this reviewer anyway?"
+"این داور قفل شده است زیرا نقشی به آنها اختصاص داده شده است که به آنها امکان "
+"می دهد هویت نویسنده را مشاهده کنند. بررسی همتایان ناشناس را نمی توان تضمین "
+"کرد. به هر حال می‌خواهید قفل این داور را باز کنید؟"
 
 msgid "reviewer.list.warnOnAssignUnlock"
-msgstr "Unlock"
+msgstr "باز کردن قفل"
 
 msgid "reviewer.list.reviewInterests"
-msgstr "Reviewing Interests"
+msgstr "بررسی علایق"
 
 msgid "reviewer.list.biography"
-msgstr "Biography"
+msgstr "زندگینامه"
 
 msgid "reviewer.list.empty"
-msgstr "No reviewers found"
+msgstr "هیچ داوری پیدا نشد"
 
 msgid "reviewer.list.showOnlyReviewersFromPreviousRound"
-msgstr "Assigned to Earlier Round"
+msgstr "به دور قبلی اختصاص داده شده است"
 
 msgid "editor.decision.cancelDecision"
-msgstr "Cancel Decision"
+msgstr "لغو تصمیم"
 
 msgid "editor.decision.cancelDecision.confirmation"
-msgstr "Are you sure you want to cancel this decision?"
+msgstr "آیا مطمئنید که می خواهید این تصمیم را لغو کنید؟"
 
 msgid "editor.decision.completeSteps"
-msgstr "Complete the following steps to take this decision"
+msgstr "برای اتخاذ این تصمیم مراحل زیر را کامل کنید"
 
 msgid "editor.decision.dontSkipEmail"
-msgstr "Don't skip this email"
+msgstr "این ایمیل را نادیده نگیرید"
 
 msgid "editor.decision.emailSkipped"
-msgstr "This step has been skipped and no email will be sent."
+msgstr "این مرحله نادیده گرفته شده است و هیچ ایمیلی ارسال نخواهد شد."
 
 msgid "editor.decision.recordDecision"
-msgstr "Record Decision"
+msgstr "ثبت تصمیم"
 
 msgid "editor.decision.skipEmail"
-msgstr "Skip this email"
+msgstr "از این ایمیل بگذرید"
 
 msgid "editor.decision.stepError"
-msgstr "There was a problem with the {$stepName} step."
+msgstr "در مرحله {$stepName} مشکلی وجود داشت."

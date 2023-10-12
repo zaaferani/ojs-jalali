@@ -4,13 +4,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-19T10:49:46+00:00\n"
-"PO-Revision-Date: 2019-11-19T10:49:46+00:00\n"
+"PO-Revision-Date: 2023-10-12 11:42+0330\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
 
 msgid "grid.noItems"
 msgstr "هیچ موردی وجود ندارد"
@@ -130,7 +131,7 @@ msgid "grid.action.order"
 msgstr "مرتب‌سازی"
 
 msgid "grid.action.saveOrdering"
-msgstr "Save Order"
+msgstr "ذخیره مرتب سازی"
 
 msgid "grid.action.cancelOrdering"
 msgstr "انصراف"
@@ -232,7 +233,7 @@ msgid "grid.action.editUserGroup"
 msgstr "ویرایش این گروه کاربری"
 
 msgid "grid.action.removeUserGroup"
-msgstr "Remove this user group"
+msgstr "این گروه کاربری را حذف کنید"
 
 msgid "grid.action.disable"
 msgstr "غیرفعال کردن"
@@ -283,7 +284,7 @@ msgid "grid.action.addAnnouncement"
 msgstr "افزودن اطلاعیه"
 
 msgid "grid.action.addInstitution"
-msgstr "Add Institution"
+msgstr "افزودن موسسه"
 
 msgid "grid.action.mergeUser"
 msgstr "ادغام کاربر"
@@ -331,7 +332,7 @@ msgid "grid.action.moreItems"
 msgstr "ادامه"
 
 msgid "grid.action.users"
-msgstr "View/Select users"
+msgstr "مشاهده/انتخاب کاربران"
 
 msgid "grid.task.status.completed"
 msgstr "این وظیفه تکمیل شد."
@@ -365,7 +366,7 @@ msgid "grid.columns.locale"
 msgstr "زبان"
 
 msgid "grid.columns.locale.code"
-msgstr "Code"
+msgstr "کد"
 
 msgid "grid.sponsor.title"
 msgstr "حامی مالی"
@@ -408,11 +409,11 @@ msgstr "حذف پدیدآورنده"
 
 msgid "grid.action.deleteContributor.confirmationMessage"
 msgstr ""
-"Are you sure you want to remove {$name} as a contributor? This action can "
-"not be undone."
+"آیا مطمئنید که می‌خواهید {$name} را به‌عنوان یک مشارکت‌کننده حذف کنید؟ این عمل "
+"قابل برگشت نیست."
 
 msgid "grid.action.newVersion"
-msgstr "Create a new version"
+msgstr "یک نسخه جدید ایجاد کنید"
 
 msgid "grid.reviewForm.title"
 msgstr "فرم‌های داوری"
@@ -451,30 +452,28 @@ msgid "author.users.contributor.principalContact"
 msgstr "نویسنده مسئول"
 
 msgid "author.users.contributor.setPrincipalContact"
-msgstr "Set Primary Contact"
+msgstr "تنظیم تماس اولیه"
 
 msgid "contributor.listPanel.preview"
-msgstr "Preview"
+msgstr "پیش نمایش"
 
 msgid "contributor.listPanel.preview.description"
-msgstr ""
-"Contributors to this publication will be identified in the following "
-"formats."
+msgstr "مشارکت کنندگان در این نشریه در قالب های زیر مشخص خواهند شد."
 
 msgid "contributor.listPanel.preview.format"
-msgstr "Format"
+msgstr "قالب"
 
 msgid "contributor.listPanel.preview.display"
-msgstr "Display"
+msgstr "نمایش"
 
 msgid "contributor.listPanel.preview.abbreviated"
-msgstr "Abbreviated"
+msgstr "به اختصار"
 
 msgid "contributor.listPanel.preview.publicationLists"
-msgstr "Publication Lists"
+msgstr "فهرست های انتشارات"
 
 msgid "contributor.listPanel.preview.full"
-msgstr "Full"
+msgstr "کامل"
 
 msgid "grid.roles.currentRoles"
 msgstr "نقش‌های کنونی"
@@ -526,8 +525,8 @@ msgstr "در مدیریت این کاربر خطایی رخ داد. لطفاً �
 
 msgid "grid.user.errorEmail"
 msgstr ""
-"در ارسال ایمیل خطایی رخ داد. مطمئن شوید که سرور ایمیلتان درست کار می‌کند. در"
-" صورت لزوم با مدیر سایت این موضوع را در میان بگذارید."
+"در ارسال ایمیل خطایی رخ داد. مطمئن شوید که سرور ایمیلتان درست کار می‌کند. در "
+"صورت لزوم با مدیر سایت این موضوع را در میان بگذارید."
 
 msgid "grid.user.cannotAdminister"
 msgstr ""
@@ -611,8 +610,8 @@ msgstr "تمامی کاربران دارای نقش"
 msgid "grid.user.mergeUsers.confirm"
 msgstr ""
 "آیا مطمئنید که حساب کاربری «{$oldUsername}» را می‌خواهید با حساب کاربری "
-"«{$newUsername}» ادغام کنید؟ بعد از ادغام، حساب کاربری «{$oldUsername}» دیگر"
-" در دسترس نخواهد بود. عمل ادغام بازگشت ناپذیر است."
+"«{$newUsername}» ادغام کنید؟ بعد از ادغام، حساب کاربری «{$oldUsername}» "
+"دیگر در دسترس نخواهد بود. عمل ادغام بازگشت ناپذیر است."
 
 msgid "grid.preparedEmails.title"
 msgstr "آماده‌سازی الگوهای متن ایمیل"
@@ -698,10 +697,10 @@ msgid "grid.navigationMenus.navigationMenu.noneExist"
 msgstr "بدون منوی گشت‌وگذار"
 
 msgid "grid.navigationMenus.navigationMenu.selectType"
-msgstr "Choose a type..."
+msgstr "انتخاب نوع ..."
 
 msgid "grid.action.view"
-msgstr "View"
+msgstr "مشاهده"
 
 msgid "author.users.contributor.name"
 msgstr "نام"
