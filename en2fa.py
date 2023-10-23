@@ -4,6 +4,14 @@ files = ["admin","author","default","editor","emails","locale","manager","manage
 
 print('copy untransalted msgstr from en to fa')
 for file in files:
+    # Loop through each file
+    # Load the Farsi and English PO files
+    # Iterate through each entry in the Farsi PO file
+    # If the Farsi entry msgstr is empty
+    #   Find the corresponding English entry by msgid
+    #   If found, copy the English msgstr to the Farsi entry
+    # Save the modified Farsi PO file
+    # Print a message when done with each file
     fa_pofile = polib.pofile(f'locale/fa/{file}.po')
     en_pofile = polib.pofile(f'locale/en/{file}.po')
 
