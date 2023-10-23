@@ -16,6 +16,7 @@
 
 namespace PKP\controllers\grid\users\reviewer;
 
+use APP\core\Application;
 use APP\facades\Repo;
 use PKP\controllers\api\task\SendReminderLinkAction;
 use PKP\controllers\api\task\SendThankYouLinkAction;
@@ -24,6 +25,8 @@ use PKP\controllers\grid\GridColumn;
 use PKP\controllers\grid\GridHandler;
 use PKP\controllers\review\linkAction\ReviewNotesLinkAction;
 use PKP\controllers\review\linkAction\UnconsiderReviewLinkAction;
+use PKP\core\DateManagement;
+use PKP\core\PKPString;
 use PKP\submission\reviewAssignment\ReviewAssignment;
 
 class ReviewerGridCellProvider extends DataObjectGridCellProvider
@@ -168,17 +171,18 @@ class ReviewerGridCellProvider extends DataObjectGridCellProvider
     public function _getStatusText($state, $row)
     {
         $reviewAssignment = $row->getData();
+        $dateFormatShort = PKPString::convertStrftimeFormat(Application::get()->getRequest()->getContext()->getLocalizedDateFormatShort());
         switch ($state) {
             case ReviewAssignment::REVIEW_ASSIGNMENT_STATUS_AWAITING_RESPONSE:
-                return '<span class="state">' . __('editor.review.requestSent') . '</span><span class="details">' . __('editor.review.responseDue', ['date' => substr($reviewAssignment->getDateResponseDue(), 0, 10)]) . '</span>';
+                return '<span class="state">' . __('editor.review.requestSent') . '</span><span class="details">' . __('editor.review.responseDue', ['date' => DateManagement::date($dateFormatShort, strtotime($reviewAssignment->getDateResponseDue()))]) . '</span>';
             case ReviewAssignment::REVIEW_ASSIGNMENT_STATUS_ACCEPTED:
-                return '<span class="state">' . __('editor.review.requestAccepted') . '</span><span class="details">' . __('editor.review.reviewDue', ['date' => substr($reviewAssignment->getDateDue(), 0, 10)]) . '</span>';
+                return '<span class="state">' . __('editor.review.requestAccepted') . '</span><span class="details">' . __('editor.review.reviewDue', ['date' => DateManagement::date($dateFormatShort, strtotime($reviewAssignment->getDateDue()))]) . '</span>';
             case ReviewAssignment::REVIEW_ASSIGNMENT_STATUS_COMPLETE:
                 return $this->_getStatusWithRecommendation('common.complete', $reviewAssignment);
             case ReviewAssignment::REVIEW_ASSIGNMENT_STATUS_REVIEW_OVERDUE:
-                return '<span class="state overdue">' . __('common.overdue') . '</span><span class="details">' . __('editor.review.reviewDue', ['date' => substr($reviewAssignment->getDateDue(), 0, 10)]) . '</span>';
+                return '<span class="state overdue">' . __('common.overdue') . '</span><span class="details">' . __('editor.review.reviewDue', ['date' => DateManagement::date($dateFormatShort, strtotime($reviewAssignment->getDateDue()))]) . '</span>';
             case ReviewAssignment::REVIEW_ASSIGNMENT_STATUS_RESPONSE_OVERDUE:
-                return '<span class="state overdue">' . __('common.overdue') . '</span><span class="details">' . __('editor.review.responseDue', ['date' => substr($reviewAssignment->getDateResponseDue(), 0, 10)]) . '</span>';
+                return '<span class="state overdue">' . __('common.overdue') . '</span><span class="details">' . __('editor.review.responseDue', ['date' => DateManagement::date($dateFormatShort, strtotime($reviewAssignment->getDateResponseDue()))]) . '</span>';
             case ReviewAssignment::REVIEW_ASSIGNMENT_STATUS_DECLINED:
                 return '<span class="state declined" title="' . __('editor.review.requestDeclined.tooltip') . '">' . __('editor.review.requestDeclined') . '</span>';
             case ReviewAssignment::REVIEW_ASSIGNMENT_STATUS_CANCELLED:
@@ -188,7 +192,7 @@ class ReviewerGridCellProvider extends DataObjectGridCellProvider
             case ReviewAssignment::REVIEW_ASSIGNMENT_STATUS_THANKED:
                 return  $this->_getStatusWithRecommendation('editor.review.reviewerThanked', $reviewAssignment);
             case ReviewAssignment::REVIEW_ASSIGNMENT_STATUS_REQUEST_RESEND:
-                return '<span class="state reconsider">' . __('editor.review.ReviewerResendRequest') . '</span><span class="details">' . __('editor.review.responseDue', ['date' => substr($reviewAssignment->getDateDue(), 0, 10)]) . '</span>';
+                return '<span class="state reconsider">' . __('editor.review.ReviewerResendRequest') . '</span><span class="details">' . __('editor.review.responseDue', ['date' => DateManagement::date($dateFormatShort, strtotime($reviewAssignment->getDateDue()))]) . '</span>';
             default:
                 return '';
         }

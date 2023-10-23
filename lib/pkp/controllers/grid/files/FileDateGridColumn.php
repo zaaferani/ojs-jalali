@@ -20,6 +20,7 @@ namespace PKP\controllers\grid\files;
 use APP\core\Application;
 use PKP\controllers\grid\ColumnBasedGridCellProvider;
 use PKP\controllers\grid\GridColumn;
+use PKP\core\DateManagement;
 use PKP\core\PKPString;
 
 class FileDateGridColumn extends GridColumn
@@ -69,7 +70,7 @@ class FileDateGridColumn extends GridColumn
         assert($submissionFile instanceof \PKP\submissionFile\SubmissionFile);
         $mtimestamp = strtotime($submissionFile->getData('updatedAt'));
         $dateFormatLong = PKPString::convertStrftimeFormat(Application::get()->getRequest()->getContext()->getLocalizedDateFormatLong());
-        $date = date($dateFormatLong, $mtimestamp);
+        $date = DateManagement::date($dateFormatLong, $mtimestamp);
         // File age
         $age = (int)floor((date('U') - $mtimestamp) / 86400);
         switch (true) {

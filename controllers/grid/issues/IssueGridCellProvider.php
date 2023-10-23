@@ -24,6 +24,7 @@ use PKP\controllers\grid\GridHandler;
 use PKP\core\PKPString;
 use PKP\linkAction\LinkAction;
 use PKP\linkAction\request\AjaxModal;
+use PKP\core\DateManagement;
 
 class IssueGridCellProvider extends GridCellProvider
 {
@@ -92,7 +93,7 @@ class IssueGridCellProvider extends GridCellProvider
                 if ($datePublished) {
                     $datePublished = strtotime($datePublished);
                 }
-                return ['label' => $datePublished ? date($this->dateFormatShort, $datePublished) : ''];
+                return ['label' => $datePublished ? DateManagement::date($this->dateFormatShort, $datePublished) : ''];
             case 'numArticles':
                 return ['label' => $issue->getNumArticles()];
             default: assert(false);

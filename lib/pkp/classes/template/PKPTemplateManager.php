@@ -682,6 +682,12 @@ class PKPTemplateManager extends Smarty
         }
 
         $this->addJavaScript(
+            'datepickerlocal',
+            $baseUrl . '/lib/pkp/js/lib/jquery/plugins/persian-datepicker.js',
+            $args
+        );
+
+        $this->addJavaScript(
             'plUpload',
             $baseUrl . '/lib/pkp/lib/vendor/moxiecode/plupload/js/plupload.full.min.js',
             $args

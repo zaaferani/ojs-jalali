@@ -26,6 +26,7 @@ use PKP\controllers\grid\GridHandler;
 use PKP\core\PKPString;
 use PKP\note\Note;
 use PKP\submissionFile\SubmissionFile;
+use PKP\core\DateManagement;
 
 class QueryNotesGridCellProvider extends DataObjectGridCellProvider
 {
@@ -66,7 +67,7 @@ class QueryNotesGridCellProvider extends DataObjectGridCellProvider
 
         switch ($columnId) {
             case 'from':
-                return ['label' => ($user ? $user->getUsername() : '&mdash;') . '<br />' . date($datetimeFormatShort, strtotime($element->getDateCreated()))];
+                return ['label' => ($user ? $user->getUsername() : '&mdash;') . '<br />' . DateManagement::date($datetimeFormatShort, strtotime($element->getDateCreated()))];
         }
 
         return parent::getTemplateVarsFromRowColumn($row, $column);
