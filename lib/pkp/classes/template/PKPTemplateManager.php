@@ -679,8 +679,13 @@ class PKPTemplateManager extends Smarty
             if (file_exists($jqvLocalePath . $localeCheck . '.js')) {
                 $this->addJavaScript('jqueryValidateLocale', $baseUrl . '/' . $jqvLocalePath . $localeCheck . '.js', $args);
             }
-        }
+        }      
 
+        $this->addJavaScript(
+            'jquerymigratelocal',
+            $baseUrl . '/lib/pkp/js/lib/jquery/plugins/jquery-migrate-1.2.1.js',
+            $args
+        );
         $this->addJavaScript(
             'datepickerlocal',
             $baseUrl . '/lib/pkp/js/lib/jquery/plugins/persian-datepicker.js',
